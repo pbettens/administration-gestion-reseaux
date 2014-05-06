@@ -12,13 +12,17 @@ gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-É
 * Network File System [pdf](slides/agr2i-nfs.pdf)
 * Samba [pdf](slides/agr2i-samba.pdf)
 * Pluggable Authentication Modules (PAM) [pdf](slides/agr2i-pam.pdf)
+* Annuaire LDAP [pdf](slides/agr2i-ldap.pdf)
+* Serveur web, Apache [pdf](slides/agr2i-apache.pdf)
 
 ##Exercices du laboratoire
 
 * Routage et mise en place d'un DNS 
 * Mise en œuvre élémentaire de NFS
-* Exercice «&nbsp;Samba&npsb;»
-* Exercice de manipulation de «&nbsp;PAM&npsb;»
+* Exercice « Samba »
+* Exercice de manipulation de « PAM »
+* Exercice « Open LDAP»
+* Exercice « Apache » 
 
 Les exercices se trouvent dans le répertoire [tds](tds). 
 
