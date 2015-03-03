@@ -26,6 +26,10 @@ gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-É
 
 Les exercices se trouvent dans le répertoire [tds](tds). 
 
+##Documentation
+
+*voir le répertoire* [doc](doc)
+
 
 
 [![CC](cc-by-nc-sa-80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
