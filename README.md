@@ -18,8 +18,8 @@ gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-É
 ##Exercices du laboratoire
 
 * Routage et mise en place d'un DNS [pdf](tds/AGR2i-TD1-routage-dns.pdf) 
+* Exercice « Samba » [pdf](tds/AGR2i-TD2-samba.pdf)
 * Mise en œuvre élémentaire de NFS
-* Exercice « Samba »
 * Exercice de manipulation de « PAM »
 * Exercice « Open LDAP»
 * Exercice « Apache » 
