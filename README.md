@@ -1,9 +1,11 @@
 #AGR2i Administration et Gestion des Réseaux
 
-(Pour une visualisation plus jolie, [documentup](http://documentup.com/pbettens/AGR2i-Slides))
+([Pour une visualisation plus jolie](http://pbettens.github.io/AGR2i-ressources))
 
 Supports (*slides* et exercices de laboratoires) du cours d'administration et
 gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-ÉSI.
+
+Cette activité d'apprentissage fait partie de l'UE [RESi4](http://www.heb.be/esi/grilleI4_fr.htm)
 
 ##Slides
 
