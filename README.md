@@ -34,7 +34,7 @@ Les exercices se trouvent dans le répertoire
 
 ##Documentation
 
-*voir le répertoire* [doc](http://github.com/pbettens/AGR2i-Slides/doc)
+*voir le répertoire* [doc]doc)
 
 
 
