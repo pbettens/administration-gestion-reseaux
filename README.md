@@ -37,5 +37,5 @@ Les exercices se trouvent dans le répertoire
 
 
 
-[![CC](cc-by-nc-sa-80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
+[![CC](cc-by-sa.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.fr)
 
