@@ -1,4 +1,4 @@
-#AGR2i Administration et Gestion des Réseaux
+# AGR2i Administration et Gestion des Réseaux
 
 Supports (*slides* et exercices de laboratoires) du cours d'administration et
 gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-ÉSI.
@@ -6,7 +6,7 @@ gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-É
 Cette activité d'apprentissage fait partie de l'UE 
 [RESi4](http://www.heb.be/esi/grilleI4_fr.htm)
 
-##Slides
+## Slides
 
 * Présentation du cours et rappels réseaux
   [pdf](slides/agr2i-présentation.pdf)
@@ -18,7 +18,7 @@ Cette activité d'apprentissage fait partie de l'UE
 * Annuaire LDAP [pdf](slides/agr2i-ldap.pdf)
 * Serveur web, Apache [pdf](slides/agr2i-apache.pdf)
 
-##Exercices du laboratoire
+## Exercices du laboratoire
 
 * Routage et mise en place d'un DNS
   [pdf](tds/AGR2i-TD1-routage-dns.pdf) 
@@ -31,7 +31,7 @@ Cette activité d'apprentissage fait partie de l'UE
 Les exercices se trouvent dans le répertoire
 [tds](tds). 
 
-##Documentation
+## Documentation
 
 *voir le répertoire* [doc](doc). 
 
