@@ -1,39 +1,38 @@
-# AGR2i Administration et Gestion des Réseaux
+# AGR Administration et Gestion des Réseaux
 
-Supports (*slides* et exercices de laboratoires) du cours d'administration et
-gestion des réseaux de BAC2 «&nbsp;informatique industrielle&nbsp;» à HEB-ÉSI.
+Supports divers du cours d'administration et gestion des réseaux de BAC2
+«&nbsp;informatique industrielle&nbsp;» à HEB-ESI.
 
-Cette activité d'apprentissage fait partie de l'UE 
-[RESi4](http://www.heb.be/esi/grilleI4_fr.htm)
+[Fiche UE du cours](https://horaires.esi-bru.be/he2besi-web/online/cours/ac2021_agri4_agr.html)
 
-## Slides
+## Cours
 
-* Présentation du cours et rappels réseaux
-  [pdf](slides/agr2i-présentation.pdf)
-* Domain Name Server [pdf](slides/agr2i-dns.pdf)
-* Network File System [pdf](slides/agr2i-nfs.pdf)
-* Samba [pdf](slides/agr2i-samba.pdf)
-* Pluggable Authentication Modules (PAM)
-  [pdf](slides/agr2i-pam.pdf)
-* Annuaire LDAP [pdf](slides/agr2i-ldap.pdf)
-* Serveur web, Apache [pdf](slides/agr2i-apache.pdf)
+Le cours est essentiellement axé sur l'administration linux. Ms Windows n'y est
+(quasiment) pas abordé[^f1].
 
-## Exercices du laboratoire
+[^f1]: Au vu du temps consacré à l'administration système dans l'option industrielle, il faut faire des choix. Choisir linux… est le bon :-) 
 
-* Routage et mise en place d'un DNS
-  [pdf](tds/AGR2i-TD1-routage-dns.pdf) 
-* Exercice « Samba » [pdf](tds/AGR2i-TD2-samba.pdf)
-* Mise en œuvre élémentaire de NFS
-* Exercice de manipulation de « PAM »
-* Exercice « Open LDAP»
-* Exercice « Apache » 
+Les sujets disponibles sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
 
-Les exercices se trouvent dans le répertoire
-[tds](tds). 
+- Le syllabus (_en cours de rédaction_) se trouve dans le répertoire [book](notes/book).
+- Les exercices se trouvent dans le répertoire [tds](tds). 
+- Les _slides_ se trouvent dans le répertoires [slides](slides).
+- La documentation dans le répertoire [doc](doc). 
 
-## Documentation
 
-*voir le répertoire* [doc](doc). 
+## Rédaction des supports
+
+Les notes sont rédigées en _markdown_ avec _pandoc_ / LaTeX et certaines avec LibreOffice. 
+
+## Contribution et participation
+
+Une bonne manière de contribuer est de rapporter les erreurs et de proposer des améliorations. Ceci peut se faire grâce aux **issues**. 
+
+Il est également possible de discuter dans la page dédiée. 
+
+## Auteur
+
+Pierre Bettens (_pbt_) <pbettens@he2b.be>
 
 
 
