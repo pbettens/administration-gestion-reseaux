@@ -8,9 +8,7 @@ Supports divers du cours d'administration et gestion des réseaux de BAC2
 ## Cours
 
 Le cours est essentiellement axé sur l'administration linux. Ms Windows n'y est
-(quasiment) pas abordé[^f1].
-
-[^f1]: Au vu du temps consacré à l'administration système dans l'option industrielle, il faut faire des choix. Choisir linux… est le bon :-) 
+(quasiment) pas abordé[^f1](Au vu du temps consacré à l'administration système dans l'option industrielle, il faut faire des choix. Choisir linux… est le bon :-)) 
 
 Les sujets disponibles sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
 
