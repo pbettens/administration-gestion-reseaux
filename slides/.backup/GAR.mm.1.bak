@@ -1,0 +1,1578 @@
+<map version="0.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<node TEXT="AGR2i&lt;br/&gt;&#xa;Administration et Gestion des R&#xe9;seaux" ID="Freemind_Link_1074065322" CREATED="1135713971945" MODIFIED="1264584622606">
+<font NAME="SansSerif" SIZE="15" BOLD="true"/>
+<hook NAME="MapStyle" max_node_width="600"/>
+<node TEXT="Organisation" FOLDED="true" POSITION="right" ID="Freemind_Link_1443631455" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="Cours - laboratoires (37.5h)" ID="ID_392266479" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="Expos&#xe9; oral" ID="ID_1808914812" CREATED="1135713971945" MODIFIED="1135713971945"/>
+<node TEXT="Manipulation" ID="ID_313651619" CREATED="1135713971945" MODIFIED="1135713971945"/>
+</node>
+<node TEXT="&#xc9;valuation" ID="Freemind_Link_468827574" CREATED="1135713971945" MODIFIED="1232377665076">
+<node TEXT="Examen oral au terme du cours" ID="ID_789821362" CREATED="1135713971945" MODIFIED="1135713971945">
+<font NAME="SansSerif" SIZE="12" ITALIC="true"/>
+</node>
+<node TEXT="Evaluation du &lt;i&gt;savoir&lt;/i&gt; par le biais d&apos;une question th&#xe9;orique ouverte" ID="ID_151753518" CREATED="1135713971945" MODIFIED="1135713971945"/>
+<node TEXT="Evaluation du &lt;i&gt;savoir-faire&lt;/i&gt; par le biais d&apos;une manipulation" ID="ID_736486127" CREATED="1135713971945" MODIFIED="1135713971945"/>
+</node>
+</node>
+<node TEXT="Organisation - Supports" POSITION="right" ID="Freemind_Link_763046392" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="Slides " ID="ID_1977672456" CREATED="1135713971945" MODIFIED="1135713971945"/>
+<node TEXT="Supports divers" ID="Freemind_Link_390535001" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="Internet" ID="Freemind_Link_1603774251" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="&lt;a href=&quot;http://esi.namok.be&quot;&gt;http://esi.namok.be&lt;/a&gt;" ID="Freemind_Link_613848296" CREATED="1135713971945" MODIFIED="1138290238722"/>
+<node TEXT="&lt;a href=&quot;http://del.icio.us/pit/gar&quot;&gt;http://del.icio.us/pit/gar&lt;/a&gt; &#xa; Bookmarks" ID="ID_1476296447" CREATED="1135713971945" MODIFIED="1135713971945"/>
+<node TEXT="IM&lt;br/&gt; &#xa; - IRC (&lt;i&gt;irc.freenode.net&lt;/i&gt;  / \#esi) &lt;br/&gt;&#xa; - Jabber (&lt;i&gt; esi@chat.jabberfr.org&lt;/i&gt;)" ID="Freemind_Link_1770339151" CREATED="1264584651944" MODIFIED="1264584879610"/>
+</node>
+</node>
+</node>
+<node TEXT="Organisation - Supports" FOLDED="true" POSITION="right" ID="Freemind_Link_1074499233" CREATED="1135713971945" MODIFIED="1135713971945">
+<node TEXT="R&#xe9;f&#xe9;rences" FOLDED="true" ID="Freemind_Link_1672749897" CREATED="1135713971945" MODIFIED="1170701486659">
+<node TEXT="[kirch] Administration r&#xe9;seaux sous Linux&lt;br /&gt;&#xa;&lt;i&gt;Olaf KIRSH et Terry DAWSON&lt;/i&gt; &lt;br /&gt;&#xa;ed. O&apos;REILLY  " ID="Freemind_Link_1050654234" CREATED="1135713971945" MODIFIED="1170701127470"/>
+<node TEXT="[hunt] TCP/IP Administration de r&#xe9;seau &lt;br /&gt;&#xa;&lt;i&gt;Craig Hunt&lt;/i&gt;&lt;br /&gt;&#xa;ed. O&apos;REILLY" ID="Freemind_Link_360677539" CREATED="1135713971945" MODIFIED="1170701134610"/>
+<node TEXT="[ldap] LDAP,installation et mise en oeuvre &lt;br /&gt;&#xa;&lt;i&gt;Gerard CARTER&lt;/i&gt;&lt;br/&gt;&#xa;ed. O&apos;REILLY" ID="Freemind_Link_1941515462" CREATED="1135713971945" MODIFIED="1170701250848"/>
+<node TEXT="[samba] Samba, installation et mise en oeuvre &lt;br /&gt; &#xa;&lt;i&gt;Robert Eckstein, Davis Collier-Brawn, Peter Kelly &lt;/i&gt; &lt;br /&gt;&#xa;ed. O&apos;REILLY" ID="Freemind_Link_1205079258" CREATED="1135713971945" MODIFIED="1170701261356"/>
+<node TEXT="[welsh] Le syst&#xe8;me Linux &lt;br /&gt;&#xa;&lt;i&gt;Welsh, Dalheimer et Kaufmann&lt;/i&gt; &lt;br /&gt;&#xa;ed. O&apos;REILLY" ID="Freemind_Link_694899352" CREATED="1135713971945" MODIFIED="1170701543316"/>
+</node>
+<node TEXT="&lt;b&gt;Remarque&lt;/b&gt; Ces r&#xe9;f&#xe9;rences sont maintenant indisponibles en fran&#xe7;ais, pr&#xe9;f&#xe9;rez les versions anglaises" ID="Freemind_Link_25761650" CREATED="1264584728701" MODIFIED="1264584761140"/>
+</node>
+<node TEXT="Au menu" FOLDED="true" POSITION="right" ID="Freemind_Link_1051023261" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<node TEXT="Organisation" ID="ID_1434100491" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<font NAME="SansSerif" SIZE="12"/>
+<edge WIDTH="thin"/>
+</node>
+<node TEXT="Organisation - Supports" ID="ID_241713274" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000"/>
+<node TEXT="Organisation du laboratoire" ID="ID_101525143" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<font NAME="SansSerif" SIZE="12"/>
+<edge WIDTH="thin"/>
+</node>
+<node TEXT="Organisation du travail" ID="ID_1375668972" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000"/>
+<node TEXT="Introduction &#xe0; Linux (&lt;i&gt;deuxi&#xe8;me partie&lt;/i&gt;)" ID="ID_1534148988" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<font NAME="SansSerif" SIZE="12"/>
+<edge WIDTH="thin"/>
+</node>
+<node TEXT="Rappels r&#xe9;seaux " ID="ID_1940929393" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<font NAME="SansSerif" SIZE="12"/>
+<edge WIDTH="thin"/>
+</node>
+</node>
+<node TEXT="Au menu" FOLDED="true" POSITION="right" ID="Freemind_Link_1922983235" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<node TEXT="DNS - Domain Name Server &lt;br /&gt;&#xa;&lt;i&gt;(avec manipulations)&lt;/i&gt;" ID="ID_907130393" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000">
+<font NAME="SansSerif" SIZE="12"/>
+<edge WIDTH="thin"/>
+</node>
+<node TEXT="NIS - Network Information System" ID="ID_413760150" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000"/>
+<node TEXT="NFS - Network File System" ID="ID_545808397" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000"/>
+<node TEXT="SAMBA&lt;br /&gt;&#xa;&lt;i&gt;(avec manipulations)&lt;/i&gt;" ID="ID_336951252" CREATED="1135713971946" MODIFIED="1135713971946" COLOR="#990000"/>
+<node TEXT="PAM - Plugeable Authentification Modules&lt;br /&gt;&#xa;&lt;i&gt;(avec manipulations)&lt;/i&gt;" ID="ID_1297995813" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000"/>
+<node TEXT="LDAP - Lightweight Directory Access Protocol&lt;br /&gt;&#xa;&lt;i&gt;(avec manipulations)&lt;/i&gt;" ID="ID_1881002430" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000"/>
+</node>
+<node TEXT="Au menu" FOLDED="true" POSITION="right" ID="Freemind_Link_1032869797" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000">
+<node TEXT="ACL - Access Control List" ID="ID_1742254624" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000"/>
+<node TEXT="Serveur d&apos;impression" ID="ID_1585106793" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000">
+<node TEXT="CUPS - Common Unix Printing System" ID="ID_1910883898" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000"/>
+</node>
+<node TEXT="Serveur web " ID="ID_172677747" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000">
+<node TEXT="Apache&lt;br /&gt;&#xa;&lt;i&gt;(avec manipulations)&lt;/i&gt;" ID="ID_451640917" CREATED="1135713971947" MODIFIED="1135713971947" COLOR="#990000"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="Freemind_Link_990525043" CREATED="1169675876538" MODIFIED="1232377912075" COLOR="#338800">
+<font NAME="Verdana" SIZE="12"/>
+<edge WIDTH="thin"/>
+<node TEXT="&lt;h1&gt;Introduction &#xe0; Linux (II)&lt;/h1&gt; &#xa;\begin{flushright}&#xa;  \item Rappel du cours SYS1&#xa;  \item Gestion des utilisateurs &#xa;  \item Scripts de d&#xe9;marrage &#xa;  \item Shutdown &#xa;  \item Sauvegarde de fichiers &#xa;  \item Ex&#xe9;cution de t&#xe2;ches p&#xe9;riodiques &lt;tt&gt;cron&lt;/tt&gt; &#xa;  \item Manipulations &#xa;\end{flushright}" ID="Freemind_Link_1249536474" CREATED="1169675891745" MODIFIED="1232377913494" COLOR="#338800"/>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="Freemind_Link_1829225916" CREATED="1232377780658" MODIFIED="1295989626449">
+<node TEXT="Rappel du cours SYS1" ID="Freemind_Link_277342850" CREATED="1135713971947" MODIFIED="1295989621088">
+<edge WIDTH="thin"/>
+<node TEXT="Syst&#xe8;me de fichiers" FOLDED="true" ID="Freemind_Link_761401196" CREATED="1135713971947" MODIFIED="1295990341291">
+<edge WIDTH="thin"/>
+<node TEXT="Arborescance" ID="Freemind_Link_676368142" CREATED="1232377946558" MODIFIED="1232377949656"/>
+<node TEXT=" &lt;img width=&quot;60%&quot; src=&quot;img/hfs-ast-cam-ac-uk-jss.png&quot; /&gt;" ID="ID_159571547" CREATED="1295989964221" MODIFIED="1295990299329"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_829745437" CREATED="1295989632181" MODIFIED="1295989634094">
+<node TEXT="Rappel du cours SYS1 (suite)" FOLDED="true" ID="ID_1603482265" CREATED="1135713971947" MODIFIED="1295991088443">
+<edge WIDTH="thin"/>
+<node TEXT="Droits d&apos;acc&#xe8;s" ID="ID_601404373" CREATED="1135713971947" MODIFIED="1232377795326">
+<edge WIDTH="thin"/>
+<node TEXT="&lt;tt&gt;drwxrwxrwx&lt;/tt&gt;" ID="ID_639154157" CREATED="1295990357845" MODIFIED="1295990381057"/>
+</node>
+<node TEXT="Notions de processus" ID="ID_708889629" CREATED="1135713971947" MODIFIED="1232377795732">
+<edge WIDTH="thin"/>
+<node TEXT="&lt;tt&gt;ps, top&lt;/tt&gt;" ID="ID_437242639" CREATED="1295990993109" MODIFIED="1295991000934"/>
+<node TEXT="Signaux, &lt;tt&gt;kill&lt;/tt&gt;" ID="ID_979602022" CREATED="1295991068539" MODIFIED="1295991080439"/>
+</node>
+<node TEXT="Shell,  &lt;tt&gt;bash&lt;/tt&gt;" ID="ID_420050637" CREATED="1135713971947" MODIFIED="1232377796185">
+<edge WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_88966260" CREATED="1135713971947" MODIFIED="1135713971947" STYLE="fork">
+<node TEXT="Gestion des utilisateurs" FOLDED="true" ID="Freemind_Link_25201107" CREATED="1135713971947" MODIFIED="1295992043218">
+<node TEXT="User - Group - Other (&lt;tt&gt;u-g-o&lt;/tt&gt;)" ID="ID_131490287" CREATED="1135713971947" MODIFIED="1135713971947"/>
+<node TEXT="&lt;i&gt;Group&lt;/i&gt;" ID="ID_678131144" CREATED="1295991677083" MODIFIED="1295991681390">
+<node TEXT="Le fichier &lt;tt&gt;/etc/groups&lt;/tt&gt;" ID="ID_709092357" CREATED="1135713971947" MODIFIED="1295991691430"/>
+<node TEXT="Ajout d&apos;un utilisateur &#xe0; un groupe &lt;tt&gt;adduser &lt;user&gt; &lt;group&gt;&lt;/tt&gt;" ID="ID_1652387104" CREATED="1295991336430" MODIFIED="1295991722056"/>
+<node TEXT="Liste des groupes &lt;tt&gt;groups&lt;/tt&gt;" ID="ID_1762554695" CREATED="1295991336430" MODIFIED="1295991732814"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1201649383" CREATED="1135713971947" MODIFIED="1135713971947">
+<node TEXT="Gestion des utilisateurs" FOLDED="true" ID="Freemind_Link_13171710" CREATED="1135713971947" MODIFIED="1295992044083">
+<node TEXT="Ajout d&apos;un utilisateur &lt;br /&gt;&#xa;&lt;tt&gt;adduser ...&lt;/tt&gt;" ID="ID_1168121917" CREATED="1135713971947" MODIFIED="1135713971947">
+<node TEXT="Modification de &lt;tt&gt;/etc/passwd&lt;/tt&gt;" ID="ID_646302220" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Modification de &lt;tt&gt;/etc/group&lt;/tt&gt;" ID="ID_381248921" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Copie des fichiers &quot;skelettes&quot;" ID="ID_1671377621" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Positionnement du mask (umask)" ID="ID_117215565" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Cr&#xe9;ation (&#xe9;ventuelle) d&apos;un r&#xe9;pertoire home" ID="ID_1357520021" CREATED="1135713971948" MODIFIED="1135713971948"/>
+</node>
+<node TEXT="&lt;tt&gt;adduser&lt;/tt&gt; &lt;i&gt;versus&lt;/i&gt; &lt;tt&gt;useradd&lt;/tt&gt;" ID="ID_1089102726" CREATED="1295991246619" MODIFIED="1295991263927"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1526115468" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Gestion des utilisateurs" FOLDED="true" ID="Freemind_Link_71529659" CREATED="1135713971948" MODIFIED="1295992044993">
+<node TEXT="Le fichier &lt;tt&gt;/etc/passwd&lt;/tt&gt;" ID="ID_559232864" CREATED="1135713971947" MODIFIED="1295991617207"/>
+<node TEXT="Le fichier &lt;tt&gt;/etc/shadow&lt;/tt&gt;" ID="ID_1425336745" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Notions plus pointues&lt;br /&gt;&#xa;(dur&#xe9;e de validit&#xe9;, ...)" ID="ID_448307021" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Commande &lt;tt&gt;chage&lt;/tt&gt;" ID="ID_641981764" CREATED="1135713971948" MODIFIED="1135713971948"/>
+</node>
+<node TEXT="D&#xe9;sactivation (temporaire) d&apos;un compte" ID="ID_1886850039" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Chgt du passwd" ID="ID_749956417" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Chgt du shell (&lt;tt&gt;/bin/false&lt;/tt&gt;)" ID="ID_1822828231" CREATED="1135713971948" MODIFIED="1135713971948"/>
+</node>
+<node TEXT="Suppression d&apos;un utilisateur,&#xa;&lt;tt&gt;userdel&lt;/tt&gt;" ID="Freemind_Link_962295697" CREATED="1135713971948" MODIFIED="1264587992912">
+<node TEXT="&lt;tt&gt;userdel &lt;login&gt; -\,-remove-all-file -\,-remove-home&lt;/tt&gt;" ID="Freemind_Link_135943679" CREATED="1264587994990" MODIFIED="1295991652759"/>
+<node TEXT="&lt;tt&gt;deluser&lt;/tt&gt; &lt;i&gt;versus&lt;/i&gt; &lt;tt&gt;userdel&lt;/tt&gt;" ID="ID_1468002561" CREATED="1295991265280" MODIFIED="1295991280280"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1203523951" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Scripts de d&#xe9;marrage" FOLDED="true" ID="Freemind_Link_1301350063" CREATED="1135713971948" MODIFIED="1295992066844">
+<node TEXT="D&#xe9;marrage du syst&#xe8;me &lt;br/&gt;&#xa;&lt;i&gt;(premi&#xe8;re partie en tr&#xe8;s bref)&lt;/i&gt;" ID="ID_1236604341" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="BIOS" ID="ID_1206146979" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Chargeur de d&#xe9;marrage &lt;br /&gt;&#xa; - lilo &lt;br /&gt;&#xa; - grub &lt;br /&gt;&#xa; - grub 2" ID="ID_1694317887" CREATED="1135713971948" MODIFIED="1295992062752"/>
+<node TEXT="Noyau &lt;br /&gt;&#xa; - &lt;tt&gt;initrd.img&lt;/tt&gt; &#xe9;ventuel &lt;br /&gt;&#xa; - &lt;tt&gt;vmlinuz&lt;/tt&gt; ou autre &lt;br /&gt;" ID="ID_32281424" CREATED="1135713971948" MODIFIED="1135713971948"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_674139924" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Scripts de d&#xe9;marrage" FOLDED="true" ID="Freemind_Link_1263120423" CREATED="1135713971948" MODIFIED="1295992074793">
+<node TEXT="Syst&#xe8;me SysV" ID="ID_980185913" CREATED="1135713971948" MODIFIED="1135713971948">
+<node TEXT="Ex&#xe9;cution de &lt;tt&gt;/etc/inittab&lt;/tt&gt;" ID="ID_1082433871" CREATED="1135713971948" MODIFIED="1135713971948"/>
+<node TEXT="Ex&#xe9;cution des scripts &lt;tt&gt;/etc/rc?.d&lt;/tt&gt; &lt;br /&gt;&#xa;&lt;i&gt;Chaque script est un lien  vers le script se &#xa;trouvant dans &lt;tt&gt;/etc/init.d&lt;/tt&gt;&lt;/i&gt;&lt;br/&gt;&#xa; - &lt;b&gt;S&lt;/b&gt; pour start &lt;br /&gt;&#xa; - &lt;b&gt;K&lt;/b&gt; pour kill &lt;br /&gt;&#xa; - Chaque r&#xe9;pertoire comprend un ensemble de liens&#xa;&#xa;" ID="Freemind_Link_1079929656" CREATED="1135713971948" MODIFIED="1264613440312"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" FOLDED="true" POSITION="right" ID="ID_247769369" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Shutdown" ID="Freemind_Link_1972437679" CREATED="1135713971949" MODIFIED="1295992125615">
+<node TEXT="L&apos;arr&#xea;t du syst&#xe8;me est une pr&#xe9;rogative du root ... sauf mention du contraire !" ID="ID_723218304" CREATED="1135713971949" MODIFIED="1135713971949">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node TEXT="Arr&#xea;t du syst&#xe8;me" ID="ID_746251581" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Pr&#xe9;venir les utilisateurs !" ID="ID_1196610146" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Arr&#xea;t de chacun des scripts (&lt;tt&gt;rc*.d&lt;/tt&gt;)" ID="ID_210483998" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Arr&#xea;t du processus &lt;tt&gt;init&lt;/tt&gt; (id=1)" ID="ID_645749808" CREATED="1135713971949" MODIFIED="1135713971949"/>
+</node>
+</node>
+<node TEXT="[]\bigskip&lt;b&gt;Remarque&lt;/b&gt; Avec les versions &lt;i&gt;desktop&lt;/i&gt; &#xa;de linux, cette contrainte tend &#xe0; disparaitre" ID="Freemind_Link_1504466674" CREATED="1264613455304" MODIFIED="1328025133895"/>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="Freemind_Link_1116151336" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Shutdown" FOLDED="true" ID="Freemind_Link_1725300771" CREATED="1135713971949" MODIFIED="1295992416496">
+<node TEXT="Diverses mani&#xe8;res de faire" ID="ID_560376333" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Commande &lt;tt&gt;shutdown&lt;/tt&gt;&lt;br/&gt;&#xa;Exemple, &lt;tt&gt;shutdown -h -F +10 System will  shutdown in 10 minutes&lt;/tt&gt;" ID="ID_127417137" CREATED="1135713971949" MODIFIED="1295992302379"/>
+<node TEXT="Commande &lt;tt&gt;halt&lt;/tt&gt;" ID="ID_1200006189" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Commande &lt;tt&gt; reboot&lt;/tt&gt;" ID="ID_636576899" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Commande &lt;tt&gt; init &apos;x&apos;&lt;/tt&gt;" ID="ID_1193931013" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="&lt;tt&gt;Ctrl-Alt-Del&lt;/tt&gt; ... &lt;i&gt;pq et qd &#xe7;a marche ? &lt;/i&gt;" ID="ID_1446637324" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="La s&#xe9;rie &#xe0; &#xe9;viter ... &lt;br /&gt;&#xa; - bouton ON/OFF &lt;br /&gt;&#xa; - Tirer la fiche ou couper le cable &lt;br /&gt;&#xa; - Bouton reset" ID="ID_362150555" CREATED="1135713971949" MODIFIED="1135713971949"/>
+</node>
+<node TEXT="... ou cliquer o&#xf9; il faut dans l&apos;environnement graphique" ID="Freemind_Link_535600950" CREATED="1264613530454" MODIFIED="1264613550385"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" FOLDED="true" POSITION="right" ID="Freemind_Link_237820386" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="[]&lt;i&gt;L&apos;importance d&apos;un backup n&apos;apparait  jamais aussi cruciale que le jour de la perte des  donn&#xe9;es.&lt;/i&gt;\bigskip" ID="Freemind_Link_602547319" CREATED="1264613633921" MODIFIED="1328025196974"/>
+<node TEXT="\pause Sauvegarde des fichiers" ID="Freemind_Link_186744173" CREATED="1135713971949" MODIFIED="1264614121021">
+<node TEXT="&lt;i&gt;L&apos;importance d&apos;un backup n&apos;apparait &#xa;jamais aussi cruciale que le jour de la perte des &#xa;donn&#xe9;es.&lt;/i&gt;" ID="Freemind_Link_1808497095" CREATED="1135713971949" MODIFIED="1264613632291"/>
+<node TEXT="D&#xe9;finition d&apos;une politique de sauvegarde" ID="ID_126559577" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Que sauvegarder ? " ID="ID_1079904705" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Sur quel(s) support(s) ? " ID="ID_1455222758" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Moyens" ID="ID_634886181" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="Remarques" ID="ID_321644388" CREATED="1135713971949" MODIFIED="1135713971949"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_228223661" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Sauvegarde des fichiers" FOLDED="true" ID="Freemind_Link_662090188" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="D&#xe9;finition d&apos;une politique de sauvegarde" FOLDED="true" ID="Freemind_Link_1102668114" CREATED="1135713971949" MODIFIED="1135713971949">
+<node TEXT="Que sauvegarder ?" ID="ID_1972097320" CREATED="1135713971949" MODIFIED="1135713971949"/>
+<node TEXT="&#xc0; quelle fr&#xe9;quence ?" ID="Freemind_Link_1386809558" CREATED="1135713971949" MODIFIED="1264595281283"/>
+<node TEXT="Sur quel support ?" ID="ID_1016663721" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Quel peut-&#xea;tre la p&#xe9;riode d&apos;indisponibilit&#xe9; ?" ID="ID_2549740" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Quel co&#xfb;t engage-t-on ?" ID="ID_285622791" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="De quel type d&apos;erreur se prot&#xe8;ge-t-on ?  &lt;br /&gt;&#xa; - Cause naturelle &lt;br /&gt;&#xa; - D&#xe9;faillance mat&#xe9;rielle &lt;br /&gt;&#xa; - D&#xe9;faillance humaine &lt;br /&gt;" ID="Freemind_Link_330492679" CREATED="1135713971950" MODIFIED="1169549800612"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_644366393" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Sauvegarde des fichiers - Que sauvegarder ? " FOLDED="true" ID="Freemind_Link_1241016467" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Fichiers personnels &lt;br /&gt;" ID="ID_308577597" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="&lt;i&gt;Par exemple&lt;/i&gt;" ID="ID_1710374234" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Sauvegarde quotidienne. &#xa;(sur disque dur - rapide)" ID="ID_177508214" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Sauvegarde hebdomadaire &#xa;(sur bande dans le local/batiment - accessible)" ID="ID_1503546685" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Sauvegarde mensuelle &#xa;(sur bande dans un autre local/batiment - gros d&#xe9;sastre)" ID="ID_738236257" CREATED="1135713971950" MODIFIED="1135713971950"/>
+</node>
+<node TEXT="Fichiers syst&#xe8;mes" ID="ID_1108151957" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Autres .." ID="ID_1136508477" CREATED="1135713971950" MODIFIED="1135713971950"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1543667187" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Sauvegarde des fichiers - Sur quel support ? " FOLDED="true" ID="Freemind_Link_1183171503" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Disquette (1.44Mib), ZIP, CD (700Mib) ... &lt;i&gt;obsol&#xe8;tes&lt;/i&gt;" ID="Freemind_Link_1049768349" CREATED="1135713971950" MODIFIED="1264614579514"/>
+<node TEXT="DVD" ID="Freemind_Link_716544738" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Capacit&#xe9; 8-9 Gib" ID="Freemind_Link_540206203" CREATED="1135713971950" MODIFIED="1264614553183"/>
+</node>
+<node TEXT="Lecteurs USB" ID="Freemind_Link_201484722" CREATED="1232378399291" MODIFIED="1232378403427"/>
+<node TEXT="Bandes" ID="Freemind_Link_755030432" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Capacit&#xe9; jusqu&apos;&#xe0; 40 Gib" ID="Freemind_Link_974415022" CREATED="1135713971950" MODIFIED="1264614549160"/>
+<node TEXT="... voire 400Gib" ID="Freemind_Link_1413848491" CREATED="1264614542438" MODIFIED="1264614546915"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_294298772" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Sauvegarde des fichiers - Moyens" FOLDED="true" ID="Freemind_Link_109338286" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Commande &lt;tt&gt;rsync&lt;/tt&gt;" ID="ID_1572661448" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Commandes &lt;tt&gt;dump&lt;/tt&gt;, &lt;tt&gt;restore&lt;/tt&gt;" ID="ID_261926952" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Sauvegarde incr&#xe9;mentale" ID="ID_1408786657" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Sur bandes" ID="ID_1994082227" CREATED="1135713971950" MODIFIED="1135713971950"/>
+</node>
+<node TEXT="Commande &lt;tt&gt;tar&lt;/tt&gt;" ID="ID_733898072" CREATED="1135713971950" MODIFIED="1135713971950"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1392777389" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Sauvegarde des fichiers - Remarques" FOLDED="true" ID="Freemind_Link_1182072959" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Les fichiers sur supports externes sont vuln&#xe9;rables" ID="Freemind_Link_619464173" CREATED="1135713971950" MODIFIED="1264588544499"/>
+<node TEXT="Prot&#xe9;ger les supports externes" ID="ID_99101609" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Vol" ID="ID_248391143" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="Destruction" ID="ID_846957738" CREATED="1135713971950" MODIFIED="1135713971950"/>
+<node TEXT="..." ID="ID_1894513565" CREATED="1135713971950" MODIFIED="1135713971950"/>
+</node>
+<node TEXT="Pr&#xe9;parer les sc&#xe9;narios de restauration &lt;br /&gt;&#xa;(la restauration se fait toujours dans l&apos;urgence)" ID="Freemind_Link_410894862" CREATED="1135713971950" MODIFIED="1169549957291"/>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_613471583" CREATED="1135713971950" MODIFIED="1135713971950">
+<node TEXT="Ex&#xe9;cution de t&#xe2;ches p&#xe9;riodiques" FOLDED="true" ID="Freemind_Link_1472961490" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="Daemon associ&#xe9; &lt;tt&gt;cron&lt;/tt&gt;" ID="Freemind_Link_1976682043" CREATED="1135713971951" MODIFIED="1157403093574"/>
+<node TEXT="Format d&apos;un fichier cron &lt;br /&gt;&#xa;&#xa;&lt;code&gt;&#xa;#commentaire&#xa;#minute heure jour mois jour_semaine commande&#xa;0,15,30,45  12-13  *  * 1-5  /home/login/allermanger&#xa;&lt;/code&gt;" ID="ID_842642047" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="Fichiers de configuration" ID="ID_1420444415" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="&lt;tt&gt;/etc/crontab&lt;/tt&gt; (lance les fichiers cron)" ID="ID_1257887584" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;/etc/cron.allow&lt;/tt&gt;" ID="ID_1145776365" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;/etc/cron.deny&lt;/tt&gt;" ID="ID_456567817" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+</node>
+</node>
+<node TEXT="Introduction &#xe0; Linux (II)" POSITION="right" ID="ID_1264612214" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="Ex&#xe9;cution de t&#xe2;ches p&#xe9;riodiques" FOLDED="true" ID="Freemind_Link_1068307992" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="Commande &lt;tt&gt;crontab &lt;/tt&gt;" ID="ID_543947488" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="&lt;tt&gt;-e&lt;/tt&gt; &#xc9;dite le fichier crontab de l&apos;utilisateur" ID="Freemind_Link_754146604" CREATED="1135713971951" MODIFIED="1232378473349"/>
+<node TEXT="Utilise l&apos;&#xe9;diteur /usr/bin/editor" ID="ID_154117319" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="Le fichier se trouve l&#xe0; (ss debian) et ne peut &#xea;tre &#xe9;dit&#xe9;. &lt;br/&gt;&#xa;&lt;tt&gt;/var/spool/cron/crontabs/&apos;login&apos;&lt;/tt&gt;" ID="ID_103908477" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;-l&lt;/tt&gt; liste, &lt;tt&gt;-r&lt;/tt&gt; remove" ID="ID_539245795" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1110568302" CREATED="1169675907825" MODIFIED="1232378499266" COLOR="#338800">
+<node TEXT="&lt;h1&gt;Rappels r&#xe9;seaux&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item En th&#xe9;orie&#xa;  \item Routage&#xa;\end{flushright}" ID="Freemind_Link_1512665287" CREATED="1169675915016" MODIFIED="1232378547834" COLOR="#338800"/>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="ID_1096262292" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="En th&#xe9;orie" ID="Freemind_Link_816831751" CREATED="1135713971951" MODIFIED="1295989828448">
+<node TEXT="Protocole TCP/IP" ID="Freemind_Link_1039756951" CREATED="1135713971951" MODIFIED="1264589100450">
+<node TEXT="&lt;img src=&quot;img/tcpip-couches.png&quot; width=&quot;70%&quot; /&gt;" ID="ID_1459355676" CREATED="1295992434706" MODIFIED="1295992436768"/>
+</node>
+<node TEXT="Protocole ARP et RARP" ID="Freemind_Link_931572001" CREATED="1264595846624" MODIFIED="1264595876494">
+<node TEXT="&lt;img src=&quot;img/arp-ipethernet.png&quot; /&gt;" ID="ID_617025507" CREATED="1295992452802" MODIFIED="1295992454615"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="ID_1752495355" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="En th&#xe9;orie (II)" FOLDED="true" ID="Freemind_Link_1861595843" CREATED="1135713971951" MODIFIED="1295992618677">
+<node TEXT="&lt;i&gt;hostname&lt;/i&gt;, nom d&apos;hote" ID="Freemind_Link_721762617" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;i&gt;netmask&lt;/i&gt;, masque de r&#xe9;seau" ID="Freemind_Link_1419673420" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="&lt;tt&gt;192.168.208.0/18 &lt;/tt&gt;" ID="ID_1990290136" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;192.168.208.0, 255.255.192.0&lt;/tt&gt;" ID="ID_1451263790" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+<node TEXT="&lt;i&gt;gateway&lt;/i&gt;, passerelle" ID="ID_541569147" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;i&gt;broadcast&lt;/i&gt;" ID="ID_1950467116" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="Adresse dont tous les bits de la partie h&#xf4;te sont &#xe0; 1" ID="ID_1490795520" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+<node TEXT="Routage" ID="Freemind_Link_1027863921" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="Diff&#xe9;rence entre &lt;b&gt;bridge&lt;/b&gt; (&lt;i&gt;link layer&lt;/i&gt;),&#xa;&lt;b&gt;routeur&lt;/b&gt; (&lt;i&gt;network layer&lt;/i&gt;), ..." ID="Freemind_Link_141865458" CREATED="1264595367122" MODIFIED="1264595423153"/>
+<node TEXT="routage statique" ID="ID_1011484798" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="routage dynamique" ID="ID_1313311479" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+<node TEXT="Les commandes" ID="Freemind_Link_859965101" CREATED="1135713971951" MODIFIED="1135713971951">
+<node TEXT="&lt;tt&gt;ifconfig&lt;/tt&gt; ou &lt;tt&gt;ifup/ifdown&lt;/tt&gt;" ID="ID_485024721" CREATED="1135713971951" MODIFIED="1295992598711"/>
+<node TEXT="&lt;tt&gt;netstat&lt;/tt&gt; (&lt;tt&gt;-in&lt;/tt&gt;, &lt;tt&gt;-alpe&lt;/tt&gt;, ...)" ID="Freemind_Link_1488754763" CREATED="1135713971951" MODIFIED="1295992519676"/>
+<node TEXT="&lt;tt&gt;route&lt;/tt&gt;" ID="ID_611917830" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;ping&lt;/tt&gt;" ID="ID_267587825" CREATED="1135713971951" MODIFIED="1135713971951"/>
+<node TEXT="&lt;tt&gt;dig&lt;/tt&gt;" ID="ID_1757205689" CREATED="1135713971951" MODIFIED="1135713971951"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1373950657" CREATED="1135713971952" MODIFIED="1135713971952">
+<node TEXT="Configuration de l&apos;interface. &lt;br /&gt;&#xa;&lt;i&gt;Trouver l&apos;interface&lt;/i&gt;&#xa;" FOLDED="true" ID="Freemind_Link_521290426" CREATED="1135713971952" MODIFIED="1295992662587">
+<node TEXT="Appelation usuelle" ID="ID_1953117925" CREATED="1135713971952" MODIFIED="1135713971952">
+<node TEXT="&lt;tt&gt;eth&lt;i&gt;i&lt;/i&gt;&lt;/tt&gt; sous Linux" ID="ID_1101101368" CREATED="1135713971952" MODIFIED="1135713971952"/>
+<node TEXT="&lt;tt&gt;dnet&lt;i&gt;i&lt;/i&gt;&lt;/tt&gt; sous Solaris" ID="ID_1149512188" CREATED="1135713971952" MODIFIED="1135713971952"/>
+</node>
+<node TEXT="Recherche" ID="Freemind_Link_1403339530" CREATED="1135713971952" MODIFIED="1135713971952">
+<node TEXT="&lt;tt&gt;dmesg | grep eth&lt;/tt&gt; pour trouver les interfaces ethernet" ID="ID_8529377" CREATED="1135713971952" MODIFIED="1135713971952"/>
+<node TEXT="&lt;tt&gt;netstat -in&lt;/tt&gt;" ID="ID_568474554" CREATED="1135713971952" MODIFIED="1135713971952"/>
+</node>
+<node TEXT="Commande &lt;tt&gt;ifconfig&lt;/tt&gt;" ID="Freemind_Link_315793064" CREATED="1135713971959" MODIFIED="1135713971959"/>
+<node TEXT="Commande &lt;tt&gt;netstat&lt;/tt&gt;" ID="ID_1888258182" CREATED="1135713971959" MODIFIED="1135713971959"/>
+<node TEXT="Commande &lt;tt&gt;dig&lt;/tt&gt;" ID="ID_1972999994" CREATED="1135713971959" MODIFIED="1135713971959"/>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_495606561" CREATED="1135713971959" MODIFIED="1135713971959">
+<node TEXT="Configuration de l&apos;interface (&lt;tt&gt;ifconfig&lt;/tt&gt;, &lt;tt&gt;netstat&lt;/tt&gt;)" ID="Freemind_Link_292472771" CREATED="1135713971960" MODIFIED="1295992663883">
+<node TEXT="Infos" ID="ID_1481493476" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="Flag &lt;br /&gt;&#xa;   - R - running&lt;br /&gt;&#xa;   - B - broadcast&lt;br /&gt;&#xa;   - U - up&lt;br /&gt;&#xa;   - L -loopback" ID="ID_1630820428" CREATED="1135713971960" MODIFIED="1295992630261"/>
+<node TEXT="MTU - Maximum Transfert Unit &lt;br /&gt;&#xa;(taille des paquets)" ID="ID_1497978561" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="RX-&lt;i&gt;info&lt;/i&gt; (paquets re&#xe7;us)" ID="ID_755898977" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="TX - &lt;i&gt;info&lt;/i&gt; (paquets envoy&#xe9;s)" ID="ID_455231914" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="&lt;i&gt;info&lt;/i&gt; : OK - re&#xe7;u, ERR - erreur, DRP - drop, OVR - overruns" ID="ID_644211921" CREATED="1135713971960" MODIFIED="1135713971960"/>
+</node>
+<node TEXT="&lt;tt&gt;netstat -in&lt;/tt&gt;" ID="ID_127365506" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="&lt;tt&gt;ifconfig eth0&lt;/tt&gt;" ID="ID_921223321" CREATED="1135713971960" MODIFIED="1135713971960"/>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_172063709" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="Configuration de l&apos;interface (&lt;tt&gt;ifconfig&lt;/tt&gt;, &lt;tt&gt;netstat&lt;/tt&gt;)" ID="Freemind_Link_895543603" CREATED="1135713971960" MODIFIED="1295992665298">
+<node TEXT="Configuration de l&apos;interface" ID="ID_1594978877" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="&lt;tt&gt;ifconfig eth0 192.168.208.i netmask 255.255.192.0 &lt;/tt&gt;" ID="ID_1967692377" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="voir /etc/network/interfaces" ID="ID_1619758904" CREATED="1135713971960" MODIFIED="1135713971960"/>
+</node>
+<node TEXT="Activer / d&#xe9;sactiver" ID="ID_1615387382" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="&lt;tt&gt;ifconfig eth0 up&lt;/tt&gt;" ID="ID_276772284" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="&lt;tt&gt;ifconfig eth0 down&lt;/tt&gt;" ID="ID_1545945563" CREATED="1135713971960" MODIFIED="1135713971960"/>
+</node>
+<node TEXT="Mode &lt;i&gt;promiscuous&lt;/i&gt; (indiscret)" ID="ID_1068962411" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="&#xa;Par d&#xe9;faut l&apos;interface ethernet ne passe aux protocoles des couches sup&#xe9;rieures que les trames adress&#xe9;es au syst&#xe8;me local ... sauf en mode indiscret." ID="ID_503197074" CREATED="1135713971960" MODIFIED="1135713971960"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="ID_1227293634" CREATED="1295992674014" MODIFIED="1295992675709">
+<node TEXT="Configuration de l&apos;interface (&lt;tt&gt;ifup/ifdown&lt;/tt&gt;)" ID="ID_24936441" CREATED="1295992683563" MODIFIED="1295992697602">
+<node TEXT="Configuration dans le fichier &lt;tt&gt;/etc/network/interfaces&lt;/tt&gt;" ID="ID_1607958744" CREATED="1295992701015" MODIFIED="1295992718517">
+<node TEXT="&lt;code&gt;&#xa;iface pump inet dhcp &#xa;        post-up /etc/init.d/fetchmail start  &#xa;        pre-down /etc/init.d/fetchmail stop  &#xa;&#xa;iface st inet static&#xa;        adresse 192.168.210.42&#xa;        ...&#xa;&lt;/code&gt;" ID="ID_21168490" CREATED="1295992797273" MODIFIED="1295993007074"/>
+</node>
+<node TEXT="Activer/D&#xe9;sactiver" ID="ID_1954354802" CREATED="1295992719538" MODIFIED="1295992728408">
+<node TEXT="&lt;tt&gt;ifup eth0[=&lt;config&gt;]&lt;/tt&gt;" ID="ID_355068001" CREATED="1295992729962" MODIFIED="1295992757358"/>
+<node TEXT="&lt;tt&gt;ifdown eth0&lt;/tt&gt;" ID="ID_618412900" CREATED="1295992758289" MODIFIED="1295992764372"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_852250240" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="Routage" FOLDED="true" ID="Freemind_Link_527019739" CREATED="1135713971960" MODIFIED="1296657224610">
+<node TEXT="Routage minimal" ID="Freemind_Link_1484560304" CREATED="1135713971960" MODIFIED="1135713971960">
+<node TEXT="R&#xe9;seau isol&#xe9;" ID="ID_322374504" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="Pas de sous-r&#xe9;seau" ID="ID_733874651" CREATED="1135713971960" MODIFIED="1135713971960"/>
+<node TEXT="Une route par interface" ID="ID_1305820958" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+<node TEXT="Routage statique" ID="Freemind_Link_1272248425" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Nombre limit&#xe9; de routeurs" ID="ID_1150727749" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Pas / peu d&apos;&#xe9;volution" ID="ID_5024475" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Table de routage construite et maintenue manuellement via &lt;tt&gt;route&lt;/tt&gt;" ID="ID_1282952372" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+<node TEXT="Routage dynamique" ID="Freemind_Link_576745775" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Plusieurs routes m&#xe8;nent &#xe0; la m&#xea;me destination" ID="Freemind_Link_671127525" CREATED="1135713971961" MODIFIED="1264627191877"/>
+<node TEXT="Les protocoles de routage mettent &#xe0; jour les table en fct de l&apos;&#xe9;volution du r&#xe9;seau" ID="ID_1140008015" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Recherche d&apos;une &quot;meilleure&quot; route" ID="ID_962192985" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1100504619" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Routage minimal" FOLDED="true" ID="Freemind_Link_1120469436" CREATED="1135713971961" MODIFIED="1296657220957">
+<node TEXT="Tests du r&#xe9;seau via &lt;tt&gt;ping&lt;/tt&gt;" ID="ID_1634742663" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Ajout d&apos;une route :  &lt;br /&gt;&#xa;&lt;tt&gt;route add default gw monGateway &lt;/tt&gt;" ID="ID_1091918744" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1961305039" CREATED="1264615442006" MODIFIED="1264615446876">
+<node TEXT="Routage statique" FOLDED="true" ID="Freemind_Link_1429547560" CREATED="1135713971961" MODIFIED="1296657219719">
+<node TEXT="Message ICMP Redirect &#xa;(&lt;i&gt;Internet Control Message Protocol&lt;/i&gt;)" FOLDED="true" ID="Freemind_Link_1320277381" CREATED="1135713971961" MODIFIED="1264614756141">
+<node TEXT="Messages envoy&#xe9;s par le protocole IP" ID="Freemind_Link_1714166069" CREATED="1264615186097" MODIFIED="1264615199917"/>
+<node TEXT="Principe de construction de la table de routage:&lt;br/&gt;&#xa;&lt;i&gt;host&lt;/i&gt; envoie son paquet &#xe0; &lt;i&gt;R1&lt;/i&gt; (routeur 1) qui &#xa;consulte sa table de routage et l&apos;envoie &#xe0; &lt;i&gt;R2&lt;/i&gt;. &lt;i&gt;R1&lt;/i&gt;&#xa;envoie &#xe9;galement un paquet ICMP Redirect &#xe0; &lt;i&gt;host&lt;/i&gt; l&apos;informant&#xa;que sa destination de d&#xe9;part (vers &lt;i&gt;R1&lt;/i&gt;) &#xe9;tait mauvaise. &lt;i&gt;host&lt;/i&gt;&#xa;met sa table &#xe0; jour, il enverra d&#xe9;sormais ce type de paquet vers &lt;i&gt;R2&lt;/i&gt;" ID="Freemind_Link_1357311678" CREATED="1264615283700" MODIFIED="1264626901999"/>
+</node>
+<node TEXT="Dans les scripts de d&#xe9;marrage" FOLDED="true" ID="Freemind_Link_1038589271" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Ex&#xe9;cution de &lt;tt&gt;route&lt;/tt&gt;" ID="ID_1184677843" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Supression des &quot;protocoles de routage&quot;" ID="ID_1203148863" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" FOLDED="true" POSITION="right" ID="Freemind_Link_1825258692" CREATED="1135713971961" MODIFIED="1296657218126">
+<node TEXT=" &lt;img width=&quot;70%&quot; src=&quot;img/routage.png&quot; /&gt;" ID="ID_1635916921" CREATED="1296657098412" MODIFIED="1296657141348"/>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="ID_1404383680" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Routage dynamique" ID="Freemind_Link_593821382" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Protocoles de routage int&#xe9;rieurs&#xa;(destin&#xe9;s &#xe0; des r&#xe9;seaux autonomes)" FOLDED="true" ID="Freemind_Link_1198016901" CREATED="1135713971961" MODIFIED="1264701485179">
+<node TEXT="RIP - &lt;i&gt;Routing Information Protocol&lt;/i&gt; &lt;br /&gt;" ID="Freemind_Link_1346638156" CREATED="1135713971961" MODIFIED="1264627624505"/>
+<node TEXT="Hello &lt;br /&gt;&#xa;Tres peu utilis&#xe9;" ID="ID_976150775" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="IS-IS - &lt;i&gt;Intermediate to Intermediate System&lt;/i&gt;&lt;br /&gt;&#xa;Plus court chemin d&apos;abord" ID="ID_370150504" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="OSPF - &lt;i&gt;Open Shortest Path First&lt;/i&gt; &lt;br /&gt;&#xa;Adapt&#xe9; aux gros r&#xe9;seaux" ID="ID_1038398872" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+<node TEXT="Protocoles de routage ext&#xe9;rieurs&#xa;(permet l&apos;&#xe9;change d&apos;informations &lt;b&gt;entre&lt;/b&gt; &#xa;r&#xe9;seaux autonomes)" FOLDED="true" ID="Freemind_Link_1200033670" CREATED="1135713971961" MODIFIED="1296658117652">
+<node TEXT="EGP" ID="ID_546647362" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="BGP" ID="ID_1190028459" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="&lt;i&gt;via &lt;tt&gt;gated&lt;/tt&gt;&lt;/i&gt;" ID="ID_1855011166" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1215680028" CREATED="1264627565440" MODIFIED="1264627568887">
+<node TEXT="Routage dynamique - RIP" FOLDED="true" ID="Freemind_Link_1438333805" CREATED="1264627585924" MODIFIED="1296658131777">
+<node TEXT="&lt;b&gt;Principe&lt;/b&gt;&lt;br/&gt; &#xa;RIP essaie de minimiser le co&#xfb;t en terme &#xa;de m&#xe9;trique (nombre de &lt;i&gt;hops&lt;/i&gt;) vers &#xa;la destination. &lt;br/&gt;&#xa;Un &lt;i&gt;hop&lt;/i&gt; repr&#xe9;sente le passage par &#xa;une passerelle (&lt;i&gt;gateway&lt;/i&gt;)&#xa;" ID="Freemind_Link_143791857" CREATED="1264627627280" MODIFIED="1264700537377">
+<node TEXT="Au d&#xe9;marrage, RIP signale sa pr&#xe9;sence" ID="Freemind_Link_363477538" CREATED="1264695380762" MODIFIED="1264695391497"/>
+<node TEXT="Les &lt;i&gt;gateways&lt;/i&gt; qui comprennent RIP envoient leur table de routage" ID="Freemind_Link_187976353" CREATED="1264695392256" MODIFIED="1264700562047"/>
+<node TEXT="Sur cette base, mise &#xe0; jour de ses routes (&lt;i&gt;add or update&lt;/i&gt;)" ID="Freemind_Link_1118092357" CREATED="1264695455376" MODIFIED="1264695502617"/>
+<node TEXT="Suppression de route s&apos;il ne re&#xe7;oit pas d&apos;update ou &#xa;lorsque &lt;b&gt;la m&#xe9;trique est sup&#xe9;rieure &#xe0; 15&lt;/b&gt;" ID="Freemind_Link_1552660794" CREATED="1264695557882" MODIFIED="1264695986098"/>
+</node>
+<node TEXT="C&apos;est un algorithme &#xe0; &lt;b&gt;vecteur de distance&lt;/b&gt; &#xa;(&lt;b&gt;&lt;i&gt;distance-vector algorithm&lt;/i&gt;&lt;/b&gt;)" ID="Freemind_Link_1204618285" CREATED="1264694922044" MODIFIED="1264696023910"/>
+<node TEXT="Utilis&#xe9; par Unix &lt;i&gt;via&lt;/i&gt; le daemon &lt;tt&gt;routed&lt;/tt&gt;" ID="Freemind_Link_913605283" CREATED="1264694868097" MODIFIED="1264700586001"/>
+<node TEXT="Inconv&#xe9;nients" ID="Freemind_Link_28837462" CREATED="1264696026892" MODIFIED="1264696032643">
+<node TEXT="Convergence lente (probl&#xe8;me de comptage &#xe0; l&apos;infini (&lt;i&gt;counting to infinity&lt;/i&gt;))" ID="Freemind_Link_1129561028" CREATED="1264696034628" MODIFIED="1264696170185"/>
+<node TEXT="&#xc9;tendue faible (nombre de &lt;i&gt;hops&lt;/i&gt; limit&#xe9; &#xe0; 15)" ID="Freemind_Link_465109184" CREATED="1264696038846" MODIFIED="1264696058861"/>
+<node TEXT="Utilisation des classes (A,B ou C) &lt;br /&gt; &#xa;&lt;small&gt;Ce probl&#xe8;me est r&#xe9;solu par &lt;b&gt;RIP-2&lt;/b&gt;&lt;/small&gt;" ID="Freemind_Link_1443888063" CREATED="1264696096108" MODIFIED="1264700985244"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1077242891" CREATED="1264696369429" MODIFIED="1264696373453">
+<node TEXT="Routage dynamique - RIP - &lt;i&gt;counting to infinity&lt;/i&gt;" FOLDED="true" ID="Freemind_Link_250992322" CREATED="1264696374615" MODIFIED="1296683118259">
+<node TEXT="&lt;img width=&quot;70%&quot; src=&quot;img/rip-countinginfinity.png&quot; /&gt;&#xa;&lt;small&gt;Source O&apos;Reilly TCP-IP Network Administration&lt;/small&gt;" ID="ID_1845008107" CREATED="1296657245688" MODIFIED="1296658350149">
+<node TEXT="&lt;i&gt;almond&lt;/i&gt; joint le r&#xe9;seau 3 en 2 hops" ID="ID_35913159" CREATED="1296658353289" MODIFIED="1296658369009"/>
+<node TEXT="&lt;i&gt;pecan&lt;/i&gt; joint le r&#xe9;seau 3 en 1 hop" ID="ID_1293403731" CREATED="1296658370767" MODIFIED="1296658386721"/>
+<node TEXT="Si &lt;i&gt;filbert&lt;/i&gt; tombe ... &lt;i&gt;almond&lt;/i&gt; annonce toujours 2, &lt;i&gt;pecan&lt;/i&gt; attend l&apos;update de &lt;i&gt;filbert&lt;/i&gt; et annonce toujours 1 hop en attendant (180&apos;)" ID="ID_609609882" CREATED="1296658388795" MODIFIED="1296658434246"/>
+<node TEXT="Au &lt;i&gt;time out pecan&lt;/i&gt; retire sa route, entend &lt;i&gt;almond&lt;/i&gt; qui dit 2 et donc dit 3 ... ce qui fait changer la route de &lt;i&gt;almond&lt;/i&gt; qui dit 4 ... 5,6, ... 16" ID="ID_1448863785" CREATED="1296658435248" MODIFIED="1296658492680"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1885316684" CREATED="1264697558984" MODIFIED="1264697562014">
+<node TEXT="Routage dynamique - RIP - &lt;i&gt;counting to infinity&lt;/i&gt;" FOLDED="true" ID="Freemind_Link_1570599306" CREATED="1264697565318" MODIFIED="1296683119960">
+<node TEXT="&lt;i&gt;Split horizon&lt;/i&gt;" ID="Freemind_Link_1088442326" CREATED="1264697575615" MODIFIED="1264697582253">
+<node TEXT="Permet de r&#xe9;soudre le probl&#xe8;me de comptage &#xe0; l&apos;infini &#xa;car un routeur ne pourra plus annoncer de route sur &#xa;le r&#xe9;seau d&apos;o&#xf9; il obtient l&apos;information" ID="Freemind_Link_1360641635" CREATED="1264697613487" MODIFIED="1264697677905"/>
+<node TEXT="&lt;i&gt;almond&lt;/i&gt; ne peut annoncer sa route vers &lt;i&gt;filbert&lt;/i&gt; sur le r&#xe9;seau 12 ... donc &#xe0; &lt;i&gt;pecan&lt;/i&gt;" ID="Freemind_Link_923978279" CREATED="1264697669598" MODIFIED="1264697719177"/>
+</node>
+<node TEXT="&lt;i&gt;Poison reverse&lt;/i&gt;" ID="Freemind_Link_115494512" CREATED="1264697582830" MODIFIED="1264697594742">
+<node TEXT="Le principe est celui de &lt;i&gt;split horizon&lt;/i&gt; auquel &#xa;on ajoute la contrainte d&apos;annoncer un co&#xfb;t de 16 &#xa;sur le r&#xe9;seau d&apos;o&#xf9; on obtient l&apos;information" ID="Freemind_Link_589693049" CREATED="1264697781359" MODIFIED="1264697843921"/>
+<node TEXT="&lt;i&gt;almond&lt;/i&gt; devra annoncer un co&#xfb;t de 16 sur le r&#xe9;seau 12" ID="Freemind_Link_1611855038" CREATED="1264697844883" MODIFIED="1264697860786"/>
+</node>
+<node TEXT="Mise &#xe0; jour d&#xe9;clench&#xe9;es (&lt;i&gt;triggered updates&lt;/i&gt;)" ID="Freemind_Link_184348446" CREATED="1264700007675" MODIFIED="1264700773494">
+<node TEXT="Lorsqu&apos;un serveur crache, le routeur n&apos;attend pas &#xa;la mise &#xe0; jour normale mais envoie &lt;b&gt;directement&lt;/b&gt; &#xa;l&apos;information &#xe0; ses voisins" ID="Freemind_Link_143105917" CREATED="1264700181307" MODIFIED="1264700252619"/>
+<node TEXT="Sans &lt;i&gt;triggered updates&lt;/i&gt;, si &lt;i&gt;almond&lt;/i&gt; crache, &#xa;&lt;i&gt;salted&lt;/i&gt; et &lt;i&gt;roasted&lt;/i&gt; &#xa;entrent dans un comptage &#xe0; l&apos;infini" ID="Freemind_Link_278263585" CREATED="1264700255651" MODIFIED="1264700418019"/>
+<node TEXT="Avec les &lt;i&gt;triggered updates&lt;/i&gt;, &lt;i&gt;roasted&lt;/i&gt; &#xa;et &lt;i&gt;salted&lt;/i&gt; s&apos;informent directement d&apos;un co&#xfb;t &#xa;de 16 vers les r&#xe9;seaux 12, 1 et 3" ID="Freemind_Link_1862200790" CREATED="1264700418758" MODIFIED="1296657867061"/>
+</node>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_1045434920" CREATED="1264695004556" MODIFIED="1264695008833">
+<node TEXT="Routage dynamique - Hello / IS-IS" FOLDED="true" ID="Freemind_Link_982585505" CREATED="1264695010534" MODIFIED="1296683121649">
+<node TEXT="&lt;b&gt;Principe - Hello&lt;/b&gt; &lt;br/&gt;&#xa;Hello essaie de minimiser le temps n&#xe9;cessaire pour arriver&#xa; &#xe0; destination (sur base de la valeur du &lt;i&gt;timestamp&lt;/i&gt; &#xa;contenu dans le paquet IP)" ID="Freemind_Link_1181190694" CREATED="1264695019016" MODIFIED="1264701110359"/>
+<node TEXT="&lt;b&gt;Principe - IS-IS&lt;/b&gt;&lt;br/&gt;&#xa;&lt;i&gt;Intermediate system to intermediate system&lt;/i&gt; provient du &#xa;protocole OSI. Il est un protocole &#xe0; &quot;plus court chemin d&apos;abord&quot;. " ID="Freemind_Link_1578132686" CREATED="1264701124604" MODIFIED="1264702102149"/>
+</node>
+</node>
+<node TEXT="Rappels r&#xe9;seaux" POSITION="right" ID="Freemind_Link_319117838" CREATED="1264695277631" MODIFIED="1264695278858">
+<node TEXT="Routage dynamique - OSPF" FOLDED="true" ID="Freemind_Link_288111702" CREATED="1264627585924" MODIFIED="1296683123222">
+<node TEXT="&lt;b&gt;Principe&lt;/b&gt;&lt;br/&gt; &#xa;OSPF (&lt;i&gt;Open shortest Path First&lt;/i&gt;) est un protocole &#xa;&#xe0; liaison d&apos;&#xe9;tat (&lt;i&gt;link state&lt;/i&gt;). &lt;br /&gt;&#xa;L&#xe0; o&#xf9; RIP partage des infos sur le r&#xe9;seau vers ses voisins, OSPF partage des infos sur ses voisins au r&#xe9;seau. &lt;br/&gt;&#xa;(Rappel, ce sont des protocoles int&#xe9;rieurs)" ID="Freemind_Link_1721246657" CREATED="1264627627280" MODIFIED="1264701446597"/>
+<node TEXT="OSPF peut d&#xe9;couper le r&#xe9;seau en zone (&lt;i&gt;area&lt;/i&gt;) &#xa;reli&#xe9;es par un &lt;i&gt;backbone&lt;/i&gt;. Certaines zones &#xa;n&apos;ont qu&apos;un seul chemin vers le &lt;i&gt;backbone&lt;/i&gt; &#xa;ce sont les &lt;i&gt;stub area&lt;/i&gt;" ID="Freemind_Link_1158951723" CREATED="1264702121275" MODIFIED="1264702664840"/>
+<node TEXT="Chaque routeur construit un graphe &#xa;&quot;de plus court chemin d&apos;abord&quot; (au sens &#xa;de Dijkstra) renseignant ses voisins." ID="Freemind_Link_1597715343" CREATED="1264702292155" MODIFIED="1264702536094">
+<node TEXT="Un co&#xfb;t est associ&#xe9; &#xe0; chaque  noeud du graphe. " ID="Freemind_Link_125361908" CREATED="1264702466220" MODIFIED="1264702467167"/>
+<node TEXT="Ce co&#xfb;t est estim&#xe9; par l&apos;envoi de paquet &quot;&lt;i&gt;OSPF Hello paquets&lt;/i&gt;&quot; entre routeurs" ID="Freemind_Link_932756659" CREATED="1264702468846" MODIFIED="1264702499783"/>
+<node TEXT="L&apos;&#xe9;coute des ses paquets Hello renseigne le routeur &#xa;sur l&apos;&#xe9;tat (&lt;i&gt;state&lt;/i&gt;) de ses voisins et permet la &#xa;mise &#xe0; jour du graphe" ID="Freemind_Link_649978762" CREATED="1264702553217" MODIFIED="1264702588029"/>
+</node>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server" POSITION="right" ID="Freemind_Link_1835432633" CREATED="1169675925564" MODIFIED="1232388997484" COLOR="#338800">
+<node TEXT="&lt;h1&gt;DNS - Domain Name Server&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Introduction&#xa;  \item R&#xe9;solveur&#xa;  \item Serveur &#xe0; cache seule&#xa;  \item Serveur ma&#xee;tre&#xa;  \item Serveur esclave&#xa;\end{flushright}" ID="Freemind_Link_1908064738" CREATED="1169675935941" MODIFIED="1232389078846" COLOR="#338800"/>
+</node>
+<node TEXT="DNS - Domain Name Server" FOLDED="true" POSITION="right" ID="Freemind_Link_51618266" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Lien entre les adresses IP et les noms" ID="ID_1505343439" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Table d&apos;h&#xf4;tes &lt;br /&gt;&#xa;&lt;tt&gt;/etc/hosts&lt;/tt&gt;" ID="ID_1716279087" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="DNS" ID="ID_228301109" CREATED="1135713971961" MODIFIED="1135713971961"/>
+</node>
+<node TEXT="Avantages du DNS par rapport &#xe0; la table d&apos;h&#xf4;tes" ID="ID_1309958418" CREATED="1135713971961" MODIFIED="1135713971961">
+<node TEXT="Le DNS permet de g&#xe9;rer un plus grand nombre d&apos;h&#xf4;tes" ID="ID_267366270" CREATED="1135713971961" MODIFIED="1135713971961"/>
+<node TEXT="Le DNS assure la diss&#xe9;mination de l&apos;info " ID="ID_491447637" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+<node TEXT="Fonctionnement" ID="ID_1662263166" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="Si le DNS re&#xe7;oit une requ&#xea;te  sur un h&#xf4;te pour lequel il ne poss&#xe8;de aucune donn&#xe9;e" ID="ID_846815262" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Il fait suivre la requ&#xea;te &#xe0; un &lt;i&gt;serveur ayant autorit&#xe9;&lt;/i&gt;" ID="ID_14381669" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Lorsque le serveur lui r&#xe9;pond, il maintient l&apos;information dans un cache. " ID="ID_774245432" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="La prochaine fois, il y r&#xe9;pondra seul." ID="ID_705680151" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server" FOLDED="true" POSITION="right" ID="ID_251369840" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="Hi&#xe9;rarchie des domaines" ID="ID_925529718" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="Domaine racine" ID="ID_1272476088" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Domaine de premier niveau" ID="ID_1213094042" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="G&#xe9;ographique &lt;br /&gt;&#xa;be, fr, us, ..." ID="ID_1557897733" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Administratif &lt;br /&gt;&#xa;com, edu, gov, mil, net, int, org, (depuis le d&#xe9;but) &lt;br /&gt;&#xa;aero, biz, coop, museum, pro, info, name (depuis 2000)" ID="ID_1273105420" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+</node>
+<node TEXT="Serveurs &lt;b&gt;racines&lt;/b&gt;" ID="ID_399433823" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="a.root-servers.net" ID="ID_1565257776" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="..." ID="ID_659926599" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="m.root-servers.net" ID="ID_1065535804" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+<node TEXT="&lt;tt&gt;dig @a.root-servers.net. &lt;/tt&gt;" ID="ID_1946199369" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+<node TEXT="DNS - Domain Name Server" FOLDED="true" POSITION="right" ID="ID_448376365" CREATED="1135713971962" MODIFIED="1135713971962">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Impl&#xe9;ment&#xe9; grace &#xe0; BIND &lt;br /&gt;&#xa;&lt;i&gt;Berkeley  Internet Name Domain&lt;/i&gt;" ID="ID_1795898113" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Client : le &lt;i&gt;r&#xe9;solveur&lt;/i&gt;" ID="ID_441325636" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Serveur : daemon &lt;tt&gt;named&lt;/tt&gt;" ID="ID_1805623984" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Quatre niveaux de services" ID="ID_1263885269" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="R&#xe9;solveur uniquement" ID="ID_1655966715" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Serveur &#xe0; cache seul" ID="ID_1515780897" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Serveur ma&#xee;tre" ID="ID_1398980884" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Serveur esclave" ID="ID_855597634" CREATED="1135713971962" MODIFIED="1135713971962"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Configuration du r&#xe9;solveur" FOLDED="true" POSITION="right" ID="Freemind_Link_193211378" CREATED="1135713971962" MODIFIED="1135713971962">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="&lt;tt&gt;/etc/resolv.conf&lt;/tt&gt;" ID="ID_634534455" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="&lt;tt&gt;nameserver &apos;adresse&apos;&lt;/tt&gt;" FOLDED="true" ID="Freemind_Link_1517463227" CREATED="1135713971962" MODIFIED="1135713971962">
+<node TEXT="Adresse repr&#xe9;sente l&apos;adresse d&apos;un serveur de noms" ID="ID_880162364" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Jusqu&apos;&#xe0; 3 serveurs de nom autoris&#xe9;s" ID="ID_128846083" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Les serveurs de noms sont int&#xe9;rrog&#xe9;s dans l&apos;ordre" ID="ID_1810279366" CREATED="1135713971962" MODIFIED="1135713971962"/>
+<node TEXT="Si aucune entr&#xe9;e nameserver .. alors interrogation locale." ID="Freemind_Link_1259869649" CREATED="1135713971962" MODIFIED="1157403253803"/>
+</node>
+<node TEXT="&lt;tt&gt;domain &apos;nom&apos;&lt;/tt&gt;" FOLDED="true" ID="Freemind_Link_283936293" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="Nom de domaine par d&#xe9;faut" ID="ID_1580414020" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="Les noms SANS points sont concat&#xe9;n&#xe9;s au nom de domaine par d&#xe9;faut" ID="ID_1132875658" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="Si la variable d&apos;environement LOCALDOMAIN est d&#xe9;finie elle prend le dessus" ID="Freemind_Link_1297568514" CREATED="1135713971963" MODIFIED="1157403284792"/>
+</node>
+<node TEXT="&lt;tt&gt;search &apos;domaine&apos;&lt;/tt&gt;" ID="ID_391984393" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="Idem que domain mais avec plusieurs domaines" ID="ID_1792995143" CREATED="1135713971963" MODIFIED="1135713971963"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Configuration du r&#xe9;solveur" FOLDED="true" POSITION="right" ID="ID_373691671" CREATED="1135713971963" MODIFIED="1135713971963">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="&lt;tt&gt;options &apos;option ...&apos;&lt;/tt&gt;" ID="ID_1005780792" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="&lt;tt&gt;debug&lt;/tt&gt; (si compil&#xe9; avec l&apos;option)" ID="ID_560450144" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="&lt;tt&gt;ndots:n&lt;/tt&gt; &lt;br /&gt;&#xa;&lt;i&gt;d&#xe9;faut 1, nombre de point (+1) rencontr&#xe9; dans le nom pour lequel le nom de domaine est concat&#xe9;n&#xe9;&lt;/i&gt;" ID="ID_1338709245" CREATED="1135713971963" MODIFIED="1135713971963"/>
+</node>
+<node TEXT="&lt;tt&gt;timeout:n&lt;/tt&gt;" ID="ID_453016025" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="D&#xe9;lai initial" ID="ID_1859069899" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="D&#xe9;faut 5" ID="ID_1098270485" CREATED="1135713971963" MODIFIED="1135713971963"/>
+</node>
+<node TEXT="&lt;tt&gt;attempts:n&lt;/tt&gt;" ID="ID_620347276" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="Nombre de fois que le r&#xe9;solveur retente une requ&#xea;te" ID="ID_314687527" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="D&#xe9;faut 2" ID="ID_716414586" CREATED="1135713971963" MODIFIED="1135713971963"/>
+</node>
+<node TEXT="&lt;tt&gt;rotate&lt;/tt&gt;" ID="ID_1104733433" CREATED="1135713971963" MODIFIED="1135713971963">
+<node TEXT="R&#xe9;partit la charge entre les diff&#xe9;rents serveurs de noms" ID="ID_1510098512" CREATED="1135713971963" MODIFIED="1135713971963"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - &lt;tt&gt;named&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_786467722" CREATED="1135713971963" MODIFIED="1135713971963">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Fichier de configuration - &lt;tt&gt;named.conf&lt;/tt&gt;" ID="ID_1243381350" CREATED="1135713971963" MODIFIED="1135713971963"/>
+<node TEXT="Fichier d&apos;acc&#xe8;s &#xe0; la racine - &lt;tt&gt;db.root&lt;/tt&gt; (par exemple)" ID="Freemind_Link_1597534057" CREATED="1135713971963" MODIFIED="1232965529454"/>
+<node TEXT="Fichier d&apos;h&#xf4;te local - &lt;tt&gt;db.local&lt;/tt&gt;" ID="Freemind_Link_191622925" CREATED="1135713971963" MODIFIED="1232965534526"/>
+<node TEXT="Fichier de zone - &lt;tt&gt;db.&lt;mazone.org&gt;&lt;/tt&gt; (par exemple)" ID="Freemind_Link_931104537" CREATED="1135713971963" MODIFIED="1232965592763"/>
+<node TEXT="Fichier de zone inverse - &lt;tt&gt;db.&lt;192.168.208&gt;&lt;/tt&gt; (par exemple)" ID="Freemind_Link_926245480" CREATED="1135713971963" MODIFIED="1232965616523"/>
+</node>
+<node TEXT="DNS - Domain Name Server - &lt;tt&gt;named.conf&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_722822206" CREATED="1135713971963" MODIFIED="1135713971963">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Syntaxe proche de C" ID="ID_1781962974" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="Commentaires /* */ ou // ou encore \#" ID="ID_1309016985" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="D&#xe9;claration se termine par ;" ID="ID_1286103899" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="String entre &quot; &quot;" ID="ID_965620533" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="Groupe entre accolades \{ \}" ID="ID_1675218046" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="Commande de configuration" ID="ID_1787531780" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="&lt;i&gt;acl&lt;/i&gt; - D&#xe9;finit une liste de contr&#xf4;le d&apos;acc&#xe8;s d&apos;adresses IP" ID="ID_912603649" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;include&lt;/i&gt; - Inclu un autre fichier" ID="ID_138853621" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;key&lt;/i&gt; - D&#xe9;finit les cl&#xe9;s de s&#xe9;curit&#xe9; pour l&apos;authentification" ID="ID_1571689130" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;logging&lt;/i&gt; - D&#xe9;finit ce qui doit &#xea;tre logg&#xe9;" ID="ID_1860187830" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;options&lt;/i&gt; - D&#xe9;finit les options de configuration globale et des valeurs par d&#xe9;faut" ID="ID_982090434" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;server&lt;/i&gt; - D&#xe9;finit les caract&#xe9;ristiques d&apos;un serveur distant" ID="ID_1564523359" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="&lt;i&gt;zone&lt;/i&gt; - D&#xe9;finit une zone &lt;br /&gt;&#xa;&lt;b&gt;Une zone&lt;/b&gt; est une partie de l&apos;espace de nom de domaine pour laquelle le serveur de noms a&#xa; autorit&#xe9;" ID="ID_1822040137" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Fichier de zone" FOLDED="true" POSITION="right" ID="Freemind_Link_1022987788" CREATED="1135713971964" MODIFIED="1296683134426">
+<node TEXT="Format de fichier de zone" ID="ID_299059859" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="&lt;tt&gt;[nom] [ttlx] IN type donn&#xe9;e&lt;/tt&gt;" ID="ID_1819604140" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="&lt;tt&gt;nom&lt;/tt&gt;" ID="ID_1010324351" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="Nom de l&apos;objet du domaine" ID="ID_405007686" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="Le nom est relatif au domaine courant sauf si il se termine par un &apos;.&apos;  S&apos;il est blanc, il se rapporte au dernier objet du domaine nomm&#xe9;" ID="ID_1901233174" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="&lt;tt&gt;ttl&lt;/tt&gt;" ID="ID_283098576" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="&lt;i&gt;Time-to-live&lt;/i&gt;" ID="ID_1840419372" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="G&#xe9;n&#xe9;ralement vide, la valeur de la directive  &lt;b&gt;\$TTL&lt;/b&gt; est utilis&#xe9;e" ID="ID_1972895311" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="&lt;tt&gt;IN&lt;/tt&gt;" ID="ID_1260788759" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="enregistrement de ressource  internet" ID="ID_1285065289" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="&lt;tt&gt;type&lt;/tt&gt;" ID="ID_1439030963" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="Identifie la nature de l&apos;enregistrement" ID="ID_338410029" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="SOA, NS, A, PTR, MX, CNAME, TXT" ID="ID_407122417" CREATED="1135713971964" MODIFIED="1135713971964"/>
+</node>
+<node TEXT="&lt;tt&gt;donn&#xe9;e&lt;/tt&gt;" ID="ID_107484282" CREATED="1135713971964" MODIFIED="1135713971964">
+<node TEXT="Information sp&#xe9;cifique au type d&apos;enregistrement. " ID="ID_1586066701" CREATED="1135713971964" MODIFIED="1135713971964"/>
+<node TEXT="Exemple : pour un champ de type A, la donn&#xe9;e est l&apos;adresse IP" ID="ID_1122974130" CREATED="1135713971965" MODIFIED="1135713971965"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Fichier de zone" POSITION="right" ID="ID_391436506" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Enregistrement SOA" FOLDED="true" ID="Freemind_Link_33634467" CREATED="1135713971965" MODIFIED="1296683145499">
+<node TEXT="Num&#xe9;ro de s&#xe9;rie en 10 chiffres - &lt;i&gt;aaaammjjxx&lt;/i&gt;&#xa;" ID="ID_1759149307" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="Temps de raffraichissement" ID="Freemind_Link_1167587784" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Temps en secondes entre les v&#xe9;rifications du num&#xe9;ro de s&#xe9;rie par les secondaires" ID="Freemind_Link_1101635849" CREATED="1148415194382" MODIFIED="1148415199391"/>
+</node>
+<node TEXT="Temps de r&#xe9;&#xe9;mission" ID="Freemind_Link_1652614827" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Temps en secondes entre les v&#xe9;rifications du num&#xe9;ro de s&#xe9;rie par les secondaires si la premi&#xe8;re v&#xe9;rification a &#xe9;chou&#xe9; " ID="Freemind_Link_1156084107" CREATED="1148415194382" MODIFIED="1148415287916"/>
+</node>
+<node TEXT="Temps d&apos;expiration" ID="Freemind_Link_958054289" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Si un secondaire n&apos;arrive pas &#xe0; contacter le serveur primaire de la zone, il continue &#xe0; r&#xe9;pondre aux requ&#xea;tes pendant la dur&#xe9;e donn&#xe9;e" ID="Freemind_Link_1059610412" CREATED="1148415315744" MODIFIED="1148415319518"/>
+</node>
+<node TEXT="TTL" ID="ID_394530945" CREATED="1135713971965" MODIFIED="1135713971965"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Fichier de zone" POSITION="right" ID="ID_697399987" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Directives" FOLDED="true" ID="Freemind_Link_350829566" CREATED="1135713971965" MODIFIED="1296683156226">
+<node TEXT="\$TTL" ID="ID_1753245780" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Valeur par d&#xe9;faut du TTL pour les enregistrement." ID="ID_443938589" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="Soit un  nombre de secondes (valeur chiffr&#xe9;e)" ID="ID_894077092" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="Soit une combinaison de chiffres et de lettres &lt;i&gt;w, d, h, m, s&lt;/i&gt;" ID="ID_1200955836" CREATED="1135713971965" MODIFIED="1135713971965"/>
+</node>
+<node TEXT="\$ORIGIN" ID="ID_287011868" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="D&#xe9;finit le nom de domaine par d&#xe9;faut" ID="ID_329292551" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="&#xc9;crase la valeur du domaine d&#xe9;finie par la d&#xe9;claration de zone" ID="ID_1240552654" CREATED="1135713971965" MODIFIED="1296683154347"/>
+</node>
+<node TEXT="\$INCLUDE" ID="ID_873487616" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="Inclu un fichier externe (&#xe0; l&apos;endroit de la directive)" ID="ID_1814992608" CREATED="1135713971965" MODIFIED="1135713971965"/>
+</node>
+<node TEXT="\$GENERATE" ID="ID_80403103" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="G&#xe9;n&#xe8;re une s&#xe9;rie d&apos;enregistrements" ID="ID_1067751471" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="Ces enregistrement ne diff&#xe8;rent que par une valeur num&#xe9;rique" ID="ID_1843957358" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="&lt;tt&gt;\$GENERATE 1-4 \$ CNAME \$.1to4&lt;/tt&gt; &lt;br /&gt;&#xa;G&#xe9;n&#xe8;re &lt;br /&gt;&#xa; - 1 CNAME 1.1to4&#xa; - 2 CNAME 2.1to4&#xa; - 3 CNAME 3.1to4&#xa; - 4 CNAME 4.1to4" ID="ID_292346480" CREATED="1135713971965" MODIFIED="1135713971965"/>
+</node>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur &#xe0; cache seul" FOLDED="true" POSITION="right" ID="Freemind_Link_1602712718" CREATED="1135713971965" MODIFIED="1135713971965">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;named.conf&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_513648976" CREATED="1135713971965" MODIFIED="1232972192023"/>
+<node TEXT="&lt;code&gt;&#xa;include &quot;/etc/bind/named.conf.options&quot;;&#xa;&#xa;// prime the server with knowledge of the root servers&#xa;zone &quot;.&quot; {&#xa;    type hint;&#xa;    file &quot;/etc/bind/db.root&quot;;&#xa;};&#xa;&#xa;zone &quot;localhost&quot; {&#xa;    type master;&#xa;    file &quot;/etc/bind/db.local&quot;;&#xa;};&#xa;&#xa;zone &quot;127.in-addr.arpa&quot; {&#xa;    type master;&#xa;    file &quot;/etc/bind/db.127&quot;;&#xa;};&#xa;&#xa;(...)&#xa;&#xa;include &quot;/etc/bind/named.conf.local&quot;;&#xa;&lt;/code&gt;&#xa;&#xa;" ID="Freemind_Link_1521935689" CREATED="1135713971965" MODIFIED="1232971558735"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur &#xe0; cache seul" FOLDED="true" POSITION="right" ID="Freemind_Link_1321183189" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;db.root&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_1147557766" CREATED="1135713971965" MODIFIED="1232972204110"/>
+<node TEXT="R&#xe9;cup&#xe9;r&#xe9; tel quel, il contient les adresses des serveurs racines" ID="ID_508928131" CREATED="1135713971965" MODIFIED="1135713971965"/>
+<node TEXT="&lt;code&gt;&#xa;// extrait&#xa;&#xa;.  &#x9;                   3600000      IN&#x9;   NS  A.root-servers.net&#xa;A.ROOT-SERVERS.NET.      3600000      A     198.41.0.4&#xa;A.ROOT-SERVERS.NET.      3600000      AAAA  2001:503:BA3E::2:30&#xa;&#xa;(...)&#xa;&#xa;&lt;/code&gt;" ID="Freemind_Link_1223541260" CREATED="1135713971965" MODIFIED="1232971723176"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur &#xe0; cache seul" FOLDED="true" POSITION="right" ID="Freemind_Link_693344055" CREATED="1135713971965" MODIFIED="1135713971965">
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;db.local&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_1886690954" CREATED="1135713971965" MODIFIED="1232972213403"/>
+<node TEXT="Permet de convertir l&apos;adresse de rebouclage en &lt;i&gt;localhost&lt;/i&gt;" ID="ID_239712494" CREATED="1135713971966" MODIFIED="1135713971966"/>
+<node TEXT="Except&#xe9; le nom de machine, fichier identique sur ttes les machines" ID="ID_1429772199" CREATED="1135713971966" MODIFIED="1135713971966"/>
+<node TEXT="&lt;code&gt;&#xa;;&#xa;; BIND data file for local loopback interface&#xa;;&#xa;$TTL    604800&#xa;@   IN  SOA localhost. root.localhost. (&#xa;                  2     ; Serial&#xa;             604800     ; Refresh&#xa;              86400     ; Retry&#xa;            2419200     ; Expire&#xa;             604800 )   ; Negative Cache TTL&#xa;;&#xa;@   IN  NS  localhost.&#xa;@   IN  A   127.0.0.1&#xa;@   IN  AAAA    ::1&#xa;&lt;/code&gt;" ID="Freemind_Link_1510444250" CREATED="1135713971966" MODIFIED="1232971880493"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur &#xe0; cache seul" FOLDED="true" POSITION="right" ID="Freemind_Link_1243637689" CREATED="1232971928519" MODIFIED="1232971929646">
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;db.127&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_674892045" CREATED="1135713971965" MODIFIED="1232972221243"/>
+<node TEXT="R&#xe9;solution inverse pour l&apos;adresse de rebouclage" ID="Freemind_Link_478636973" CREATED="1135713971966" MODIFIED="1232972028806"/>
+<node TEXT="&lt;code&gt;&#xa;;&#xa;; BIND reverse data file for local loopback interface&#xa;;&#xa;$TTL    604800&#xa;@   IN  SOA localhost. root.localhost. (&#xa;                  1     ; Serial&#xa;             604800     ; Refresh&#xa;              86400     ; Retry&#xa;            2419200     ; Expire&#xa;             604800 )   ; Negative Cache TTL&#xa;;&#xa;@   IN  NS  localhost.&#xa;1.0.0   IN  PTR localhost.&#xa;&lt;/code&gt;" ID="Freemind_Link_1741497742" CREATED="1135713971966" MODIFIED="1232972003091"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur ma&#xee;tre" FOLDED="true" POSITION="right" ID="Freemind_Link_441826906" CREATED="1135713971966" MODIFIED="1135713971966">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="&lt;tt&gt;cat /etc/bind/named.conf.local&lt;/tt&gt;" ID="Freemind_Link_554112284" CREATED="1135713971966" MODIFIED="1232972329335"/>
+<node TEXT="Ajout au fichier &lt;tt&gt;named.conf.local&lt;/tt&gt; &#xa;(inclu dans &lt;tt&gt;named.conf&lt;/tt&gt;) de la (des) zone(s)  &#xe0; traiter" ID="Freemind_Link_1265061605" CREATED="1135713971966" MODIFIED="1232972373770"/>
+<node TEXT="&lt;code&gt;&#xa;...&#xa;&#xa;zone &quot;esi.be&quot; {&#xa;  type master;&#xa;  file &quot;/etc/bind/db.esi.be&quot;;&#xa;};&#xa;&#xa;zone &quot;208.168.192.in-addr.arpa&quot; {&#xa;  type master;&#xa;  file &quot;/etc/bind/db.192.168.208&quot;;&#xa;};&#xa;&lt;/code&gt;&#xa;" ID="Freemind_Link_1282918570" CREATED="1135713971966" MODIFIED="1232976970951"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur ma&#xee;tre" FOLDED="true" POSITION="right" ID="Freemind_Link_267488960" CREATED="1135713971966" MODIFIED="1135713971966">
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;db.esi.be&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_1116840959" CREATED="1135713971966" MODIFIED="1232976997418"/>
+<node TEXT="&lt;i&gt;Principalement des enregistrements A et CNAME&lt;/i&gt;" ID="Freemind_Link_1439356085" CREATED="1135713971966" MODIFIED="1148415402314"/>
+<node TEXT="&lt;code&gt;&#xa;$TTL  86400&#xa;@    IN   SOA  .......&#xa;; Serveurs de noms et de mail&#xa;      IN    NS    gouyasse.esi.be.&#xa;      IN    MX   10  monisp.be.&#xa;; Definition de localhost&#xa;localhost   IN   A   127.0.0.1&#xa;; Hotes de la zone&#xa;gouyasse  IN   A            192.168.208.1&#xa;ns1          IN   CNAME    gouyasse.esi.be&#xa;quintine    IN   A            192.168.208.2&#xa;...........&#xa;&lt;/code&gt;&#xa;" ID="ID_1320187124" CREATED="1135713971966" MODIFIED="1135713971966"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur ma&#xee;tre" FOLDED="true" POSITION="right" ID="Freemind_Link_1662991115" CREATED="1135713971966" MODIFIED="1135713971966">
+<node TEXT="&lt;tt&gt;cat /etc/bind/&lt;b&gt;db.192.168.208&lt;/b&gt;&lt;/tt&gt;" ID="Freemind_Link_376752929" CREATED="1135713971966" MODIFIED="1232977026025"/>
+<node TEXT="&lt;i&gt;Principalement des enregistrements PTR&lt;/i&gt;" ID="ID_952796767" CREATED="1135713971966" MODIFIED="1135713971966"/>
+<node TEXT="&lt;code&gt;&#xa;$TTL 86400&#xa;@    IN   SOA        gouyasse.esi.be  ...&#xa;...&#xa;       IN   NS          gouyasse.esi.be&#xa;1     IN   PTR        gouyasse.esi.be&#xa;2     IN   PTR        quintine.esi.be&#xa;&lt;/code&gt;" ID="ID_1863994745" CREATED="1135713971966" MODIFIED="1135713971966"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur esclave" FOLDED="true" POSITION="right" ID="Freemind_Link_1397713626" CREATED="1135713971966" MODIFIED="1135713971966">
+<node TEXT="La diff&#xe9;rence avec un serveur ma&#xee;tre r&#xe9;side dans les fichiers de zone. &#xa;Ceux-ci sont &lt;b&gt;&#xe9;crits &lt;/b&gt; (par le daemon) sur base d&apos;une requ&#xea;te &#xa;au serveur ma&#xee;tre et ne contiennent pas &lt;b&gt;&#xe0; priori&lt;/b&gt; les informations &#xa;sur la zone. " ID="Freemind_Link_835098379" CREATED="1135713971966" MODIFIED="1232392922722"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Serveur esclave" FOLDED="true" POSITION="right" ID="Freemind_Link_1635062669" CREATED="1135713971966" MODIFIED="1135713971966">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="cat /etc/bind/named.conf.local" ID="Freemind_Link_956876466" CREATED="1135713971967" MODIFIED="1232977052664"/>
+<node TEXT="&lt;code&gt;&#xa;...&#xa;&#xa;zone &quot;esi.be&quot; {&#xa;  type slave;&#xa;  file &quot;/etc/bind/db.esi.be&quot;;&#xa;  masters { &apos;adresse ip du maitre&apos; ; };&#xa;};&#xa;&#xa;zone &quot;208.168.192.in-addr.arpa&quot; {&#xa;  type slave;&#xa;  file &quot;db.192.168.208&quot;;&#xa;  masters { &apos;adresse ip du maitre&apos; ; };&#xa;};&#xa;&lt;/code&gt;&#xa;" ID="Freemind_Link_1806506148" CREATED="1135713971967" MODIFIED="1232977094771"/>
+</node>
+<node TEXT="DNS - Domain Name Server" POSITION="right" ID="ID_1061287346" CREATED="1135713971967" MODIFIED="1135713971967">
+<edge WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Contr&#xf4;le du processus" FOLDED="true" ID="Freemind_Link_411147319" CREATED="1135713971972" MODIFIED="1135713971972">
+<node TEXT="Utilisation du script &lt;tt&gt;bind9&lt;/tt&gt;" ID="Freemind_Link_1917427803" CREATED="1135713971972" MODIFIED="1232977109027">
+<node TEXT="&lt;tt&gt;/etc/init.d/bind9 start|stop|reload&lt;/tt&gt;" ID="Freemind_Link_1511769146" CREATED="1135713971972" MODIFIED="1232977120773"/>
+</node>
+<node TEXT="Commande &lt;b&gt;rndc&lt;/b&gt; de gestion du processus" ID="ID_366616932" CREATED="1135713971972" MODIFIED="1135713971972">
+<node TEXT="status" ID="ID_470209944" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="stop" ID="ID_958953277" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="start /restart" ID="ID_868384301" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="reload" ID="ID_1751488979" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="stats" ID="ID_462034129" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="trace / notrace" ID="ID_835448577" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="querylog" ID="ID_326335902" CREATED="1135713971972" MODIFIED="1135713971972"/>
+</node>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Contr&#xf4;le via &lt;b&gt;rndc&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1960926757" CREATED="1135713971972" MODIFIED="1135713971972">
+<node TEXT="&lt;tt&gt;cat /etc/bind/rndc.conf&lt;/tt&gt;" ID="Freemind_Link_1198223300" CREATED="1135713971972" MODIFIED="1232977165195"/>
+<node TEXT="&lt;code&gt;&#xa;key rndc_key {&#xa;   algorithm &quot;hmac-md5&quot;;&#xa;   secret &quot;...&quot;;&#xa;};&#xa;&#xa;options {&#xa;   default-server localhost;&#xa;   default-key rndc_key;&#xa;};&#xa;&lt;/code&gt;&#xa;" ID="ID_6237266" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="Permet le contr&#xf4;le du processus &lt;tt&gt;named&lt;/tt&gt; &#xe0; distance et s&#xe9;curis&#xe9;" ID="ID_1586015114" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="&lt;i&gt;Default serveur&lt;/i&gt; repr&#xe9;sente la machine &#xe0; contr&#xf4;ler" ID="Freemind_Link_1346359809" CREATED="1135713971972" MODIFIED="1148415506747"/>
+</node>
+<node TEXT="DNS - Domain Name Server - Contr&#xf4;le via &lt;b&gt;rndc&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1565369744" CREATED="1135713971972" MODIFIED="1135713971972">
+<node TEXT="&lt;tt&gt;/etc/named.conf&lt;/tt&gt; &lt;b&gt;ajout&lt;/b&gt;" ID="ID_1357724896" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="&lt;code&gt;&#xa;controls {&#xa;   inet 127.0.0.1 allow {localhost; } keys {rndc_key; };&#xa;};&#xa;&#xa;key &quot;rndc_key&quot; {&#xa;   algorithm hmac-md5;&#xa;   secret &quot; ... idem que l&apos;autre ...&quot;;&#xa;};&#xa;&lt;/code&gt;&#xa;" ID="ID_651372775" CREATED="1135713971972" MODIFIED="1135713971972"/>
+<node TEXT="Named autorise certaines adresses IP &#xe0; le contr&#xf4;ler" ID="ID_153973890" CREATED="1135713971972" MODIFIED="1135713971972"/>
+</node>
+<node TEXT="DNS - Domain Name Server - &lt;tt&gt;nsloockup / dig &lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_193760028" CREATED="1135713971972" MODIFIED="1298888727551">
+<node TEXT="Test de la configuration" ID="Freemind_Link_54627980" CREATED="1135713971972" MODIFIED="1135713971972">
+<node TEXT="&lt;code&gt;&#xa;dig &lt;nom de domaine&gt;&#xa;&lt;/code&gt;" ID="Freemind_Link_782563977" CREATED="1135713971972" MODIFIED="1232981886795"/>
+<node TEXT="&lt;tt&gt;nsloockup&lt;/tt&gt; est &lt;i&gt;deprecated&lt;/i&gt;" ID="Freemind_Link_1928966650" CREATED="1232977195721" MODIFIED="1232977209882"/>
+</node>
+</node>
+<node TEXT="DNS - Domain Name Server - Utilisation de &lt;tt&gt;dig&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_366604164" CREATED="1267608810610" MODIFIED="1298888729753">
+<node TEXT="dig" ID="Freemind_Link_1835939190" CREATED="1267608828753" MODIFIED="1267608830611">
+<node TEXT="Retourne les serveurs maitres" ID="Freemind_Link_158403970" CREATED="1267608840945" MODIFIED="1267608847893"/>
+</node>
+<node TEXT="SOA" ID="Freemind_Link_1689183557" CREATED="1267608850124" MODIFIED="1267608859183">
+<node TEXT="Retourne le champs SOA" ID="Freemind_Link_1777632696" CREATED="1267608860654" MODIFIED="1267608868181"/>
+<node TEXT="+multiline permet de le rendre &quot;lisible&quot; sur plusieurs lignes" ID="Freemind_Link_1377119572" CREATED="1267608868852" MODIFIED="1267608882427"/>
+</node>
+<node TEXT="+trace" ID="Freemind_Link_531326149" CREATED="1267609105605" MODIFIED="1267609107837">
+<node TEXT="Permet d&apos;avoir une simulation de l&apos;ordre des requ&#xea;tes" ID="Freemind_Link_1695633053" CREATED="1267609108781" MODIFIED="1267609120329"/>
+<node TEXT="Semble interroger directement le serveur ma&#xee;tre (sans le trace fait une requ&#xea;te locale si on g&#xe8;re la zone)" ID="Freemind_Link_71628623" CREATED="1267609121091" MODIFIED="1267609141723"/>
+</node>
+</node>
+<node TEXT="NFS - Network File System" POSITION="right" ID="Freemind_Link_1964920591" CREATED="1169675949069" MODIFIED="1234214018253" COLOR="#338800">
+<node TEXT="&lt;h1&gt;NFS - Network File System&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Introduction&#xa;  \item Daemon&#xa;  \item Droits d&apos;acc&#xe8;s&#xa;  \item Commandes associ&#xe9;es&#xa;\end{flushright}" ID="Freemind_Link_1256434934" CREATED="1169675961648" MODIFIED="1234214109603" COLOR="#338800"/>
+</node>
+<node TEXT="NFS - Network File System" FOLDED="true" POSITION="right" ID="Freemind_Link_1739704859" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="NFS - &lt;i&gt;Network File System&lt;/i&gt;" ID="ID_28958178" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="Permet le partage de fichiers en r&#xe9;seau" ID="ID_146945505" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="Id&#xe9;alement transparent pour l&apos;utilisateur" ID="ID_1479963608" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="Avantages" ID="ID_1250485178" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="R&#xe9;duit l&apos;espace disque total puisque partage" ID="ID_969572989" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="Simplifie la gestion centralis&#xe9;e" ID="ID_677804340" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="Utilise le &lt;i&gt;set&lt;/i&gt; de commandes habituel" ID="ID_1823506143" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="Approche client / serveur" ID="ID_1269522896" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="Le serveur" ID="ID_1170075098" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="Syst&#xe8;me qui rend les r&#xe9;pertoires disponibles" ID="ID_1591537800" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="&lt;b&gt;export&lt;/b&gt;" ID="ID_1715266489" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="Le client" ID="ID_1336781587" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="Syst&#xe8;me qui attache des r&#xe9;pertoires distants &#xe0; son &lt;i&gt;filesystem&lt;/i&gt;" ID="ID_1559599629" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="&lt;b&gt;mount&lt;/b&gt;" ID="ID_1923537815" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+</node>
+<node TEXT="Initialement d&#xe9;velopp&#xe9; par &lt;i&gt;Sun MicroSystem&lt;/i&gt;" ID="ID_586794204" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="NFS - Ses &lt;i&gt;daemons&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1608998351" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="&lt;tt&gt;nfsd [nservers]&lt;/tt&gt;" ID="ID_1491833999" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="prend en charge les requ&#xea;tes des clients" ID="ID_543502639" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="partie serveur " ID="ID_1556455250" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="&lt;i&gt;nservers&lt;/i&gt; sp&#xe9;cifie le nombre de daemon qui tournent" ID="ID_1500300264" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="&lt;tt&gt;mountd&lt;/tt&gt;" ID="ID_1590171151" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="traite les demandes de montage des clients" ID="ID_685208479" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="lanc&#xe9;s par les serveurs" ID="ID_1141526520" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="&lt;tt&gt;nfslogd&lt;/tt&gt;" ID="Freemind_Link_1960765548" CREATED="1135713971973" MODIFIED="1234213302343">
+<node TEXT="responsable du journal de NFS" ID="ID_418200233" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="&lt;tt&gt;rquotad&lt;/tt&gt;" ID="ID_1090692817" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="relatif aux quotas des utilisateurs" ID="ID_1412096948" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="tourne sur les clients et les serveurs" ID="ID_1952377752" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="&lt;tt&gt;lockd&lt;/tt&gt;" ID="ID_1936510294" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="g&#xe8;re les verrous sur les fichiers" ID="ID_1462820788" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="tourne sur les clients et les serveurs" ID="ID_1882904625" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+<node TEXT="&lt;tt&gt;statd&lt;/tt&gt;" ID="ID_1739432097" CREATED="1135713971973" MODIFIED="1135713971973">
+<node TEXT="tourne sur les clients et les serveurs" ID="ID_1149792090" CREATED="1135713971973" MODIFIED="1135713971973"/>
+<node TEXT="surveillance de l&apos;&#xe9;tat du r&#xe9;seau (pour la gestion des locks)" ID="ID_471584212" CREATED="1135713971973" MODIFIED="1135713971973"/>
+</node>
+</node>
+<node TEXT="NFS - Partage de fichiers" FOLDED="true" POSITION="right" ID="Freemind_Link_1633326441" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Pourquoi ?" ID="ID_1003094999" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="fournir de l&apos;espace &#xe0; des clients sans disque" ID="ID_1981920004" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&#xe9;viter la duplication des donn&#xe9;es" ID="ID_969257520" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="offrir des donn&#xe9;es et programmes centralis&#xe9;s" ID="ID_696034325" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="partager des donn&#xe9;es" ID="ID_146360840" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+<node TEXT="Fichier &lt;tt&gt;/etc/exports&lt;/tt&gt;" ID="ID_1002627175" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Exemple" ID="ID_1769781875" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&lt;code&gt;&#xa;/usr/man&#x9;gouyasse(rw) quintine(ro)&#xa;/usr/local&#x9;(ro)&#xa;&lt;/code&gt;" ID="ID_1851893979" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="Format : &lt;tt&gt;r&#xe9;pertoire [machine(options)] ...&lt;/tt&gt;" ID="ID_1426722986" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&lt;i&gt;Wildcard&lt;/i&gt; et/ou adresses IP autoris&#xe9;s" ID="ID_1455851205" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+<node TEXT="Particularit&#xe9;s de Solaris" ID="ID_1552815754" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="commande &lt;tt&gt;share&lt;/tt&gt;" ID="ID_1424836492" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="fichier &lt;tt&gt;dfstab&lt;/tt&gt;" ID="ID_621753006" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+</node>
+<node TEXT="NFS - Droits d&apos;acc&#xe8;s" FOLDED="true" POSITION="right" ID="Freemind_Link_731732153" CREATED="1135713971974" MODIFIED="1234213536166">
+<node TEXT="Fichier autorise l&apos;acc&#xe8;s de machines" ID="Freemind_Link_859002214" CREATED="1135713971974" MODIFIED="1234213543113"/>
+<node TEXT="Les droits d&apos;acc&#xe8;s Unix sont de rigueur" ID="Freemind_Link_1844241331" CREATED="1135713971974" MODIFIED="1234213549713"/>
+<node TEXT="Droits d&apos;acc&#xe8;s bas&#xe9;s sur les &lt;b&gt;uid&lt;/b&gt; et &lt;b&gt;gid&lt;/b&gt; ... &#xa;c&apos;est donc mieux (ou pas) s&apos;ils correspondent d&apos;une machine &#xe0; l&apos;autre. " ID="Freemind_Link_209675813" CREATED="1135713971974" MODIFIED="1234213753219"/>
+<node TEXT="L&apos;utilisateur &lt;i&gt;root&lt;/i&gt;" ID="Freemind_Link_413239886" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="directive &lt;tt&gt;root\_squash&lt;/tt&gt;" ID="ID_1342385544" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="uid root -&gt; uid nobody" ID="ID_542900132" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+<node TEXT="directives &lt;tt&gt;squash\_uids&lt;/tt&gt;, &lt;tt&gt;squash\_gids&lt;/tt&gt; et &lt;tt&gt;all\_squash&lt;/tt&gt;" ID="Freemind_Link_94513842" CREATED="1135713971974" MODIFIED="1234213725425"/>
+<node TEXT="directive &lt;tt&gt;map\_daemon&lt;/tt&gt;, permet de &#xa;faire correspondre un UID &#xe0; un autre &#xa;(voir &lt;tt&gt;rpc.ugidd&lt;/tt&gt;)" ID="Freemind_Link_166052518" CREATED="1234213726463" MODIFIED="1234213899829"/>
+</node>
+</node>
+<node TEXT="NFS - Commande &lt;tt&gt;exportfs&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1913628926" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Commande &lt;tt&gt;exportfs&lt;/tt&gt;" ID="ID_813031494" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="&lt;tt&gt;-a&lt;/tt&gt; lors de l&apos;init" ID="ID_908993479" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&lt;tt&gt;-r&lt;/tt&gt; pour une relecture" ID="ID_1730736119" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+<node TEXT="Construit le fichier &lt;tt&gt;/var/lib/nfs/xtab&lt;/tt&gt;" ID="ID_874550027" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Contient les infos sur les fichiers export&#xe9;s" ID="ID_382083678" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="Lu pas &lt;tt&gt;mountd&lt;/tt&gt;" ID="ID_1943297784" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+<node TEXT="Possibilit&#xe9; d&apos;export &quot;temporaire&quot;" ID="ID_506297269" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="&lt;tt&gt;exportfs hercule:/usr/local -o rw&lt;/tt&gt; - pour l&apos;ajout" ID="ID_275338273" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&lt;tt&gt;exportfs -u hercule:/usr/local&lt;/tt&gt; - pour la suppression" ID="ID_93874562" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+</node>
+<node TEXT="NFS - Commandes &lt;tt&gt;showmount / mount &lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1581205963" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Commande &lt;tt&gt;showmount&lt;/tt&gt;" ID="ID_1581682827" CREATED="1135713971974" MODIFIED="1135713971974">
+<node TEXT="Permet de voir les r&#xe9;pertoires export&#xe9;s pas une machine" ID="Freemind_Link_929262662" CREATED="1135713971974" MODIFIED="1148416284185">
+<node TEXT="&lt;tt&gt;showmount -e gouyasse&lt;/tt&gt;" ID="ID_1357189891" CREATED="1135713971974" MODIFIED="1135713971974"/>
+<node TEXT="&lt;code&gt;&#xa;export list for gouyasse&#xa;/usr/man &#x9;gouyasse,quintine&#xa;/local (everyone)&#xa;&lt;/code&gt;" ID="ID_1079167863" CREATED="1135713971974" MODIFIED="1135713971974"/>
+</node>
+</node>
+<node TEXT="Commande &lt;tt&gt;mount&lt;/tt&gt;" ID="ID_1428534195" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="&lt;tt&gt;mount machine:r&#xe9;pertoire-distant r&#xe9;pertoire-local&lt;/tt&gt;" ID="ID_1243261329" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="&lt;i&gt;machine&lt;/i&gt; est un serveur NFS" ID="ID_267695935" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="&lt;i&gt;r&#xe9;pertoire-distant&lt;/i&gt; un r&#xe9;pertoire export&#xe9;" ID="ID_1728066351" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="&lt;i&gt;r&#xe9;pertoire-local&lt;/i&gt; doit exister" ID="ID_246117700" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="Ajout &#xe9;ventuel du type de &lt;i&gt;filesystem&lt;/i&gt; " ID="Freemind_Link_717358289" CREATED="1135713971975" MODIFIED="1148416308436">
+<node TEXT="&lt;tt&gt;-t nfs&lt;/tt&gt;" ID="ID_1550450138" CREATED="1135713971975" MODIFIED="1135713971975"/>
+</node>
+</node>
+<node TEXT="Commande &lt;tt&gt;umount&lt;/tt&gt;" ID="ID_1648625256" CREATED="1135713971975" MODIFIED="1135713971975"/>
+</node>
+<node TEXT="NFS - Fichier &lt;tt&gt;/etc/fstab&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1129449404" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="Fichier &lt;tt&gt;/etc/fstab&lt;/tt&gt;" ID="ID_220856313" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="Les r&#xe9;pertoires export&#xe9;s peuvent apparaitre dans le fichier" ID="ID_1876817847" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="&lt;code&gt;&#xa;gouyasse:/usr/man   /usr/man   nfs  rw  0  0&#xa;&lt;/code&gt;" ID="ID_1614535162" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="Propose des options suppl&#xe9;mentaires aux options habituelles du fichier" ID="ID_1287016821" CREATED="1135713971975" MODIFIED="1135713971975"/>
+</node>
+<node TEXT="NIS - Network Information Service &lt;br/&gt; &lt;i&gt;yellow pages&lt;/i&gt;" POSITION="right" ID="Freemind_Link_798046937" CREATED="1169675977461" MODIFIED="1234214122035" COLOR="#338800">
+<node TEXT="&lt;h1&gt;NIS - Network Information Service&lt;br/&gt;&lt;i&gt;yellow pages&lt;/i&gt;&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Introduction &#xa;  \item Daemon&#xa;  \item Commandes associ&#xe9;es&#xa;\end{flushright}" ID="Freemind_Link_534865703" CREATED="1169676011143" MODIFIED="1234214170411" COLOR="#338800"/>
+</node>
+<node TEXT="NIS - Network Information Service &lt;br /&gt; &lt;i&gt;yellow pages&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_579665595" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="Base de donn&#xe9;es administrative (comparable au DNS mais &lt;b&gt;diff&#xe9;rent&lt;/b&gt;)" ID="ID_189529736" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="Similitudes" ID="ID_1007981899" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="Contr&#xf4;le centralis&#xe9;" ID="ID_688867367" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="Propagation automatique des fichiers de configuration importants" ID="ID_1397572908" CREATED="1135713971975" MODIFIED="1135713971975"/>
+</node>
+<node TEXT="Diff&#xe9;rences" ID="ID_749429318" CREATED="1135713971975" MODIFIED="1135713971975">
+<node TEXT="G&#xe8;re des petits r&#xe9;seaux priv&#xe9;s (pas Internet)" ID="ID_885478605" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="NIS partage des infos plus vari&#xe9;es (dans ses &lt;i&gt;tables NIS&lt;/i&gt;)" ID="ID_566317534" CREATED="1135713971975" MODIFIED="1135713971975"/>
+<node TEXT="La table d&apos;h&#xf4;te de NIS contient moins d&apos;informations que celle de DNS" ID="ID_718006900" CREATED="1135713971975" MODIFIED="1135713971975"/>
+</node>
+</node>
+<node TEXT="&lt;b&gt;D&#xe9;finition&lt;/b&gt;&lt;br /&gt; NIS convertit plusieurs fichiers standards en bases de donn&#xe9;es qui peuvent &#xea;tre interrog&#xe9;es via le r&#xe9;seau, ces bds sont appel&#xe9;es &lt;i&gt;tables NIS&lt;/i&gt;" ID="Freemind_Link_1333812863" CREATED="1135713971975" MODIFIED="1148416482674"/>
+</node>
+<node TEXT="NIS - Network Information Service &lt;br /&gt; &lt;i&gt;yellow pages&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1849532474" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="Quels fichiers ? " ID="ID_849170778" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="&lt;tt&gt;/etc/passwd&lt;/tt&gt;" ID="ID_492083274" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/group&lt;/tt&gt;" ID="ID_209653558" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/ethers&lt;/tt&gt;  (utilis&#xe9; par le protocole RARP)" ID="Freemind_Link_1983443874" CREATED="1135713971976" MODIFIED="1148416518541"/>
+<node TEXT="&lt;tt&gt;/etc/hosts&lt;/tt&gt;" ID="ID_1455933048" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/networks&lt;/tt&gt;" ID="ID_1410923554" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/protocols&lt;/tt&gt;" ID="ID_822829635" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/services&lt;/tt&gt;" ID="ID_1420421608" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;/etc/aliases&lt;/tt&gt;" ID="ID_1407910049" CREATED="1135713971976" MODIFIED="1135713971976"/>
+</node>
+<node TEXT="Ces fichiers sont transform&#xe9;s en table &lt;br /&gt; &#xa;&lt;tt&gt;/etc/networks&lt;/tt&gt; -&gt; &lt;tt&gt;networks.byname networks.byaddr&lt;/tt&gt;" ID="ID_452872700" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="Les tables NIS sont stock&#xe9;es dans &lt;tt&gt;/var/yp/&lt;nom du domaine&gt;&lt;/tt&gt;" ID="ID_1070573275" CREATED="1135713971976" MODIFIED="1135713971976"/>
+</node>
+<node TEXT="NIS - les &lt;i&gt;daemons&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_964992792" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="&lt;i&gt;ypserv&lt;/i&gt; &lt;br /&gt; Daemon responsable de la partie serveur de NIS" ID="ID_907185616" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;i&gt;ypbind&lt;/i&gt; &lt;br /&gt; Daemon permettant la liaison au serveur et &#xe0; ses tables NIS" ID="Freemind_Link_1820750127" CREATED="1135713971976" MODIFIED="1234214602001"/>
+</node>
+<node TEXT="NIS - les commandes (serveur)" FOLDED="true" POSITION="right" ID="Freemind_Link_1390194055" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="&lt;tt&gt;ypcat&lt;/tt&gt; - fournit la liste des tables NIS" ID="ID_1369979948" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;domainname &lt;nom du domaine&gt;&lt;/tt&gt; - &#xa;v&#xe9;rifie et met en place le nom du domaine NIS &lt;br /&gt; &#xa;(d&#xe9;fini pour le boot dans &lt;tt&gt;/etc/sysconfig/network&lt;/tt&gt;, NISDOMAIN=..)" ID="Freemind_Link_1384104094" CREATED="1135713971976" MODIFIED="1234214638522"/>
+<node TEXT="&lt;tt&gt;cd /var/yp ; make&lt;/tt&gt; - construction des tables NIS" ID="Freemind_Link_1223554193" CREATED="1135713971976" MODIFIED="1234214652437"/>
+<node TEXT="&lt;tt&gt;ypserv&lt;/tt&gt; - lancement du serveur NIS" ID="ID_1240499602" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;ypbind&lt;/tt&gt; -  processus de liaison" ID="ID_1088642925" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;ypwich&lt;/tt&gt; - renseigne le serveur NIS" ID="ID_846035165" CREATED="1135713971976" MODIFIED="1135713971976"/>
+</node>
+<node TEXT="NIS - les commandes (client)" FOLDED="true" POSITION="right" ID="Freemind_Link_427125681" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="&lt;tt&gt;domainname &lt;nom du domaine&gt; &lt;/tt&gt; - &lt;i&gt; idem serveur &lt;/i&gt;" ID="ID_890553538" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;ypbind&lt;/tt&gt;" ID="ID_1231688091" CREATED="1135713971976" MODIFIED="1135713971976"/>
+</node>
+<node TEXT="Samba" POSITION="right" ID="Freemind_Link_1627479298" CREATED="1169677193569" MODIFIED="1234776549653" COLOR="#338800">
+<node TEXT="&lt;h1&gt;Samba&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Introduction&#xa;  \item API Netbios, protocole NBT&#xa;  \item Daemons&#xa;  \item Configuration&#xa;  \item Browsing list, master browser &#xa;  \item Serveur WINS&#xa;  \item Authentification&#xa;  \item Utilitaires&#xa;\end{flushright}" ID="Freemind_Link_300401551" CREATED="1169677200232" MODIFIED="1267085683802" COLOR="#338800"/>
+</node>
+<node TEXT="Samba" FOLDED="true" POSITION="right" ID="Freemind_Link_629213400" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="Permet la communication entre machines h&#xe9;t&#xe9;rog&#xe8;nes" ID="ID_1892974106" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="Mets en oeuvre le protocole &lt;b&gt;SMB&lt;/b&gt; &lt;br /&gt;(natif sous MS Windows)" ID="ID_1646269909" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="Administration centralis&#xe9;e sur le serveur" ID="ID_119465779" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="Site associ&#xe9; : http://samba.org" ID="ID_1073990571" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="Installation" ID="ID_1439328216" CREATED="1135713971976" MODIFIED="1135713971976">
+<node TEXT="&lt;tt&gt;samba&lt;/tt&gt;" ID="ID_1259060463" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;samba-common&lt;/tt&gt;" ID="ID_1466027751" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;smbfs&lt;/tt&gt;" ID="ID_1416194054" CREATED="1135713971976" MODIFIED="1135713971976"/>
+<node TEXT="&lt;tt&gt;smbclient&lt;/tt&gt;" ID="ID_750896891" CREATED="1135713971977" MODIFIED="1135713971977"/>
+</node>
+</node>
+<node TEXT="Samba - Netbios " FOLDED="true" POSITION="right" ID="Freemind_Link_299296337" CREATED="1267084259598" MODIFIED="1267084264129">
+<node TEXT="&lt;b&gt;D&#xe9;finition:&lt;/b&gt; NetBIOS repr&#xe9;sente le mode de &#xa;nommage Microsoft pour partager des resources &#xa;entre machines dans un r&#xe9;seau local" ID="Freemind_Link_1761519539" CREATED="1255340598282" MODIFIED="1255342024048"/>
+<node TEXT=" NetBIOS est une API au niveau &lt;i&gt;applications&lt;/i&gt; (couche 4) &#xa;sur les ports 137, 138 et 139" ID="Freemind_Link_981474712" CREATED="1255340660497" MODIFIED="1255342803643">
+<node TEXT="couche 3: transport, &lt;b&gt;NetBT&lt;/b&gt;, impl&#xe9;mentation &#xa;de NetBIOS sur IP" ID="Freemind_Link_533158971" CREATED="1255340721534" MODIFIED="1255342596971">
+<node TEXT="Sans serveur WINS (voir plus loin) NetBT fait &#xa;la r&#xe9;solution de noms par broadcast&lt;br/&gt;&#xa;  - Implique de travailler sur le m&#xea;me segment IP (par d&#xe9;faut), pas de routage&lt;br/&gt;&#xa;  - Les machines sur un m&#xea;me segment finiront toujours par se &quot;voir&quot;" ID="Freemind_Link_1481718485" CREATED="1255342193334" MODIFIED="1255342339867"/>
+</node>
+<node TEXT="couche 2: internet &lt;b&gt;IP&lt;/b&gt;" ID="Freemind_Link_698691375" CREATED="1255340769625" MODIFIED="1255342584576"/>
+<node TEXT="couche 1: acc&#xe8;s r&#xe9;seau" ID="Freemind_Link_40097471" CREATED="1255340778139" MODIFIED="1255342574411"/>
+</node>
+<node TEXT="&lt;b&gt;Remarques:&lt;/b&gt; " ID="Freemind_Link_63748063" CREATED="1255340810949" MODIFIED="1255341971324">
+<node TEXT="Jadis, NetBIOS &#xe9;tait directement  impl&#xe9;ment&#xe9; via NetBEUI &#xa;\footnote{NetBUI est un protocole IBM datant de 1985}&#xa;(couche 2) sans utiliser TCP/IP " ID="Freemind_Link_9536216" CREATED="1255341972863" MODIFIED="1255342125071"/>
+<node TEXT="On ne distingue pas ici les notions de &lt;i&gt;domaine&lt;/i&gt; et de &lt;i&gt;groupe de travail&lt;/i&gt;. " ID="Freemind_Link_9105376" CREATED="1255341955903" MODIFIED="1255341958745"/>
+</node>
+</node>
+<node TEXT="Samba - Netbios" FOLDED="true" POSITION="right" ID="Freemind_Link_631006774" CREATED="1267084286587" MODIFIED="1267084291494">
+<node TEXT="Un nom NetBIOS est compos&#xe9; de &lt;b&gt;15 + 1&lt;/b&gt; caract&#xe8;res " ID="Freemind_Link_1107006159" CREATED="1255341125676" MODIFIED="1255341145888">
+<node TEXT="Les premiers repr&#xe9;sentent le nom NetBIOS" ID="Freemind_Link_891135497" CREATED="1255341150109" MODIFIED="1255341161256">
+<node TEXT="Nom de la machine &lt;b&gt;ou&lt;/b&gt;" ID="Freemind_Link_1863641020" CREATED="1255341162697" MODIFIED="1255341172097"/>
+<node TEXT="Nom du domaine/&lt;i&gt;workgroup&lt;/i&gt;" ID="Freemind_Link_1910026811" CREATED="1255341172896" MODIFIED="1255341185710"/>
+</node>
+<node TEXT="Le 16&lt;sup&gt;e&lt;/sup&gt; caract&#xe9;rise le r&#xf4;le" ID="Freemind_Link_1762552267" CREATED="1255341188698" MODIFIED="1255341210272">
+<node TEXT="00 service station de travail" ID="Freemind_Link_1555612557" CREATED="1255342611635" MODIFIED="1255344336313"/>
+<node TEXT="1B ma&#xee;tre explorateur du domaine" ID="Freemind_Link_1254633104" CREATED="1255342624001" MODIFIED="1255344332954"/>
+<node TEXT="1D serveur WINS" ID="Freemind_Link_1118933523" CREATED="1255342655824" MODIFIED="1255344339431"/>
+<node TEXT="..." ID="Freemind_Link_637574063" CREATED="1255342687251" MODIFIED="1255342688643"/>
+</node>
+<node TEXT="&lt;tt&gt;\$ nmblookup -A &lt;ip&gt;&lt;/tt&gt; ou &lt;br/&gt;&lt;tt&gt;C: nbtstat -A &lt;ip&gt;&lt;/tt&gt;" ID="Freemind_Link_1685563961" CREATED="1255445668880" MODIFIED="1255445851661"/>
+</node>
+<node TEXT="Chaque machine d&#xe9;clare (par broadcast) deux noms&#xa;\footnote{Ils &lt;b&gt;doivent&lt;/b&gt; &#xea;tre diff&#xe9;rents}" ID="Freemind_Link_11889972" CREATED="1255342706491" MODIFIED="1255343621769">
+<node TEXT="le &lt;i&gt;workgroup&lt;/i&gt; ou le domaine" ID="Freemind_Link_628717597" CREATED="1255342727732" MODIFIED="1255343576613"/>
+<node TEXT="nom de machine" ID="Freemind_Link_917254681" CREATED="1255342730988" MODIFIED="1255342734079"/>
+</node>
+</node>
+<node TEXT="Samba - &lt;i&gt;daemon&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_943064662" CREATED="1135713971977" MODIFIED="1135713971977">
+<node TEXT="&lt;tt&gt;smbd&lt;/tt&gt;" ID="Freemind_Link_1815507131" CREATED="1135713971977" MODIFIED="1135713971977">
+<node TEXT="&lt;i&gt;daemon&lt;/i&gt; responsable du partage des ressources" ID="ID_124384287" CREATED="1135713971977" MODIFIED="1135713971977">
+<node TEXT="&lt;i&gt;File sharing&lt;/i&gt;" ID="ID_1911186969" CREATED="1135713971977" MODIFIED="1135713971977"/>
+<node TEXT="&lt;i&gt;Printing services&lt;/i&gt;" ID="ID_818671121" CREATED="1135713971977" MODIFIED="1135713971977"/>
+</node>
+<node TEXT="Administre l&apos;authentification locale" ID="Freemind_Link_1814597459" CREATED="1267084641034" MODIFIED="1267084648509"/>
+</node>
+<node TEXT="&lt;tt&gt;nmbd&lt;/tt&gt;" ID="Freemind_Link_929938795" CREATED="1135713971978" MODIFIED="1135713971978">
+<node TEXT="&lt;i&gt;daemon&lt;/i&gt; NetBios" ID="ID_482446019" CREATED="1135713971978" MODIFIED="1135713971978"/>
+<node TEXT="Comprend et r&#xe9;pond aux requ&#xea;tes NetBios sur TCP/IP produites par SMB" ID="ID_1030020187" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Permet la participation au &quot;&lt;i&gt;Network Neighborhood&lt;/i&gt;&quot;" ID="ID_416861410" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Prend en charge les requ&#xea;tes de r&#xe9;solution de nom et d&apos;enregistrement des noms" ID="Freemind_Link_1675795445" CREATED="1267084612026" MODIFIED="1267084613165"/>
+</node>
+<node TEXT="&lt;tt&gt;windbindd&lt;/tt&gt;" ID="Freemind_Link_1661943624" CREATED="1267084657646" MODIFIED="1267084664514">
+<node TEXT="D&#xe9;marr&#xe9; lorsque Samba est membre d&apos;un domaine Windows NT  ou  Active Directory" ID="Freemind_Link_50752743" CREATED="1267084680175" MODIFIED="1267084682206"/>
+</node>
+<node TEXT="Activation" ID="Freemind_Link_1934418884" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="lancement des &lt;i&gt;daemons&lt;/i&gt;, &lt;tt&gt;nmbd, smbd&lt;/tt&gt;" ID="ID_1009367996" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="utilisation du script &lt;tt&gt;/etc/init.d/samba (start/stop/..)&lt;/tt&gt;" ID="Freemind_Link_1259597176" CREATED="1135713971979" MODIFIED="1140449730989"/>
+<node TEXT="via &lt;tt&gt;inetd&lt;/tt&gt;" ID="ID_41258636" CREATED="1135713971979" MODIFIED="1135713971979"/>
+</node>
+</node>
+<node TEXT="Samba - &lt;tt&gt;smb.conf&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_497239808" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="Configuration centralis&#xe9;e dans le fichier &lt;tt&gt;/etc/samba/smb.conf&lt;/tt&gt; &lt;br /&gt; &#xa;(&lt;i&gt;v&#xe9;rifier la situation&lt;/i&gt;)" ID="Freemind_Link_1008405277" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="Localisation d&#xe9;pendante du binaire&lt;br/&gt;&#xa;&lt;tt&gt;\# smbd -b | grep smb.conf&lt;/tt&gt;" ID="Freemind_Link_688617512" CREATED="1190060044217" MODIFIED="1267084771645"/>
+</node>
+<node TEXT="Fichier divis&#xe9; en &lt;b&gt;sections&lt;/b&gt;" ID="ID_1626679565" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="D&#xe9;bute par &lt;b&gt;[nom du partage]&lt;/b&gt;" ID="ID_868585999" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Une section se termine par le d&#xe9;but de la suivante (ou fin de fichier)" ID="ID_1104637455" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Chaque section correspond &#xe0; un partage, (except&#xe9; pour la section &lt;i&gt;global&lt;/i&gt;)" ID="ID_951783356" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Sections particuli&#xe8;res" ID="ID_1497992452" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="&lt;b&gt;global&lt;/b&gt; - Configuration g&#xe9;n&#xe9;rale de Samba" ID="ID_1715825374" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="&lt;b&gt;homes&lt;/b&gt; - Correspond au r&#xe9;pertoire HOME de l&apos;utilisateur" ID="ID_823075477" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="&lt;b&gt;printers&lt;/b&gt; - D&#xe9;finit le partage des imprimantes. " ID="ID_1961431737" CREATED="1135713971979" MODIFIED="1135713971979"/>
+</node>
+</node>
+</node>
+<node TEXT="Samba - &lt;tt&gt;smb.conf&lt;/tt&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1314694231" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="Format de fichier &lt;br /&gt;&#xa;&lt;code&gt;&#xa;parametre = valeur&#xa;&lt;/code&gt;" ID="ID_1350400084" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Les commentaires commencent pas \# ou ; " ID="ID_164355316" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Exemple &lt;br /&gt;&#xa;&lt;code&gt;&#xa;# A sample share for sharing your CD-ROM with others.&#xa;[cdrom]&#xa;   comment = Samba server&apos;s CD-ROM&#xa;;   valid users = user1, user2&#xa;   writable = no&#xa;   locking = no&#xa;   path = /cdrom&#xa;   public = yes&#xa;&lt;/code&gt;" ID="ID_732875807" CREATED="1135713971979" MODIFIED="1135713971979"/>
+</node>
+<node TEXT="Samba - variables" FOLDED="true" POSITION="right" ID="Freemind_Link_1556660016" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="Samba comprend une s&#xe9;rie de variables ..." ID="ID_55161810" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="&lt;i&gt;\%I&lt;/i&gt; - adresse IP du client" ID="ID_1944544115" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="&lt;i&gt;\%m&lt;/i&gt; - nom netbios du client" ID="ID_1744963805" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Ces variables permettent l&apos;&#xe9;criture de scripts personnalis&#xe9;s" ID="ID_1546360868" CREATED="1135713971979" MODIFIED="1135713971979">
+<node TEXT="On ajoutera, par exemple, &#xa;&lt;code&gt;&#xa;[monJoliPartage]&#xa;...&#xa;include /etc/samba/smb.conf.%m&#xa;...&#xa;&lt;/code&gt;" ID="ID_1751088564" CREATED="1135713971979" MODIFIED="1135713971979"/>
+<node TEXT="Si le fichier existe il est inclu ... sinon non." ID="Freemind_Link_443539629" CREATED="1135713971979" MODIFIED="1148417279955"/>
+</node>
+</node>
+<node TEXT="Samba - voisinage r&#xe9;seau  &lt;i&gt;browsing list&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1789804119" CREATED="1135713971979" MODIFIED="1267084988425">
+<node TEXT="Liste de &lt;i&gt;browsing&lt;/i&gt; (d&apos;exploration)" ID="Freemind_Link_514616368" CREATED="1190062613522" MODIFIED="1190062624796">
+<node TEXT="Permet de visualiser les partages Samba et &#xa;Microsoft Windows dans le voisinage r&#xe9;seau" ID="Freemind_Link_1894872665" CREATED="1190066881276" MODIFIED="1190066911547">
+<node TEXT="Le voisinage r&#xe9;seau est l&apos;ensemble des machines &#xa;faisant tourner NetBIOS dans un segment " ID="Freemind_Link_665431069" CREATED="1255343712936" MODIFIED="1255344537499"/>
+<node TEXT="Pour visualiser les partages sur une machine &#xa;hors segment (derrri&#xe8;re un routeur), &#xa;l&apos;interroger via son IP sur le port 139" ID="Freemind_Link_1604342720" CREATED="1255344528430" MODIFIED="1255344603971"/>
+<node TEXT="Permet de visualiser &lt;b&gt;plusieurs&lt;/b&gt; &lt;i&gt;workgroups&lt;/i&gt; ou domaines" ID="Freemind_Link_1840181894" CREATED="1255343756789" MODIFIED="1255343780461"/>
+</node>
+<node TEXT="Param&#xe8;tre &lt;tt&gt;browseable = &lt;i&gt;yes|no&lt;/i&gt;&lt;/tt&gt; &#xa;(\$ en fin de nom sous MS Windows)" ID="Freemind_Link_483301619" CREATED="1190290112647" MODIFIED="1267084966414"/>
+</node>
+<node TEXT="Chaque machine informe le ma&#xee;tre explorateur &#xa;(&lt;i&gt;master browser&lt;/i&gt;) de sa pr&#xe9;sence toutes les &lt;b&gt;12&apos;&lt;/b&gt;" ID="Freemind_Link_1882339615" CREATED="1255343817764" MODIFIED="1255344436995"/>
+</node>
+<node TEXT="Samba - explorateur principal &lt;i&gt;master browser&lt;/i&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_587877006" CREATED="1267085005019" MODIFIED="1267085020953">
+<node TEXT="D&#xe9;tient la liste de browsing qu&apos;il met &#xe0; jour gr&#xe2;ce &#xa;aux annonces des autres (via &lt;tt&gt;\_\_MSBROWSE\_\_ [01]&lt;/tt&gt;)" ID="Freemind_Link_203413202" CREATED="1190067150441" MODIFIED="1255344772378"/>
+<node TEXT="Est &#xe9;lu" ID="Freemind_Link_984119569" CREATED="1190067163230" MODIFIED="1190067177991">
+<node TEXT="Le choix se fait en fonction de l&apos;OS, le r&#xf4;le, la version, ... " ID="Freemind_Link_1314899171" CREATED="1190290164570" MODIFIED="1190290185505"/>
+<node TEXT="Param&#xe8;tre &lt;tt&gt;os level = &lt;i&gt;number&lt;/i&gt;&lt;/tt&gt;" ID="Freemind_Link_556237192" CREATED="1190290188664" MODIFIED="1190290202547"/>
+<node TEXT="Une &#xe9;lection est d&#xe9;clench&#xe9;e &lt;br/&gt;&#xa;  - d&#xe8;s que l&apos;on ne trouve pas de &lt;i&gt;master browser&lt;/i&gt; &lt;br/&gt;&#xa;  - un client d&#xe9;tecte la disparition d&apos;un &lt;i&gt;master browser&lt;/i&gt; &lt;br/&gt;&#xa;  - un serveur samba d&#xe9;marre et &quot;demande&quot; l&apos;&#xe9;lection" ID="Freemind_Link_878911516" CREATED="1255343875565" MODIFIED="1255345135384"/>
+</node>
+<node TEXT="Entraine une certain inertie" ID="Freemind_Link_1675214122" CREATED="1190067179371" MODIFIED="1190067189638">
+<node TEXT="Apr&#xe8;s chaque &#xe9;lection, &lt;i&gt;broadcast&lt;/i&gt; du nouveau &#xa;&lt;i&gt;master browser&lt;/i&gt; et &lt;i&gt;ack&lt;/i&gt; des autres" ID="Freemind_Link_1710637691" CREATED="1255343971264" MODIFIED="1255344028535"/>
+<node TEXT="Avant de consid&#xe9;rer une machine comme &#xe9;teinte, &lt;i&gt;master browser&lt;/i&gt; attend 3 mise &#xe0; jour, soit +- 36 minutes" ID="Freemind_Link_1080444072" CREATED="1255344033163" MODIFIED="1255344374799"/>
+</node>
+<node TEXT="Pour limiter l&apos;inertie" ID="Freemind_Link_1613354436" CREATED="1255344963125" MODIFIED="1255344970928">
+<node TEXT="Rendre un serveur in&#xe9;ligible (&lt;tt&gt;master browser = no&lt;/tt&gt;)" ID="Freemind_Link_21252413" CREATED="1255344972230" MODIFIED="1255345173098"/>
+<node TEXT="Utiliser un serveur WINS" ID="Freemind_Link_427770736" CREATED="1255344998421" MODIFIED="1255345004534"/>
+</node>
+</node>
+<node TEXT="Samba - serveur WINS" FOLDED="true" POSITION="right" ID="Freemind_Link_193364063" CREATED="1267085053694" MODIFIED="1267085061173">
+<node TEXT="Serveur WINS" ID="Freemind_Link_56890070" CREATED="1255345232170" MODIFIED="1255345245667">
+<node TEXT="Syst&#xe8;me de centralisation des listes de noms des machines" ID="Freemind_Link_1497789010" CREATED="1255345247301" MODIFIED="1267085074426"/>
+<node TEXT="Permet la correspondance adresse IP / noms NetBIOS" ID="Freemind_Link_1764096020" CREATED="1255345277989" MODIFIED="1255345287767"/>
+</node>
+<node TEXT="Permet de limiter les &lt;i&gt;broadcast&lt;/i&gt; et fonctionne &quot;derri&#xe8;re les routeurs&quot;" ID="Freemind_Link_1041681190" CREATED="1255345296498" MODIFIED="1255345327571">
+<node TEXT="Les clients se signalent au serveur WINS (via son IP)" ID="Freemind_Link_1810966230" CREATED="1255345346333" MODIFIED="1255345361778"/>
+<node TEXT="Les clients font leur requ&#xea;te de demande de noms/IP au serveur WINS (via son IP)" ID="Freemind_Link_1108236032" CREATED="1255345364549" MODIFIED="1255345383045"/>
+</node>
+<node TEXT="Si un client ne s&apos;identifie pas aupr&#xe8;s du serveur WINS&#xa;il ne pourra pas interroger le serveur WINS mais" ID="Freemind_Link_500329150" CREATED="1255345411853" MODIFIED="1255345549544">
+<node TEXT="S&apos;il est sur le m&#xea;me segment, le serveur WINS &#xa;recevra (un jour) sont &lt;i&gt;broadcast&lt;/i&gt; de &#xa;signalement et l&apos;insrira pour ses clients" ID="Freemind_Link_1105126660" CREATED="1255345425045" MODIFIED="1255345518993"/>
+<node TEXT="S&apos;il n&apos;est pas sur le m&#xea;me segment, il est invisible" ID="Freemind_Link_1718183207" CREATED="1255345459962" MODIFIED="1255345474050"/>
+</node>
+</node>
+<node TEXT="Samba - authentification" POSITION="right" ID="Freemind_Link_410452408" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="Types d&apos;authentification" FOLDED="true" ID="Freemind_Link_914908009" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="&lt;b&gt;share&lt;/b&gt; - authentification &apos;&#xe0; la ressource&apos;" ID="ID_688409987" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="&lt;b&gt;user&lt;/b&gt; - authentification lors de la connexion" ID="ID_230286413" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="&lt;b&gt;server&lt;/b&gt; - comme pour user mais le serveur s&apos;adresse &#xe0; un autre serveur pour l&apos;authentification" ID="ID_827084117" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="&lt;b&gt;domain&lt;/b&gt; - contr&#xf4;le via un &apos;contr&#xf4;leur de domain&apos; (responsable de l&apos;authentification)" ID="ID_1721832224" CREATED="1135713971980" MODIFIED="1135713971980"/>
+</node>
+</node>
+<node TEXT="Samba - authentification" POSITION="right" ID="Freemind_Link_924520216" CREATED="1267085360774" MODIFIED="1267085366508">
+<node TEXT="Mani&#xe8;res d&apos;authentifier" FOLDED="true" ID="Freemind_Link_969948041" CREATED="1191948162099" MODIFIED="1267085412786">
+<edge WIDTH="thin"/>
+<font NAME="Verdana" SIZE="12"/>
+<node TEXT="Peu d&apos;utilisateurs, peu de changements &#xa;(cr&#xe9;ation/destruction de comptes)&lt;br/&gt;&#xa;&lt;i&gt;smbpasswd file&lt;/i&gt;" FOLDED="true" ID="Freemind_Link_716783457" CREATED="1191948837443" MODIFIED="1191949186943">
+<node TEXT="&lt;tt&gt;passdb backend = smbpasswd, guest&lt;/tt&gt;" ID="Freemind_Link_133827252" CREATED="1191948424353" MODIFIED="1191948449645"/>
+<node TEXT="fichier, &lt;tt&gt;/etc/samba/smbpasswd&lt;/tt&gt;" ID="Freemind_Link_167752675" CREATED="1191948543222" MODIFIED="1191948559984"/>
+<node TEXT="Possibilit&#xe9; de synchroniser les &lt;i&gt;passwords&lt;/i&gt; Samba &#xa;avec les &lt;i&gt;passwords&lt;/i&gt; *nix &lt;br/&gt;&#xa;&lt;tt&gt;password program = /usr/bin/passwd  \%u&lt;/tt&gt;" ID="Freemind_Link_770188715" CREATED="1191948928917" MODIFIED="1267085640050"/>
+</node>
+<node TEXT="Nombre d&apos;utilisateurs plus cons&#xe9;quent (mais &lt;250), &#xa;le serveur peut jouer le r&#xf4;le de PDC&lt;br/&gt;&#xa;&lt;i&gt;tdbsam (trivial database)&lt;/i&gt; " FOLDED="true" ID="Freemind_Link_1712150368" CREATED="1191949056725" MODIFIED="1191950061889">
+<node TEXT="&lt;tt&gt;passdb backend = tdbsam&lt;/tt&gt;" ID="Freemind_Link_141693101" CREATED="1191948424353" MODIFIED="1191948462796"/>
+<node TEXT="fichier(s) &lt;i&gt;.tdb&lt;/i&gt; dans le r&#xe9;pertoire &lt;tt&gt;/var/lib/samba/&lt;/tt&gt;" ID="Freemind_Link_1870854590" CREATED="1191948565890" MODIFIED="1191948603819"/>
+<node TEXT="Possibilit&#xe9; identique de synchronisation des &lt;i&gt;passwords&lt;/i&gt;" ID="Freemind_Link_1503172954" CREATED="1191949105080" MODIFIED="1191949122018"/>
+<node TEXT="Ne permet pas la r&#xe9;plication (un seul PDC dans le domaine)" ID="Freemind_Link_293649697" CREATED="1191949394922" MODIFIED="1191949411322"/>
+</node>
+</node>
+</node>
+<node TEXT="Samba - authentification" POSITION="right" ID="Freemind_Link_581732847" CREATED="1267085439068" MODIFIED="1267085440114">
+<node TEXT="Mani&#xe8;res d&apos;authentifier" FOLDED="true" ID="Freemind_Link_247120341" CREATED="1191948162099" MODIFIED="1267085412786">
+<edge WIDTH="thin"/>
+<font NAME="Verdana" SIZE="12"/>
+<node TEXT="Lorsque la charge est plus importante, le serveur est PDC &#xa;et il existe un (des) BDC dans le domaine &lt;br/&gt;&#xa;&lt;i&gt;Annuaire ldap&lt;/i&gt;" FOLDED="true" ID="Freemind_Link_1212988056" CREATED="1191948273244" MODIFIED="1191949501124">
+<node TEXT="&lt;tt&gt;passdb backend = ldapsam:ldap://&lt;i&gt;&lt;hostname&gt;&lt;/i&gt;&lt;/tt&gt;" ID="Freemind_Link_47636251" CREATED="1191948424353" MODIFIED="1191948515392"/>
+<node TEXT="serveur ldap local ou distant pour un BDC " ID="Freemind_Link_1501946370" CREATED="1191948607384" MODIFIED="1191948651344"/>
+</node>
+<node TEXT="Active Directory " ID="Freemind_Link_1017433221" CREATED="1191948275452" MODIFIED="1191948280269">
+<node TEXT="&lt;i&gt;attendre Samba4 pour un impl&#xe9;mentation compl&#xe8;te de AD&lt;/i&gt;" ID="Freemind_Link_99583119" CREATED="1191948658480" MODIFIED="1191948680298"/>
+</node>
+</node>
+</node>
+<node TEXT="Samba - utilitaires" FOLDED="true" POSITION="right" ID="Freemind_Link_1138819112" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="&lt;tt&gt;testparm /etc/samba/smb.conf&lt;/tt&gt;" ID="ID_391076682" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="Permet de v&#xe9;rifier la validit&#xe9; syntaxique du fichier de conf" ID="ID_1478326832" CREATED="1135713971980" MODIFIED="1135713971980"/>
+</node>
+<node TEXT="&lt;tt&gt;/etc/init.d/samba [start|stop|restart]&lt;/tt&gt;" ID="ID_1101627786" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="Relance le &lt;i&gt;daemon&lt;/i&gt; samba" ID="ID_431347628" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="Le script s&apos;appelle &lt;i&gt;smb&lt;/i&gt; ou &lt;i&gt;samba&lt;/i&gt; suivant les distributions" ID="ID_1390230085" CREATED="1135713971980" MODIFIED="1135713971980"/>
+</node>
+<node TEXT="&lt;tt&gt;smbmount&lt;/tt&gt;" ID="ID_628770127" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="package debian &lt;i&gt;smbfs&lt;/i&gt;" ID="ID_1181741095" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="syntaxe &lt;tt&gt;smbmount //&lt;netbios name&gt;/&lt;share name&gt; &lt;mount point&gt;&lt;/tt&gt;" ID="ID_1932051327" CREATED="1135713971980" MODIFIED="1135713971980"/>
+</node>
+<node TEXT="&lt;tt&gt;smbclient&lt;/tt&gt;" ID="ID_442065621" CREATED="1135713971980" MODIFIED="1135713971980">
+<node TEXT="commande &#xe0; tout faire ...." ID="ID_614419356" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="FTP" ID="ID_1194235034" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="impression" ID="ID_953317545" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="envoi de messages" ID="ID_876874648" CREATED="1135713971980" MODIFIED="1135713971980"/>
+<node TEXT="..." ID="ID_485843994" CREATED="1135713971980" MODIFIED="1135713971980"/>
+</node>
+<node TEXT="&lt;tt&gt;smbpasswd&lt;/tt&gt;" ID="ID_1229526044" CREATED="1135713971981" MODIFIED="1135713971981">
+<node TEXT="ajoute un utilisateur &quot;samba&quot;" ID="ID_71676267" CREATED="1135713971981" MODIFIED="1135713971981"/>
+</node>
+</node>
+<node TEXT="Samba - SWAT" FOLDED="true" POSITION="right" ID="Freemind_Link_22371996" CREATED="1135713971981" MODIFIED="1135713971981">
+<node TEXT="Disponibilit&#xe9; du service (&lt;tt&gt;/etc/services&lt;/tt&gt;)" ID="ID_31709415" CREATED="1135713971981" MODIFIED="1135713971981"/>
+<node TEXT="Permet la configuration de samba via un interface web (plut&#xf4;t que l&apos;&#xe9;dition du fichier &lt;tt&gt;smb.conf&lt;/tt&gt;)" ID="ID_1188156491" CREATED="1135713971981" MODIFIED="1135713971981"/>
+<node TEXT="Gestion par &lt;tt&gt;initd&lt;/tt&gt;" ID="ID_1649584907" CREATED="1135713971986" MODIFIED="1135713971986"/>
+<node TEXT="Le serveur &#xe9;coute sur le port 901 &lt;br /&gt;&#xa;&lt;tt&gt;http://localhost:901&lt;/tt&gt;" ID="ID_1310259959" CREATED="1135713971986" MODIFIED="1135713971986"/>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" POSITION="right" ID="Freemind_Link_1902437431" CREATED="1169677210611" MODIFIED="1236588975765" COLOR="#338800">
+<node TEXT="&lt;h1&gt;PAM - Pluggable Authentication Module&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Introduction&#xa;  \item Principes&#xa;  \item Configuration&#xa;  \item Fonctionnement&#xa;  \item Linux PAM api&#xa;\end{flushright}" ID="Freemind_Link_875259569" CREATED="1169677301117" MODIFIED="1236589364426" COLOR="#338800"/>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_61885205" CREATED="1135713971987" MODIFIED="1174500221784">
+<node TEXT="Principe" ID="ID_1454919518" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="Certaines applications n&#xe9;c&#xe9;ssitent une authentification" ID="ID_365611955" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;tt&gt;login&lt;/tt&gt;" ID="ID_1817915062" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="&lt;tt&gt;sudo&lt;/tt&gt;" ID="ID_95510025" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="&lt;tt&gt;su&lt;/tt&gt;" ID="ID_1300848383" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="..." ID="ID_1008268699" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="Syst&#xe8;mes d&apos;authentification &#xe9;voluent" ID="ID_363542561" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;tt&gt;/etc/passwd&lt;/tt&gt;" ID="ID_1151674404" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="&lt;tt&gt;/etc/shadow&lt;/tt&gt;" ID="ID_1696266199" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="Annuaire LDAP" ID="ID_1617028254" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="..." ID="ID_1231190488" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="Cette &#xe9;volution impose la r&#xe9;&#xe9;criture d&apos;une partie de code de &lt;b&gt;chaque&lt;/b&gt; application n&#xe9;c&#xe9;ssitant une authentification" ID="ID_1512543113" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="L&apos;&lt;b&gt;id&#xe9;e&lt;/b&gt;; on d&#xe9;l&#xe8;gue l&apos;authentification &#xe0; des modules dynamiques" ID="ID_387896039" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="D&#xe9;finition" ID="ID_1329099876" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;i&gt;Pluggable Authentication Module&lt;/i&gt; sont des biblioth&#xe8;ques responsables d&apos;une partie de l&apos;authentification. " ID="Freemind_Link_1504560634" CREATED="1135713971987" MODIFIED="1174500277679"/>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_1420952117" CREATED="1135713971987" MODIFIED="1174500225716">
+<node TEXT="Biblioth&#xe8;que" ID="Freemind_Link_803831013" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;tt&gt;/lib/security&lt;/tt&gt;" ID="ID_1004831658" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="Une application est d&#xe9;velopp&#xe9;e pour se lier avec ces biblioth&#xe8;ques" ID="ID_256478985" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="Avantage" ID="Freemind_Link_1815698275" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="L&apos;administrateur syst&#xe8;me configure le comportement &#xa;de ces applications (ssh, ftp, login, ...) via PAM" ID="Freemind_Link_135626420" CREATED="1135713971987" MODIFIED="1236589055541">
+<node TEXT="La configuration se fait dans &lt;tt&gt;/etc/pam.d/&lt;/tt&gt; (un fichier par application)" ID="ID_187898323" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="&lt;i&gt;Anciennement la configuration se faisait dans un fichier &lt;tt&gt;/etc/pam.conf&lt;/tt&gt; unique&lt;/i&gt;" ID="ID_1369541004" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="Configuration &lt;b&gt;fine&lt;/b&gt;" ID="ID_1362857647" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="Refus simple de connexion" ID="Freemind_Link_751524782" CREATED="1135713971987" MODIFIED="1236589094658"/>
+<node TEXT="Connexion &quot;limit&#xe9;e&quot;; plage horaire, ressources, ..." ID="Freemind_Link_657588699" CREATED="1135713971987" MODIFIED="1236589153913"/>
+</node>
+</node>
+<node TEXT="Condition" ID="Freemind_Link_1371093962" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="Il faut que l&apos;application soit &lt;i&gt;PAM enabled&lt;/i&gt;" ID="ID_697226153" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_1049038031" CREATED="1135713971987" MODIFIED="1174500229886">
+<node TEXT="Format des fichiers " ID="ID_976021384" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;tt&gt;module-type   control-flag   module-path   args&lt;/tt&gt;" ID="ID_452458392" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="&lt;tt&gt;module-type&lt;/tt&gt;" ID="Freemind_Link_1502693980" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="&lt;b&gt;auth&lt;/b&gt;enticate" ID="Freemind_Link_90532055" CREATED="1135713971987" MODIFIED="1174506231555">
+<node TEXT="Identifie le &lt;i&gt;user&lt;/i&gt; comme &#xe9;tant qui il pr&#xe9;tend" ID="ID_1213441597" CREATED="1135713971987" MODIFIED="1135713971987"/>
+<node TEXT="V&#xe9;rifie l&apos;appartenance &#xe0; un groupe" ID="ID_1418391457" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="&lt;b&gt;account&lt;/b&gt;" ID="ID_998440878" CREATED="1135713971987" MODIFIED="1135713971987">
+<node TEXT="Pas d&apos;authentification mais des permissions/restrictions en fonction des ressources&lt;br /&gt;&#xa;  - temps (moment de la journ&#xe9;e) &lt;br /&gt;&#xa;  - resources syst&#xe8;me (nombre d&apos;utilisateurs connect&#xe9;s) &lt;br /&gt;&#xa;  - lieu (root se logge d&apos;une console pas d&apos;un terminal) &lt;br /&gt;" ID="ID_423954550" CREATED="1135713971987" MODIFIED="1135713971987"/>
+</node>
+<node TEXT="&lt;b&gt;session&lt;/b&gt;" ID="ID_430594474" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Destin&#xe9; aux actions a ex&#xe9;cuter avant/apr&#xe8;s la mise &#xe0; disposition du  service" ID="ID_1732002296" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="&lt;b&gt;password&lt;/b&gt;" ID="ID_151997241" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Utilis&#xe9; pour renouveler le jeton d&apos;authentification" ID="Freemind_Link_771339242" CREATED="1135713971988" MODIFIED="1148417577843"/>
+</node>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_62839931" CREATED="1135713971988" MODIFIED="1174500233769">
+<node TEXT="Format des fichiers " ID="ID_388346539" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="&lt;tt&gt;module-type   control-flag   module-path   args&lt;/tt&gt;" ID="ID_793282607" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="&lt;tt&gt;control-flag&lt;/tt&gt; &lt;br /&gt;&#xa;G&#xe8;re la mani&#xe8;re de r&#xe9;agir au &quot;r&#xe9;sultat&quot; du module." ID="Freemind_Link_1353670770" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Remarque : Les modules sont &lt;b&gt;empil&#xe9;s&lt;/b&gt;, et &#xa;ex&#xe9;cut&#xe9;s dans l&apos;ordre .. le r&#xe9;sultat de l&apos;un influence le suivant" ID="Freemind_Link_25747135" CREATED="1135713971988" MODIFIED="1236589265182"/>
+<node TEXT="&lt;i&gt;required&lt;/i&gt;" ID="ID_384619963" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Exig&#xe9; pour la r&#xe9;ussite du &lt;i&gt;module-type&lt;/i&gt;" ID="ID_322587679" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="Un &#xe9;chec n&apos;est renseign&#xe9; qu&apos;&#xe0; la fin de la pile d&apos;appel" ID="Freemind_Link_1808416714" CREATED="1135713971988" MODIFIED="1268830993403"/>
+</node>
+<node TEXT="&lt;i&gt;requisite&lt;/i&gt;" ID="ID_1616168987" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Idem que &lt;i&gt;required&lt;/i&gt;" ID="ID_1742325992" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="Mais s&apos;interromp d&#xe8;s l&apos;&#xe9;chec ... n&apos;attend pas l&apos;ex&#xe9;cution de toute la pile" ID="ID_1836283609" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="&lt;i&gt;sufficient&lt;/i&gt;" ID="ID_1483004452" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="La r&#xe9;ussite de ce module est suffisante .. on ne continue pas la pile d&apos;appel en cas de r&#xe9;ussite" ID="ID_1726809975" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="&lt;i&gt;optional&lt;/i&gt;" ID="ID_1227559159" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Optionel .. n&apos;influence pas la suite" ID="ID_901446302" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_1092231413" CREATED="1135713971988" MODIFIED="1298888737676">
+<node TEXT="Format des fichiers " ID="ID_1108843216" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="&lt;tt&gt;module-type   control-flag   module-path   args&lt;/tt&gt;" ID="ID_91920963" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="&lt;tt&gt;module-path&lt;/tt&gt;" ID="Freemind_Link_379628948" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Nom du module" ID="ID_907172297" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="S&apos;il commence par / c&apos;est un nom complet sinon &lt;tt&gt;/lib/security&lt;/tt&gt;" ID="Freemind_Link_445856188" CREATED="1135713971988" MODIFIED="1148417752629"/>
+</node>
+<node TEXT="&lt;tt&gt;args&lt;/tt&gt;" ID="Freemind_Link_923075954" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Arguments pour le module, d&#xe9;pend de celui-ci" ID="ID_261838282" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="debug, no-warn, use-first-pass, ..." ID="ID_239388290" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module" FOLDED="true" POSITION="right" ID="Freemind_Link_1165850554" CREATED="1135713971988" MODIFIED="1298888743484">
+<node TEXT="Exemple" ID="ID_799156610" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="&lt;code&gt;&#xa;auth  required  /lib/security/pam_securetty.so&#xa;auth  required  /lib/security/pam_env.so&#xa;auth  sufficient  /lib/security/pam_ldap.so&#xa;auth  required  /lib/security/pam_unix.so try_first_pass&#xa;&lt;/code&gt;" ID="ID_987441520" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="D&#xe9;roulement" ID="ID_854571598" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="V&#xe9;rification dans &lt;tt&gt;/etc/securetty&lt;/tt&gt; que la connexion peut se faire sinon &#xe9;chec ... &#xe0; la fin" ID="Freemind_Link_960282356" CREATED="1135713971988" MODIFIED="1236589445146"/>
+<node TEXT="Positionnement des variables d&apos;environnement" ID="ID_1910500511" CREATED="1135713971988" MODIFIED="1135713971988"/>
+<node TEXT="Authentification via LDAP (&lt;tt&gt;/etc/ldap.conf&lt;/tt&gt;)" ID="ID_1092375297" CREATED="1135713971988" MODIFIED="1135713971988">
+<node TEXT="Si r&#xe9;ussite, fin" ID="ID_1710227248" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+<node TEXT="En cas d&apos;&#xe9;chec de pam\_ldap, authentification Unix .. avec le &lt;i&gt;passwd&lt;/i&gt; pr&#xe9;c&#xe9;dent" ID="ID_722376354" CREATED="1135713971988" MODIFIED="1135713971988"/>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module &lt;br /&gt;&#xa;PAM enabled" FOLDED="true" POSITION="right" ID="Freemind_Link_1386299743" CREATED="1135713971989" MODIFIED="1298888972427">
+<node TEXT="Tester si l&apos;application &lt;i&gt;pampgm&lt;/i&gt; supporte PAM" ID="ID_760776931" CREATED="1135713971989" MODIFIED="1135713971989">
+<node TEXT="Voir quelles sont les librairies li&#xe9;es ou" ID="ID_514645545" CREATED="1298888766303" MODIFIED="1298888796103">
+<node TEXT="&lt;tt&gt;ldd pampgm&lt;/tt&gt;" ID="ID_1459588973" CREATED="1298888778792" MODIFIED="1298888788162"/>
+</node>
+<node TEXT="Essayer de le configurer" ID="ID_1637743852" CREATED="1298888797061" MODIFIED="1298888803612">
+<node TEXT="Ajouter le fichier &lt;tt&gt;pampgm&lt;/tt&gt; dans &lt;tt&gt;/etc/pam.d&lt;/tt&gt;" ID="ID_463923518" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="&lt;code&gt;&#xa;$ cat /etc/pam.d/pampgm &#xa;auth    required  pam_permit.so &#xa;auth    required  pam_warn.so&#xa;&lt;/code&gt;" ID="ID_515294741" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="Lancer le programme &lt;i&gt;pampgm&lt;/i&gt;&lt;br/&gt;&#xa;   -Module &lt;i&gt;pam\_permit&lt;/i&gt; autorise tout le monde &lt;br/&gt;&#xa;   -Module &lt;i&gt;parm\_warm&lt;/i&gt; logge dans syslog" ID="ID_184283333" CREATED="1135713971989" MODIFIED="1298888925892"/>
+</node>
+</node>
+</node>
+<node TEXT="PAM - Pluggable Authentication Module &lt;br /&gt;&#xa;Linux-PAM API" FOLDED="true" POSITION="right" ID="Freemind_Link_1405575130" CREATED="1135713971989" MODIFIED="1174500252670">
+<node TEXT="Ecrire un programme &lt;i&gt;PAM enabled&lt;/i&gt;" ID="ID_982945729" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="&lt;code&gt;&#xa;#include &lt;security/pam_appl.h&gt;&#xa;#include &lt;security/pam_misc.h&gt;&#xa;...&#xa;pam_authenticate() ;&#xa;...&#xa;&lt;/code&gt;" ID="ID_1836857042" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="&lt;code&gt;&#xa;cc -o application .... -lpam -lpam_misc -ldl&#xa;&lt;/code&gt;&#xa;" ID="ID_1487640675" CREATED="1135713971989" MODIFIED="1135713971989"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol" POSITION="right" ID="Freemind_Link_1460898820" CREATED="1169677316438" MODIFIED="1236590185955" COLOR="#338800">
+<font NAME="Verdana" SIZE="12"/>
+<node TEXT="&lt;h1&gt;LDAP - Lightweight Directory Access Protocol&lt;/h1&gt;&#xa;\begin{flushright}&#xa;  \item Pr&#xe9;alables&#xa;  \item Le protocole &#xa;  \item Hi&#xe9;rarchie&#xa;  \item Sch&#xe9;ma&#xa;  \item Serveur&#xa;  \item Fichiers LDIF&#xa;  \item OpenLDAP&#xa;\end{flushright}" ID="Freemind_Link_462054037" CREATED="1169677318487" MODIFIED="1237828235642" COLOR="#338800"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol" FOLDED="true" POSITION="right" ID="Freemind_Link_1989426960" CREATED="1135713971989" MODIFIED="1135713971989">
+<node TEXT="D&#xe9;finition" ID="ID_1952819010" CREATED="1135713971989" MODIFIED="1135713971989">
+<node TEXT="LDAP est un protocole d&apos;acc&#xe8;s &#xe0; un annuaire." ID="ID_1241446724" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="Un &lt;b&gt;annuaire&lt;/b&gt; est une base de donn&#xe9;es sp&#xe9;cialis&#xe9;e, " ID="ID_1647656764" CREATED="1135713971989" MODIFIED="1135713971989">
+<node TEXT="stocke des donn&#xe9;es l&#xe9;g&#xe8;rement typ&#xe9;es" ID="ID_636754043" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="les donn&#xe9;es sont structur&#xe9;es en arbre" ID="ID_1830614910" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="un annuaire est tr&#xe8;s performant en &lt;b&gt;lecture&lt;/b&gt; mais pas en &#xe9;criture" ID="ID_1496169508" CREATED="1135713971989" MODIFIED="1135713971989"/>
+</node>
+</node>
+<node TEXT="Exemples" ID="ID_1810682534" CREATED="1135713971989" MODIFIED="1135713971989">
+<node TEXT="annuaire de personnes, type &quot;pages blanches&quot;" ID="ID_908192501" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="comptes Unix" ID="ID_1090482067" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="carnet d&apos;adresses + photos" ID="ID_1752501628" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="donn&#xe9;es d&apos;identification" ID="ID_525318498" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="parc mat&#xe9;riel" ID="ID_1149507604" CREATED="1135713971989" MODIFIED="1135713971989"/>
+<node TEXT="... &lt;i&gt;tout ce qui peut-&#xea;tre nomm&#xe9; et attach&#xe9; &#xe0; de l&apos;information&lt;/i&gt;" ID="ID_772640064" CREATED="1135713971990" MODIFIED="1135713971990"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Annuaire &lt;i&gt;versus&lt;/i&gt; SGBD" FOLDED="true" POSITION="right" ID="Freemind_Link_1518974878" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="Annuaire" ID="ID_320988803" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="Lectures rapides" ID="ID_44449180" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Stocke des objets et leurs attributs (typ&#xe9;s)" ID="ID_233454815" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Organisation en arbre" ID="ID_707307422" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="R&#xe9;plication simple ( chaque modification est report&#xe9;e dans les annuaires secondaires, ...)" ID="ID_837286560" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Stocke grande quantit&#xe9; de donn&#xe9;es mais de faible volume" ID="Freemind_Link_1227599831" CREATED="1135713971990" MODIFIED="1237828278362"/>
+</node>
+<node TEXT="SGBD" ID="ID_1759676413" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="Rapidit&#xe9; d&apos;acc&#xe8;s en lecture et &#xe9;criture" ID="ID_1620791151" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Typage fort" ID="ID_421816960" CREATED="1135713971990" MODIFIED="1135713971990"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Les concepts" FOLDED="true" POSITION="right" ID="Freemind_Link_846292300" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="LDAP fournit" ID="ID_474031276" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="Un &lt;i&gt;protocole&lt;/i&gt; permettant l&apos;acc&#xe8;s &#xe0; l&apos;information" ID="ID_1817994174" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Un &lt;i&gt;mod&#xe8;le d&apos;information&lt;/i&gt;, d&#xe9;finit le type d&apos;informations" ID="ID_1703932206" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Des conventions de &lt;i&gt;nommage&lt;/i&gt;, d&#xe9;finissent comment l&apos;information est organis&#xe9;e" ID="ID_1069720413" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Un mod&#xe8;le &lt;i&gt;fonctionnel&lt;/i&gt;, d&#xe9;finit comment on acc&#xe8;de &#xe0; l&apos;information" ID="ID_460969365" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Un mod&#xe8;le de &lt;i&gt;s&#xe9;curit&#xe9;&lt;/i&gt;" ID="ID_455758293" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Un mod&#xe8;le de &lt;i&gt;duplication&lt;/i&gt;, d&#xe9;finit la r&#xe9;partition entre diff&#xe9;rents serveurs" ID="Freemind_Link_376149373" CREATED="1135713971990" MODIFIED="1143383088953"/>
+<node TEXT="Des APIs pour d&#xe9;velopper des applications" ID="ID_742369297" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="LDIF, un format d&apos;&#xe9;change de donn&#xe9;es" ID="ID_1098164207" CREATED="1135713971990" MODIFIED="1135713971990"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Le protocole" FOLDED="true" POSITION="right" ID="Freemind_Link_1532132768" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="Le protocole d&#xe9;finit" ID="ID_996795405" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="comment s&apos;&#xe9;tablit la communication client-serveur" ID="ID_1459758577" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="permet &#xe0; l&apos;utilisateur de se &lt;b&gt;connecter&lt;/b&gt;, &lt;b&gt;rechercher&lt;/b&gt;, &lt;b&gt;comparer&lt;/b&gt;, ..." ID="ID_1512229522" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="des m&#xe9;canismes de chiffrement" ID="ID_1124482614" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="des r&#xe8;gles d&apos;acc&#xe8;s" ID="ID_1464833676" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="un protocole serveur-serveur, pour la synchronisation, r&#xe9;plication, .." ID="ID_1527261524" CREATED="1135713971990" MODIFIED="1135713971990"/>
+</node>
+<node TEXT="&lt;i&gt;Pour info ...&lt;/i&gt;" ID="ID_301964577" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="LDAP est initialement une passerelle d&apos;acc&#xe8;s &#xe0; des annuaires &lt;b&gt;X500&lt;/b&gt;" ID="ID_687450634" CREATED="1135713971990" MODIFIED="1135713971990"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Mod&#xe8;le des donn&#xe9;es" FOLDED="true" POSITION="right" ID="Freemind_Link_1921732798" CREATED="1135713971990" MODIFIED="1135713971990">
+<node TEXT="&lt;b&gt;Mod&#xe8;le de donn&#xe9;es hi&#xe9;rarchique&lt;/b&gt;" ID="ID_235016056" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Chaque noeud de l&apos;arbre correspond &#xe0; une entr&#xe9;e de l&apos;annuaire" ID="ID_768738642" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Les entr&#xe9;es correspondent &#xe0; des &lt;i&gt;objets&lt;/i&gt;, ayant des &lt;i&gt;attributs&lt;/i&gt;" ID="ID_1196723522" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="Chaque serveur contient une entr&#xe9;e sp&#xe9;ciale, &lt;b&gt;rootDSE&lt;/b&gt; (&lt;i&gt;root directory specific entry&lt;/i&gt;) qui contient la description de l&apos;arbre" ID="ID_411067652" CREATED="1135713971990" MODIFIED="1135713971990"/>
+<node TEXT="objetClass  &lt;i&gt;top&lt;/i&gt; : permettra de d&#xe9;finir la &quot;v&#xe9;ritable&quot; racine de l&apos;arbre" ID="ID_1684029985" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="L&apos;arbre est appel&#xe9; &lt;i&gt;Directory Information Tree, &lt;b&gt;DIT&lt;/b&gt;&lt;/i&gt;" ID="ID_408266696" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="L&apos;ensemble des d&#xe9;finitions relatives aux donn&#xe9;es, s&apos;appelle un &lt;b&gt;sch&#xe9;ma&lt;/b&gt;" ID="ID_1670181559" CREATED="1135713971991" MODIFIED="1135713971991"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt; &#xa;Classe d&apos;objet" FOLDED="true" POSITION="right" ID="Freemind_Link_1264159086" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="Les classes d&apos;objet (&lt;i&gt;objectClass&lt;/i&gt;) mod&#xe9;lisent les objets et leurs attributs" ID="ID_1941418158" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="Une classe est d&#xe9;finie par" ID="ID_1372825174" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="un nom" ID="ID_1799896918" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="un OID (&lt;i&gt;object ID&lt;/i&gt;)" ID="ID_453462705" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="des attributs obligatoires" ID="ID_1526132810" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="des attributs optionnels" ID="ID_1306482436" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="un type  (structurel, abstrait ou auxiliaire)" ID="ID_1040451791" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="&lt;b&gt;structurel&lt;/b&gt; - description d&apos;un &#xa;objet basique, personne, groupe, &#xa;entit&#xe9; organisationnelle de la soci&#xe9;t&#xe9;, ..." ID="Freemind_Link_60155445" CREATED="1135713971991" MODIFIED="1237828572026"/>
+<node TEXT="&lt;b&gt;abstrait&lt;/b&gt; - propre &#xe0; LDAP, top, alias" ID="ID_458473960" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="&lt;b&gt;auxiliaire&lt;/b&gt; - permettent d&apos;ajouter &#xa;de l&apos;info compl&#xe9;mentaire &#xe0; un objet structurel,&#xa; &lt;i&gt;mailRecipient&lt;/i&gt;, ..." ID="Freemind_Link_1562112436" CREATED="1135713971991" MODIFIED="1237828579515"/>
+</node>
+</node>
+<node TEXT="Un attribut est d&#xe9;fini par" ID="ID_595721166" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="un nom" ID="ID_828190763" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="un oid" ID="ID_394005820" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="syntaxe et r&#xe8;gles de comparaison" ID="ID_1689935913" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="format de valeur" ID="ID_167219729" CREATED="1135713971991" MODIFIED="1135713971991"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;  &#xa;Classe d&apos;objet (suite)" FOLDED="true" POSITION="right" ID="Freemind_Link_1059731470" CREATED="1135713971991" MODIFIED="1237829957695">
+<node TEXT="OID" ID="Freemind_Link_1743774314" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="Les objets et leur oid sont normalis&#xe9;s (RFC2256) &#xa;\href{http://www.iana.org/assignments/enterprise-numbers}{[lien]}" ID="Freemind_Link_745571693" CREATED="1135713971991" MODIFIED="1237829085823"/>
+<node TEXT="&lt;i&gt;oid&lt;/i&gt; est une s&#xe9;quence de nombres entiers &lt;br /&gt;&#xa;&lt;code&gt;&#xa;2.5 - fait r&#xe9;ference au service X500&#xa;1.3.6.1.4.1.4203 - openLDAP&#xa;&lt;/code&gt;" ID="Freemind_Link_1852741469" CREATED="1135713971991" MODIFIED="1237829120357"/>
+<node TEXT="On ne modifie pas les sch&#xe9;mas existants (pas propre, risque d&apos;incompatibilit&#xe9;)" ID="ID_1214845309" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="Notion d&apos;h&#xe9;ritage entre objets" ID="ID_590128225" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="Pour l&apos;&#xc9;SI, (&lt;tt&gt;1.3.6.1.4.1.23162&lt;/tt&gt;)" ID="_" CREATED="1138291620226" MODIFIED="1237829108293"/>
+</node>
+<node TEXT="Les classes d&apos;objet forment une hierarchie" ID="ID_172462523" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="La racine est l&apos;objet &lt;i&gt;top&lt;/i&gt;" ID="ID_1728378174" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="Chaque objet h&#xe9;rite de son parent" ID="ID_247356949" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="On pr&#xe9;cise la classe d&apos;un objet &#xe0; l&apos;aide de &lt;i&gt;objectClass&lt;/i&gt;&lt;br /&gt;" ID="ID_612242448" CREATED="1135713971991" MODIFIED="1135713971991"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Classe d&apos;objet (suite)" FOLDED="true" POSITION="right" ID="Freemind_Link_1812536690" CREATED="1135713971991" MODIFIED="1237829965357">
+<node TEXT="&lt;code&gt;&#xa;objectClass: top&#xa;objectClass: person&#xa;objectClass: organizationalPerson&#xa;objectClass: inetPerson&#xa;&lt;/code&gt; " ID="ID_693392196" CREATED="1135713971991" MODIFIED="1135713971991"/>
+<node TEXT="classe &lt;b&gt;person&lt;/b&gt;" ID="ID_1640258201" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="a comme attributs : &lt;br/&gt;&#xa;&lt;i&gt;commonName&lt;/i&gt;, &lt;i&gt;surname&lt;/i&gt;, &#xa;&lt;i&gt;description, seeAlso, telephoneNumber, &#xa;userPassword&lt;/i&gt;" ID="Freemind_Link_255736959" CREATED="1135713971991" MODIFIED="1237829979142"/>
+</node>
+<node TEXT="classe &lt;b&gt;organizationalPerson&lt;/b&gt;" ID="ID_395450287" CREATED="1135713971991" MODIFIED="1135713971991">
+<node TEXT="ajoute les attributs: &lt;br /&gt;&lt;i&gt;organizationUnitName, title, ...&lt;/i&gt;" ID="ID_866349598" CREATED="1135713971991" MODIFIED="1135713971991"/>
+</node>
+<node TEXT="classe &lt;b&gt;inetPerson&lt;/b&gt;" ID="ID_1472436500" CREATED="1135713971992" MODIFIED="1135713971992">
+<node TEXT="ajoute les attributs: &lt;br/&gt; &lt;i&gt;mail, uid, photo, ...&lt;/i&gt;" ID="ID_1305605877" CREATED="1135713971992" MODIFIED="1135713971992"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;D&#xe9;finition d&apos;un Sch&#xe9;ma " FOLDED="true" POSITION="right" ID="Freemind_Link_221703065" CREATED="1135713971992" MODIFIED="1135713971992">
+<node TEXT="Lorsqu&apos;une entr&#xe9;e est cr&#xe9;e, le serveur v&#xe9;rifie si la syntaxe est conforme sur base du sch&#xe9;ma associ&#xe9;, c&apos;est le &lt;i&gt; schema checking&lt;/i&gt;" ID="Freemind_Link_21551872" CREATED="1135713971992" MODIFIED="1237830480397"/>
+<node TEXT="&lt;tt&gt;/etc/lpdap/schema/local.schema&lt;/tt&gt;&lt;br /&gt;&#xa;&lt;code&gt;&#xa;objectClass esiPerson&#xa;superior inetOrgPerson&#xa;requires&#xa;  sn,&#xa;  cn&#xa;allows&#xa;  uidNumber,&#xa;  gidNumber,&#xa;  homeDirectory,&#xa;  dateArrivee,&#xa;  dateDepart&#xa;&lt;/code&gt;" ID="ID_501486088" CREATED="1135713971992" MODIFIED="1135713971992"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Configuration du serveur" FOLDED="true" POSITION="right" ID="Freemind_Link_1410844004" CREATED="1135713971992" MODIFIED="1135713971992">
+<node TEXT="Formats diff&#xe9;rents suivants l&apos;impl&#xe9;mentation" ID="ID_1775724625" CREATED="1135713971992" MODIFIED="1135713971992">
+<node TEXT="&lt;tt&gt;slapd.conf&lt;/tt&gt;, U-M slapd, OpenLDAP, NEtscape Directory" ID="ID_1143969197" CREATED="1135713971992" MODIFIED="1135713971992"/>
+<node TEXT="..." ID="ID_1541812824" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+<node TEXT="Il existe deux objets abstraits particuliers qui permettent de faire des liens entre les noeuds ou entre des annuaires" ID="ID_1552068900" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="&lt;i&gt;aliases&lt;/i&gt;" ID="ID_330149821" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="&lt;i&gt;referrals&lt;/i&gt;" ID="ID_1486139841" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+<node TEXT="Un annuaire LDAP peut &#xea;tre constitu&#xe9; d&apos;un seul serveur ou de plusieurs" ID="Freemind_Link_1876074128" CREATED="1135713971993" MODIFIED="1143384042981">
+<node TEXT="Serveur seul" ID="ID_1948599679" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Service &lt;i&gt;referal&lt;/i&gt;" ID="ID_1082224901" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Service &lt;i&gt;duplication&lt;/i&gt;" ID="ID_1065241887" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt; &#xa;Identifiant d&apos;un objet" FOLDED="true" POSITION="right" ID="Freemind_Link_110948652" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="L&apos;identifiant unique (cl&#xe9; dans un SGBD) est le &lt;b&gt;DN&lt;/b&gt;" ID="ID_901493547" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="&lt;b&gt;DN&lt;/b&gt;, &lt;i&gt;Distinguished name&lt;/i&gt; est le nom unique dans l&apos;annuaire, il repr&#xe9;sente le chemin absolu depuis &lt;i&gt;top&lt;/i&gt;" ID="ID_549534108" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Exemple : &lt;tt&gt;uid=pbt, ou=prof, dc=esi, dc=be&lt;/tt&gt;" ID="ID_371305904" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Il se compose " ID="ID_1996533302" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="des attributs obligatoires" ID="ID_746053849" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="de la liste des &lt;b&gt;ou&lt;/b&gt; &lt;i&gt;organisationnal unit&lt;/i&gt;" ID="ID_179076762" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="des organisations &lt;b&gt;o&lt;/b&gt;" ID="ID_541818090" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol&lt;br /&gt;&#xa;LDIF - LDAP Data Interchange Format" FOLDED="true" POSITION="right" ID="Freemind_Link_1281826701" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="LDIF permet de repr&#xe9;senter les donn&#xe9;es" ID="ID_551834941" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Utilis&#xe9; pour " ID="ID_837687024" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="importer / exporter des bds" ID="ID_1085294697" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="faire des modifications sur des entr&#xe9;es" ID="ID_37606506" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+<node TEXT="&lt;code&gt;&#xa;dn : cn=PbT, ou=prof, dc=esi, dc=be&#xa;objectClass: person&#xa;objectClass: organizationalPerson&#xa;objectClass: inetOrgPerson&#xa;cn: PbT&#xa;mail : pbettens@heb.be&#xa;...&#xa;&lt;/code&gt;" ID="Freemind_Link_1010482039" CREATED="1135713971993" MODIFIED="1237830560001"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol&lt;br /&gt; &#xa;LDIF - LDAP Data Interchange Format (suite)" FOLDED="true" POSITION="right" ID="Freemind_Link_179438070" CREATED="1135713971993" MODIFIED="1237830581618">
+<node TEXT="Permet de faire des modifications, &lt;b&gt;ajouts&lt;/b&gt;, &lt;b&gt;suppression&lt;/b&gt;, ..." ID="ID_699688930" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Exemple d&apos;ajout &lt;br /&gt;&#xa;&lt;code&gt;&#xa;dn: cn=Juste Leblanc, ou=sales, o=Ed Oreilly, c=fr&#xa;changetype: modify&#xa;add: telephonenumber&#xa;telephonenumber: (408) 123 - 456&#xa;&lt;/code&gt;" ID="ID_1959606490" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="Exemple de suppression &lt;br /&gt;&#xa;&lt;code&gt;&#xa;dn: cn=Juste Leblanc, ou=sales, o=Ed Oreilly, c=fr&#xa;changetype: delete&#xa;&lt;/code&gt;" ID="ID_57063463" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Mod&#xe8;le fonctionnel" FOLDED="true" POSITION="right" ID="Freemind_Link_874372333" CREATED="1135713971993" MODIFIED="1135713971993">
+<node TEXT="Le mod&#xe8;le fonctionnel d&#xe9;finit les op&#xe9;rations &#xa;de bases  pouvant &#xea;tre ex&#xe9;cut&#xe9;es sur le serveur" ID="Freemind_Link_1377289574" CREATED="1135713971993" MODIFIED="1237830595442">
+<node TEXT="&lt;i&gt;search, compare, add, modify, delete, rename, bind ... &lt;/i&gt;" ID="Freemind_Link_93749510" CREATED="1135713971993" MODIFIED="1237830604089"/>
+<node TEXT="(voir webographie pour les d&#xe9;tails)" ID="ID_978077680" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+<node TEXT="Pour une recherche, on devra d&#xe9;finir le &#xa;&lt;i&gt;scope&lt;/i&gt; de celle-ci" ID="Freemind_Link_903817671" CREATED="1135713971993" MODIFIED="1237830617739">
+<node TEXT="&lt;tt&gt;search scop = base&lt;/tt&gt; &lt;br /&gt; permet de rechercher un &#xe9;lement" ID="ID_570006503" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="&lt;tt&gt;search scope = onlevel search&lt;/tt&gt; &lt;br /&gt; permet de rechercher sur le niveau enfant" ID="ID_213591455" CREATED="1135713971993" MODIFIED="1135713971993"/>
+<node TEXT="&lt;tt&gt;search scope = subtree&lt;/tt&gt; &lt;br /&gt; permet la recherche dans tout l&apos;arbre &quot;enfant&quot;" ID="ID_914734200" CREATED="1135713971993" MODIFIED="1135713971993"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;D&#xe9;ployer un service LDAP" FOLDED="true" POSITION="right" ID="Freemind_Link_1271404092" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="&lt;i&gt;D&#xe9;ployer un annuaire n&#xe9;cessite une r&#xe9;flexion &#xa;au sein de la soci&#xe9;t&#xe9;. Ces aspects sortent du cadre &#xa;de cette pr&#xe9;sentation ... mais en bref&lt;/i&gt;" ID="Freemind_Link_30463365" CREATED="1135713972001" MODIFIED="1237830641366"/>
+<node TEXT="Aspects organisationnels" ID="ID_1734111108" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="Nature des donn&#xe9;es stock&#xe9;es" ID="ID_145029548" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Que doit servir l&apos;annuaire ?" ID="ID_171457100" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Maintient des donn&#xe9;es &#xe0; jour, sources des donn&#xe9;es, p&#xe9;rennit&#xe9;" ID="ID_10697236" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Confidentialit&#xe9;, authentification, contr&#xf4;le d&apos;acc&#xe8;s, ..." ID="ID_914993588" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+<node TEXT="Choix du sch&#xe9;ma" ID="ID_1381779013" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Choix du mod&#xe8;le de nommage" ID="ID_359914243" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="Nombre d&apos;entr&#xe9;es actuelles et &#xe9;volution" ID="ID_1467061363" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Type des entr&#xe9;es" ID="ID_1684811768" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Nombre de serveurs et r&#xe9;partition des donn&#xe9;es sur ceux-ci" ID="ID_325367095" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="choix du DN &lt;i&gt;distinghished name&lt;/i&gt;" ID="Freemind_Link_762595906" CREATED="1135713972001" MODIFIED="1237830661181"/>
+<node TEXT="choix du suffixe, exemple &lt;tt&gt;dc=esi, dc=be&lt;/tt&gt;" ID="Freemind_Link_916601007" CREATED="1135713972001" MODIFIED="1237830667920"/>
+</node>
+<node TEXT="Duplication ? R&#xe9;plication ?" ID="ID_1180646188" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="..." ID="ID_1236522773" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;&#xa;Cas particulier de &lt;b&gt;OpenLDAP&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_243755175" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="&lt;b&gt;OpenLDAP&lt;/b&gt; est une impl&#xe9;mentation libre de LDAP" ID="ID_1398724406" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="&lt;tt&gt;http://openldap.org&lt;/tt&gt;" ID="ID_1646574544" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="&lt;i&gt;Related software&lt;/i&gt;" ID="ID_483342025" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="Transport, OpenSSL ( &lt;tt&gt;http://openssl.org&lt;/tt&gt;)" ID="ID_41871723" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Authentification, Kerberos" ID="ID_1251915360" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="Threads, OpenLDAP supporte &lt;i&gt;POSIX pthreads&lt;/i&gt;" ID="ID_950632480" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt; &#xa;Cas particulier de &lt;b&gt;OpenLDAP&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1699633460" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="Installation" ID="ID_41496296" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="Via les &lt;i&gt;packages&lt;/i&gt; " ID="ID_1695143781" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="&lt;tt&gt;slapd&lt;/tt&gt;" ID="ID_1000996247" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="&lt;tt&gt;ldap-utils&lt;/tt&gt;" ID="ID_606337841" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+<node TEXT="M&#xe9;thode &quot;traditionnelle&quot;" ID="ID_1311103129" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="&lt;tt&gt;configure; make ; make install ...&lt;/tt&gt;" ID="ID_956704059" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+</node>
+<node TEXT="&lt;i&gt;daemons&lt;/i&gt;" ID="ID_1789207199" CREATED="1135713972001" MODIFIED="1135713972001">
+<node TEXT="&lt;tt&gt;slapd&lt;/tt&gt;, pour la gestion de l&apos;annuaire" ID="ID_957833228" CREATED="1135713972001" MODIFIED="1135713972001"/>
+<node TEXT="&lt;tt&gt;slurpd&lt;/tt&gt;, pour la r&#xe9;plication" ID="ID_1913415307" CREATED="1135713972001" MODIFIED="1135713972001"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt; &#xa;Cas particulier de &lt;b&gt;OpenLDAP&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1390064825" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Configuration" ID="ID_100499336" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="&lt;i&gt;via&lt;/i&gt; le fichier &lt;tt&gt;/etc/ldap/slapd.conf&lt;/tt&gt;" ID="ID_1536433825" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Adaptation du fichier de configuration" ID="ID_1828371240" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Adresse IP du serveur LDAP" ID="ID_814990813" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Position du DN de l&apos;annuaire" ID="ID_1201471844" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="SSL &lt;i&gt;yes/no&lt;/i&gt;" ID="ID_1958642204" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Schema(s) suppl&#xe9;mentaire(s) &#xe9;ventuel(s)" ID="ID_736137773" CREATED="1135713972002" MODIFIED="1135713972002"/>
+</node>
+</node>
+<node TEXT="Script" ID="ID_152103334" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Gestion du serveur &lt;i&gt;via&lt;/i&gt;" ID="ID_1753046332" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="&lt;tt&gt;/etc/init.d/slapd {start|stoprestart|force-reload}&lt;/tt&gt;" ID="ID_1538644689" CREATED="1135713972002" MODIFIED="1135713972002"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt;  &#xa;Cas particulier de &lt;b&gt;OpenLDAP&lt;/b&gt;" FOLDED="true" POSITION="right" ID="Freemind_Link_1359079621" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Organisation de l&apos;annuaire" ID="ID_1161917737" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="V&#xe9;rification des &lt;b&gt;schemas&lt;/b&gt;" ID="ID_294119180" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="(probablement), cr&#xe9;ation d&apos;un schema particulier &lt;br /&gt;&#xa;&lt;tt&gt;/etc/ldap/schema/local.schema&lt;/tt&gt;" ID="ID_602185851" CREATED="1135713972002" MODIFIED="1135713972002"/>
+</node>
+<node TEXT="Gestion du contenu &lt;br /&gt;&#xa;(&lt;i&gt;fichier(s) LDIF&lt;/i&gt;)" ID="ID_1952117229" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Ajout d&apos;utilisateur, &lt;tt&gt;ldapadd&lt;/tt&gt;" ID="ID_1929871788" CREATED="1135713972002" MODIFIED="1135713972002"/>
+</node>
+</node>
+<node TEXT="LDAP - Lightweight Directory Access Protocol &lt;br /&gt; &#xa;Logiciels LDAP" FOLDED="true" POSITION="right" ID="Freemind_Link_651100258" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Serveurs" ID="Freemind_Link_270125943" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="OpenLDAP" ID="ID_937083217" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Netscape Directory Server" ID="ID_245970550" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Innosoft&apos;s Distributed Directory Server" ID="ID_517700192" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="..." ID="ID_1544337633" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="D&apos;autres supportent les requ&#xea;tes" ID="Freemind_Link_469984885" CREATED="1135713972002" MODIFIED="1143384219301">
+<node TEXT="Novell&apos;NetWare Directory Services" ID="ID_1746204365" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Microsoft Active Directory" ID="ID_1421218714" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Lotus Domino" ID="ID_219375206" CREATED="1135713972002" MODIFIED="1135713972002"/>
+</node>
+</node>
+<node TEXT="Type de clients" ID="ID_1755211605" CREATED="1135713972002" MODIFIED="1135713972002">
+<node TEXT="Logiciels avec acc&#xe8;s natif, Netscape Communicator, MS Outlook, &lt;i&gt;Browsers&lt;/i&gt;" ID="ID_1438504962" CREATED="1135713972002" MODIFIED="1135713972002"/>
+<node TEXT="Acces &lt;i&gt;via&lt;/i&gt; passerelle" ID="ID_1719258033" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="Utilisation des API, Java; Perl, C, " ID="ID_638584534" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="Natif ds l&apos;OS, MS Windows NT5, PAM LDAP, NIS &lt;i&gt;versus&lt;/i&gt; LDAP" ID="ID_1210150240" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+</node>
+<node TEXT="Serveur web &lt;br /&gt; Apache" POSITION="right" ID="Freemind_Link_172974670" CREATED="1169677344188" MODIFIED="1335418604967" COLOR="#00cc33">
+<node TEXT="&lt;h1&gt;Serveur web &lt;br /&gt; Apache&lt;/h1&gt;&#xa;\begin{flushright}&#xa;   \item Installation&#xa;   \item Configuration&#xa;\end{flushright}" ID="Freemind_Link_1805598862" CREATED="1169677346067" MODIFIED="1335418620441" COLOR="#00cc33"/>
+</node>
+<node TEXT="Serveur web &lt;br /&gt; Apache" FOLDED="true" POSITION="right" ID="Freemind_Link_1957549180" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Un &lt;i&gt;serveur web&lt;/i&gt; permet la propagation de l&apos;information sur un r&#xe9;seau IP" ID="ID_1443645737" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="&lt;b&gt;Apache&lt;/b&gt; est un logiciel fournissant le &#xab; service &#xbb; serveur web" ID="Freemind_Link_1621353679" CREATED="1135713972003" MODIFIED="1335418653977"/>
+<node TEXT="Installation " ID="ID_1354735669" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="&lt;tt&gt;apt-get install apache2  apache2-doc libapache2-mod-php&lt;/tt&gt;" ID="ID_1176968310" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+<node TEXT="Fichiers de configuration" ID="ID_1000370447" CREATED="1135713972003" MODIFIED="1335419134501">
+<node TEXT="&lt;tt&gt;httpd.conf&lt;/tt&gt; (obsol&#xe8;te dans la version apache2)" ID="ID_556823737" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="&lt;tt&gt;apache2.conf&lt;/tt&gt;" ID="ID_1126250895" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="&lt;tt&gt;conf.d/&lt;/tt&gt;" ID="ID_855618735" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="&lt;tt&gt;mod-enabled/&lt;/tt&gt; (&lt;i&gt;versus&lt;/i&gt; &lt;tt&gt;mod-available/&lt;/tt&gt;)" ID="ID_340586114" CREATED="1135713972003" MODIFIED="1335418687051"/>
+<node TEXT="&lt;tt&gt;sites-enabled/&lt;/tt&gt; (&lt;i&gt;versus&lt;/i&gt; &lt;tt&gt;sites-available/&lt;/tt&gt;)" ID="ID_463472855" CREATED="1135713972003" MODIFIED="1335419105156"/>
+<node TEXT="&lt;tt&gt;ports.conf&lt;/tt&gt;" ID="ID_1327579040" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="... bref &lt;tt&gt;ls -l /etc/apache2&lt;/tt&gt;" ID="ID_996166114" CREATED="1135713972003" MODIFIED="1335419128113"/>
+</node>
+</node>
+<node TEXT="Serveur web &lt;br /&gt; Apache" FOLDED="true" POSITION="right" ID="Freemind_Link_1246935549" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Script de gestion du(des) &lt;i&gt;daemon(s)&lt;/i&gt;" ID="ID_939572102" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="&lt;tt&gt;/etc/init.d/apache2 [start|stop...]&lt;/tt&gt;" ID="ID_258551408" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="Nombre de &lt;i&gt;daemons&lt;/i&gt; (&lt;b&gt;essaim&lt;/b&gt;)" ID="ID_1470832275" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="StartServers            5 &lt;br /&gt;&#xa;MinSpareServers     5 &lt;br /&gt;&#xa;MaxSpareServers     10 " ID="Freemind_Link_286237396" CREATED="1135713972003" MODIFIED="1178774671700"/>
+</node>
+</node>
+<node TEXT="Les pages web ... emplacement " ID="ID_758291505" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Directive &lt;tt&gt;DocumentRoot&lt;/tt&gt;" ID="ID_994335490" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="&lt;tt&gt;\#cat sites-enabled\/000-default&lt;/tt&gt;" ID="ID_785439462" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+<node TEXT="Chargement des modules" ID="ID_951073860" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Apache propose des modules logiciels offrant diverses fonctionnalit&#xe9;s" ID="ID_1437697958" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="voir &lt;tt&gt;/etc/apache2/mods\_enabled&lt;/tt&gt; qui contient des liens vers certains fichiers dans &lt;tt&gt;mods\_available&lt;/tt&gt;" ID="ID_321691572" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+</node>
+<node TEXT="Serveur web &lt;br /&gt; Apache" FOLDED="true" POSITION="right" ID="Freemind_Link_1302251440" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Journalisation" ID="ID_844383702" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Pr&#xe9;ciser l&apos;emplacement des fichiers &lt;i&gt;log&lt;/i&gt; - &lt;tt&gt;ErrorLog&lt;/tt&gt;" ID="ID_1147928594" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="Quantiti&#xe9; d&apos;infos  - &lt;tt&gt;LogLevel&lt;/tt&gt;" ID="ID_1689799220" CREATED="1135713972003" MODIFIED="1135713972003"/>
+<node TEXT="Format des logs - &lt;tt&gt;Logformat&lt;/tt&gt;" ID="ID_1130168208" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+<node TEXT="Contr&#xf4;le d&apos;acc&#xe8;s" ID="ID_928748059" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="&lt;tt&gt;Order deny, allow &lt;br/&gt;&#xa;Deny from all &lt;br /&gt;&#xa;Allow from esi.be &lt;br /&gt;&#xa;&lt;/tt&gt;" ID="Freemind_Link_1423599435" CREATED="1135713972003" MODIFIED="1178775236077"/>
+<node TEXT="Possibilit&#xe9; d&apos;authoriser l&apos;acc&#xe8;s sur base de login/password ... voir directive &lt;tt&gt;Auth*&lt;/tt&gt;" ID="ID_731693845" CREATED="1135713972003" MODIFIED="1135713972003"/>
+</node>
+</node>
+<node TEXT="Serveur web &lt;br /&gt; Apache" FOLDED="true" POSITION="right" ID="ID_152000743" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Points NON abord&#xe9;s" ID="ID_152355045" CREATED="1135713972003" MODIFIED="1135713972003">
+<node TEXT="Serveurs mandataires (&lt;i&gt;proxy&lt;/i&gt;)" ID="ID_1675623005" CREATED="1135713972004" MODIFIED="1135713972004"/>
+<node TEXT="S&#xe9;curit&#xe9; / encryptage (certificat)" ID="ID_660420767" CREATED="1135713972004" MODIFIED="1135713972004"/>
+<node TEXT="Fichier &lt;tt&gt;.htaccess&lt;/tt&gt;" ID="ID_1084229870" CREATED="1335419174332" MODIFIED="1335419184533"/>
+<node TEXT="H&#xf4;tes virtuels" ID="ID_31919163" CREATED="1135713972004" MODIFIED="1135713972004"/>
+</node>
+</node>
+<node TEXT="Cr&#xe9;dits" FOLDED="true" POSITION="right" ID="Freemind_Link_522141220" CREATED="1135713972004" MODIFIED="1335418425898" COLOR="#ff6666">
+<node TEXT="&lt;b&gt;freemind&lt;/b&gt; - http://freemind.sourceforge.net &lt;br /&gt;&#xa;&lt;i&gt;G&#xe9;n&#xe9;ration d&apos;un Mind Map&lt;/i&gt;" ID="ID_475420436" CREATED="1135713972004" MODIFIED="1135713972004"/>
+<node TEXT="G&#xe9;n&#xe9;ration des slides sur base du Map freemind" FOLDED="true" ID="Freemind_Link_953054206" CREATED="1135713972004" MODIFIED="1135713972004">
+<node TEXT="Scripts Perl &lt;br /&gt;&#xa; - freemind2s5.pl de Vincent Oberle &lt;br /&gt;&#xa; - freemind2beamer.pl modification (incompl&#xe8;te) du script dePierre Bettens &lt;br /&gt;" ID="ID_327506199" CREATED="1135713972004" MODIFIED="1335418449440"/>
+<node TEXT="Format PDF" ID="ID_22296082" CREATED="1135713972004" MODIFIED="1135713972004">
+<node TEXT="&lt;b&gt; \LaTeX &lt;/b&gt;" ID="ID_1370854380" CREATED="1135713972004" MODIFIED="1135713972004"/>
+<node TEXT="package &lt;i&gt;beamer&lt;/i&gt; " ID="ID_588177143" CREATED="1135713972004" MODIFIED="1135713972004"/>
+</node>
+</node>
+</node>
+</node>
+</map>
