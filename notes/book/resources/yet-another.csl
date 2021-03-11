@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<style class="note" version="1.0" 
+    demote-non-dropping-particle="sort-only" 
+    default-locale="fr-BE"
+    page-range-format="expanded" 
+    xmlns="http://purl.org/net/xbiblio/csl">
+  <!-- 
+    This style was first edited with the Visual CSL Editor 
+    (https://editor.citationstyles.org/visualEditor/) 
+    After with simple editor. 
+    Thanks to Aquitania (French) and 
+    The University of Western Australia - Harvard 
+  -->
+  <info>
+    <title>Yet another CSL</title>
+    <id>yacsl</id>
+     <link href="http://www.zotero.org/styles/yacsl" rel="self"/>
+    <author>
+      <name>Pierre Bettens</name>
+      <email>pbettens@he2b.be</email>
+    </author>
+    <category citation-format="note"/>
+    <updated>2021-02-11T10:03:02+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">
+      This work is licensed under a Creative Commons 
+      Attribution-ShareAlike 3.0 License
+    </rights>
+  </info>
+  <locale xml:lang="fr-BE">
+    <terms>
+      <term name="edition" form="short">ed.</term>
+      <term name="available at">disponible</term>
+      <term name="cited">op. cit.</term>
+      <term name="editor" form="short">ed.</term>
+      <term name="accessed">Consulté le </term>
+      <term name="anonymous">anonyme</term>
+      <term name="anonymous" form="short">anon.</term>
+      <term name="no date">sans date</term>
+      <term name="no date" form="short">s.d.</term>
+      <term name="sub verbo">s.u.</term>
+      <term name="open-quote">« </term>
+      <term name="close-quote"> »</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+
+  <macro name="title">
+    <text variable="title" font-style="italic"/>
+  </macro>
+  <macro name="author">
+    <names variable="author">
+      <name name-as-sort-order="all" 
+        and="symbol"
+        font-variant="small-caps" 
+        sort-separator=", " 
+        initialize-with=""/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  <macro name="url-access">
+    <choose>
+      <if variable="url">
+        <text variable="url"/>
+        <date variable="urldate" prefix="( accessed " suffix=")">
+            <date-part name="day" suffix=" "/>
+            <date-part name="month" text-case="lowercase" suffix=" "/>
+            <date-part name="year"/>
+        </date>
+      </if>
+    </choose>
+  </macro>
+
+
+  <macro name="editor">
+    <names variable="editor">
+      <name and="symbol" initialize-with=""/>
+      <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
+    </names>
+  </macro>
+  
+  
+ 
+  
+  
+  <macro name="publisher">
+    <group delimiter=", " prefix=". ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+  <macro name="date-short">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="collection">
+    <choose>
+      <if type="motion_picture map entry-dictionary entry-encyclopedia book speech paper-conference chapter" match="any">
+        <group prefix=" (" suffix=")" delimiter=", ">
+          <text variable="collection-title"/>
+          <text variable="collection-number"/>
+        </group>
+      </if>
+      <else-if type="article-journal">
+        <text term="issue" prefix=", " suffix=": "/>
+        <text variable="collection-title" font-style="italic"/>
+      </else-if>
+      <else>
+        <text variable="collection-title" suffix=", " font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="page-bib">
+    <choose>
+      <if type="book" match="any"/>
+      <else-if type="map manuscript thesis motion_picture broadcast" match="any"/>
+      <else-if type="report entry-dictionary entry-encyclopedia chapter" match="any">
+        <group delimiter=" " prefix=", " suffix=".">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </else-if>
+      <else-if type="graphic personal_communication interview webpage" match="any"/>
+      <else-if type="article-journal article-magazine article-newspaper speech paper-conference" match="any">
+        <text variable="page" prefix=", "/>
+      </else-if>
+      <else>
+        <choose>
+          <if is-numeric="number-of-pages">
+            <text variable="number-of-pages" prefix=", "/>
+            <text term="page" form="short" prefix=" " suffix="."/>
+          </if>
+          <else>
+            <text variable="number-of-pages" prefix=", " suffix="."/>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </macro>
+
+  <citation et-al-min="3" et-al-use-first="1" 
+      disambiguate-add-year-suffix="true" 
+      disambiguate-add-names="true" 
+      disambiguate-add-givenname="true">
+    <sort>
+      <key macro="author"/>
+    </sort>
+    <layout delimiter="; " prefix="" suffix=" ">
+      <text macro="title" suffix=" "/>
+      <text macro="url-access"/>
+    </layout>
+  </citation>
+
+  <bibliography et-al-min="15" et-al-use-first="14" 
+      initialize-with="." hanging-indent="false" 
+      subsequent-author-substitute=" ">
+    <sort>
+      <key macro="author"/>
+      <key variable="issued" sort="ascending"/>
+      <key macro="title"/>
+    </sort>
+    <layout suffix=".">
+      <text macro="author"/>
+      <text macro="date-short" prefix="(" suffix=") : "/>
+      <text macro="title"/>
+      <text macro="edition"/>
+      <text macro="collection"/>
+      <text macro="page-bib"/>
+    </layout>
+  </bibliography>
+</style>

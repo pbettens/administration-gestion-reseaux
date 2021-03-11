@@ -1,0 +1,81 @@
+\contentsline {section}{\relax \emph {root} est-il Dieu\tmspace +\thinmuskip {.1667em}?}{3}{section*.1}% 
+\contentsline {subsection}{\relax Mais qui est \emph {root} ?}{3}{section*.1}% 
+\contentsline {section}{\relax *nix, les bases}{4}{section*.1}% 
+\contentsline {subsection}{\relax Les utilisateurices \emph {users} et les groupes}{4}{section*.1}% 
+\contentsline {subsubsection}{\relax Choisir un bon mot de passe}{7}{section*.1}% 
+\contentsline {subsubsection}{\relax Le coin des commandes}{8}{section*.1}% 
+\contentsline {paragraph}{\relax \texttt {adduser} et \texttt {addgroup}}{8}{section*.1}% 
+\contentsline {paragraph}{\relax \texttt {useradd} et \texttt {usergroup}}{9}{section*.1}% 
+\contentsline {paragraph}{\relax \texttt {userdel} et \texttt {deluser}}{9}{section*.1}% 
+\contentsline {paragraph}{\relax \texttt {chage}}{9}{section*.1}% 
+\contentsline {paragraph}{\relax \texttt {su}}{9}{section*.1}% 
+\contentsline {subsection}{\relax Le système de fichiers}{10}{section*.1}% 
+\contentsline {subsubsection}{\relax Chemins relatifs, chemins absolus}{12}{table.1}% 
+\contentsline {subsubsection}{\relax Les différents types de fichiers}{12}{table.1}% 
+\contentsline {subsubsection}{\relax Les permissions}{13}{table.1}% 
+\contentsline {subsubsection}{\relax Le coin des commandes}{13}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {ls}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {cd}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {chmod}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {chgrp}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {du} et \texttt {df}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {u\textbar {}mount}}{14}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {touch}}{15}{table.1}% 
+\contentsline {paragraph}{\relax \texttt {mkfifo}}{15}{table.1}% 
+\contentsline {subsection}{\relax Les processus}{16}{table.1}% 
+\contentsline {subsubsection}{\relax Le coin des commandes}{17}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {ps}}{17}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {kill}}{17}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {top} et \texttt {htop}}{18}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {pstree}}{18}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {pidof}}{18}{table.2}% 
+\contentsline {subsection}{\relax Tâches périodiques \texttt {cron}}{19}{table.2}% 
+\contentsline {subsection}{\relax Gestionnaire de paquet \texttt {apt}}{21}{table.2}% 
+\contentsline {subsubsection}{\relax \texttt {apt}}{21}{table.2}% 
+\contentsline {subsection}{\relax Démarrage du système, \texttt {systemd}}{23}{table.2}% 
+\contentsline {subsubsection}{\relax Le coin de la commande}{24}{table.2}% 
+\contentsline {paragraph}{\relax \texttt {systemctl}}{24}{table.2}% 
+\contentsline {section}{\relax Rappel des bases réseau}{25}{table.2}% 
+\contentsline {subsection}{\relax Modèle}{25}{table.2}% 
+\contentsline {subsection}{\relax Adresses}{27}{table.2}% 
+\contentsline {subsubsection}{\relax Adresse IPv4}{27}{table.2}% 
+\contentsline {subsubsection}{\relax Adresse IPv6}{27}{table.2}% 
+\contentsline {subsection}{\relax Routage élémentaire}{29}{table.2}% 
+\contentsline {subsection}{\relax Résolution d'adresse}{29}{table.2}% 
+\contentsline {subsection}{\relax Noms}{29}{table.2}% 
+\contentsline {subsection}{\relax Le coin des commandes}{30}{table.2}% 
+\contentsline {subsubsection}{\relax \texttt {ip}}{30}{table.2}% 
+\contentsline {subsubsection}{\relax \texttt {hostname}}{30}{table.2}% 
+\contentsline {subsubsection}{\relax \texttt {netstat}}{31}{table.2}% 
+\contentsline {subsubsection}{\relax \texttt {dig}}{31}{table.2}% 
+\contentsline {section}{\relax Le shell}{32}{table.2}% 
+\contentsline {subsection}{\relax Commandes \texttt {shell}}{33}{table.2}% 
+\contentsline {subsection}{\relax Les expansions}{34}{table.3}% 
+\contentsline {subsection}{\relax Les redirections}{36}{table.4}% 
+\contentsline {subsection}{\relax Les tests}{36}{table.4}% 
+\contentsline {subsection}{\relax L'historique}{37}{table.4}% 
+\contentsline {subsection}{\relax Les commandes internes de \texttt {bash}}{38}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Script \texttt {shell}}{39}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Astuces et raccourcis \texttt {bash}}{40}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Le coin des commandes}{41}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax head}{41}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax tail}{41}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax grep}{41}{Hfootnote.33}% 
+\contentsline {section}{\relax Monitoring et fichiers de logs}{42}{Hfootnote.33}% 
+\contentsline {section}{\relax \texttt {DNS} domain name system}{43}{Hfootnote.33}% 
+\contentsline {subsection}{\relax La résolution de noms}{43}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax 1984, 2000, 2014}{44}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Fonctionnement d'un serveur DNS}{45}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax Fonctionnement d'une requête}{46}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax Une question de confiance}{48}{Hfootnote.33}% 
+\contentsline {paragraph}{\relax Confiance dans le serveur DNS}{49}{Hfootnote.33}% 
+\contentsline {paragraph}{\relax Confiance dans le réseau}{49}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Les différents champs et les fichiers de zone}{50}{Hfootnote.33}% 
+\contentsline {subsection}{\relax \texttt {bind9}}{52}{Hfootnote.33}% 
+\contentsline {subsection}{\relax La configuration du \emph {stub resolver}, le fichier \texttt {resolv.conf}}{53}{Hfootnote.33}% 
+\contentsline {subsection}{\relax \texttt {DNS} menteur}{53}{Hfootnote.33}% 
+\contentsline {subsection}{\relax Le coin des commandes}{53}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax dig}{54}{Hfootnote.33}% 
+\contentsline {subsubsection}{\relax Localiser une adresse IP}{54}{Hfootnote.33}% 
+\contentsline {section}{\relax Todos}{54}{Item.9}% 
+\contentsline {section}{Bibliographie}{56}{section*.4}% 
