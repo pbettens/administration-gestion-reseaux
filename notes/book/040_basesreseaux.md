@@ -6,9 +6,16 @@
 \secttoc
 \setcounter{secttocdepth}{3}
 
+
+\btwoc
+
+![](resources/images/reseaux.png)
+
 Cette section se veut un rappel sur les concepts réseaux utiles au cours et à
 l'administrateurice[^f_inclusion] réseaux. Pour plus de détails, nous renvoyons
 le lecteur aux formations CISCO par exemple. 
+
+\etwoc
 
 ## Modèle
 
@@ -16,10 +23,6 @@ le lecteur aux formations CISCO par exemple.
 \index{modèle TCP-IP}\index{TCP}\index{UPD}
 
 En administration réseau nous nous contentons du modèle TCP-IP sous-modèle du modèle OSI. 
-
-![](resources/images/tcp-ip-craighunt.png)
-
-_Modèle TCP-IP (source : TCP/IP Craig Hunt)_
 
 - La couche application (_application layer_) concerne les applications utilisées sur le reseau : `http`, `smtp`, `ftp`, `telnet`… 
 
@@ -31,13 +34,9 @@ _Modèle TCP-IP (source : TCP/IP Craig Hunt)_
 
     - **UDP** _user datagram protocol_ service de transport de datagrammes sans connexion.
 
-\etwoc
+![](resources/images/tcp-ip-craighunt.png)  
 
-![](resources/images/tcp-ip-craighunt-datastructures.png)
-
-_Figure : TCP et UDP dans le modèle TCP-Ip (source : TCP/IP Craig Hunt)_
-
-\btwoc
+_Figure : Modèle TCP-IP (source : TCP/IP Craig Hunt)_
 
 - La couche internet (_internet layer_) est la couche **IP**.
 
@@ -77,6 +76,13 @@ _Figure : TCP et UDP dans le modèle TCP-Ip (source : TCP/IP Craig Hunt)_
 
 - La couche réseau (_network access layer_) est la couche **Ethernet**.
 
+\etwoc
+
+![](resources/images/tcp-ip-craighunt-datastructures.png)
+
+_Figure : TCP et UDP dans le modèle TCP-Ip (source : TCP/IP Craig Hunt)_
+
+\btwoc
 \index{Ethernet}\index{IP}\index{ARP}\index{ICMP}
 \etwoc
 

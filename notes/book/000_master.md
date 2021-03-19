@@ -4,7 +4,7 @@ title: |
 author: \color{white}\huge\bf Pierre Bettens
 date: \color{white}\texttt{pbettens@he2b.be}
 abstract: |
-	février 2021
+	version _pre alpha_
 geometry: margin=3cm
 fontsize: 12pt
 highlight-style: tango
