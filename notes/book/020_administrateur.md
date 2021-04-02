@@ -47,7 +47,7 @@ confidentielles. Iel doit avoir une éthique irréprochable.
 
 ## Mais qui est _root_ ?
 
-Sous les systèmes _\*nix_, _root_ est l'utilisateur privilégié, le « super
-utilisateur », l'administrateur… C'est le compte ayant le _userid_ `0`. 
+Sous les systèmes _\*nix_, _root_ est l'utilisateurice privilégié, le « super
+utilisateur », l'administrateurice… C'est le compte ayant le _userid_ `0`. 
 
 

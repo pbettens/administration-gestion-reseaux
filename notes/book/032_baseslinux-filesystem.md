@@ -1,3 +1,4 @@
+\yaline
 
 ## Le système de fichiers
 
@@ -116,6 +117,7 @@ Remarques :
   tout ce qui est nécessaires à la compilation C ou C++ des différents logiciels
   se trouvant sur la machine. 
 
+\yaline
 
 ### Chemins relatifs, chemins absolus
 
@@ -146,6 +148,7 @@ Par exemple si le répertoire courant est `/home/alice` :
 bin/yascript.sh
 ```
 \etwoc
+\yaline
 
 ### Les différents types de fichiers
 
@@ -198,6 +201,7 @@ total 8
   sans fin ». 
 
 \etwoc
+\yaline
 
 ### Les permissions
 
@@ -216,6 +220,7 @@ _execute_. Les droits d'un fichier se présentent comme suit :
 ```bash
 -rwxr---wx 1 alice yagroup  46K fév 11 16:11 filename.pdf
 ```
+\btwoc
 
 - `r` permet de lire un fichier ou de voir le contenu d'un répertoire;
 - `w` permet d'écrire dans un fichier ou d'écrire dans un répertoire. Écrire
@@ -223,6 +228,8 @@ _execute_. Les droits d'un fichier se présentent comme suit :
 - `x` indique que le fichier est exécutable (il peut s'agir d'un binaire ou d'un
   script) ou que le répertoire est « traversable ». 
 
+\etwoc
+\yaline
 
 ### Le coin des commandes 
 

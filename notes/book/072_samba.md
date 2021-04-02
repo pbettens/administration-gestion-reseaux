@@ -159,6 +159,7 @@ WINS. La présence d'un serveur WINS permet de « passer les routeurs »[^f_
 données entre machines Linux / Linux ou Linux/MS Windows.
 
 \etwoc
+\yaline
 
 ## Installation
 
@@ -169,6 +170,7 @@ paquets de la distribution. Comme toujours, on privilégiera l'intallation _via_
 le gestionnaire de paquets plutôt qu'à partir des sources. 
 
 \etwoc
+\yaline
 
 ## Les dæmons
 
@@ -185,6 +187,7 @@ Samba est associé aux dæmons :
 Les services peuvent être gérés à l'aide de `systemctl` comme d'habitude. 
 
 \etwoc
+\yaline
 
 ## Configuration de Samba
 
@@ -312,9 +315,12 @@ La liste des variables issue de Samba @samba se trouve ci-dessous :
 |            |   dans la négociation                          |
 |`%T`        |   Date et heure courantes                      |
 
-\btwoc
+
+\yaline
 
 ### Configuration de la liste d'exploration
+
+\btwoc
 
 L'exploration (_browsing_) désigne la fonction permettant d'examiner les
 serveurs et les partages disponibles sur un réseau. Cette liste est visible dans
@@ -336,7 +342,12 @@ jour et diffusion de cette liste. D'autres options interviennent dans l'électio
 de sa _master browser_ que nous ne détaillons pas ici. Il s'agit des options :
 _os level_, _local master_, _netbios name_, _server string_, _preferred master_…
 
+\etwoc
+\yaline
+
 ### Authentification des utilisateurices
+
+\btwoc
 
 Le paramètre `security` définit le type d'authentification pour le serveur. Ce
 paramètre peut prendre les valeurs `user`, `ads` ou `domain` (voire `auto`). La
@@ -412,6 +423,7 @@ n'est disponible qu'à partir de MS Windows NT4 SP4.
 Kerberos n'est pas abordé dans ces notes. 
 
 \etwoc
+\yaline
 
 ## Le coin des commandes
 

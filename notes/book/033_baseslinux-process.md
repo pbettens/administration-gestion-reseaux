@@ -92,6 +92,7 @@ Un processus peut-être stoppé en lui envoyant le signal `SIGSTOP` au moyen, pa
 [^f_033_1]: Voir ce [kernel commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=80ed87c8a9ca0cad7ca66cf3bbdfb17559a66dcf) (_consulté le 10 fév. 2021_) 
 
 \etwoc
+\yaline
 
 ### Le coin des commandes
 

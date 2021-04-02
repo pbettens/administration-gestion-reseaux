@@ -27,7 +27,7 @@ header-includes:
 	- \makeindex
 	- \usepackage{enumitem}
 	- \setlist[itemize]{leftmargin=*}
-	- \setlength{\columnsep}{7mm} 
+	- \setlength{\columnsep}{11mm} 
 	- \setcounter{secttocdepth}{3}
 	- \renewcommand{\stctitle}{}
 	- \interfootnotelinepenalty=10000
@@ -37,6 +37,7 @@ header-includes:
 	  ```{=latex}
 	  \newcommand{\btwoc}{\begin{multicols}{2}}
 	  \newcommand{\etwoc}{\end{multicols}}
+	  \newcommand{\yaline}{\mbox{}\hfill\rule{.33\linewidth}{.3pt}\hfill\mbox{}}
 	  ```
 	- \usepackage{fancyhdr}
 	- \usepackage{lastpage}

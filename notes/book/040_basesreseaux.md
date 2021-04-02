@@ -85,6 +85,7 @@ _Figure : TCP et UDP dans le modèle TCP-Ip (source : TCP/IP Craig Hunt)_
 \btwoc
 \index{Ethernet}\index{IP}\index{ARP}\index{ICMP}
 \etwoc
+\yaline
 
 ## Adresses 
 
@@ -125,6 +126,7 @@ numéro de réseau et le _broadcast_.
 L'adresse IPv4 de la boucle locale (_loopback_) est `127.0.0.1`.
 
 \etwoc
+\yaline
 
 ### Adresse IPv6
 
@@ -201,6 +203,7 @@ L'adresse IPv6 de la boucle locale (_loopback_) est `::1`.
 [^f_040_2]: C'est bien `/3` et donc `200`. Les adresses unicast globales `2001::/16` peuvent être réservées et sont allouées par bloc `/23` à `/12` par l'IANA[@iana]. L'IANA alloue aux RIR (_regional internet registry_) — RIPE NCC pour l'europe — qui allouent à leur tour au LIR (_local internet registry_) qui sont généralement également fournisseur d'accès. Les adresses `2002::/16` sont utilisées par _6to4_ pour acheminer du trafic IPv6 vers IPv6 à travers IPv4. Les autres adresses sont réservées à un usage ultérieure. Ceci explique pourquoi les adresses unicast globales IPv6 sont de la forme `2001…`.
 
 \etwoc
+\yaline
 
 ## Routage élémentaire
 
@@ -229,6 +232,7 @@ default via 192.168.1.1 \
 Remarque: depuis le noyau 3.6, il n'y a plus de cache pour le routage IPv4. 
 
 \etwoc
+\yaline
 
 ## Résolution d'adresse
 
@@ -249,6 +253,7 @@ concernée. Si un hôte a cette IP, il répond et la correspondance IP-Ethernet 
 cachée — au sens mise en cache — dans la table ARP. 
 
 \etwoc
+\yaline
 
 ## Noms
 
@@ -274,8 +279,10 @@ name_) est d'écrire un _alias_ au nom d'hôte dans le fichier `/etc/hosts`. Par
 Par défaut le fichier `/etc/hosts` est lu avant de faire une requête DNS. 
 
 \etwoc
+\yaline
 
 [^f_040_3]: NIS (_network information system_) et ses _yellow pages_ ne sera pas abordé dans ces notes. 
+
 
 
 ## Le coin des commandes

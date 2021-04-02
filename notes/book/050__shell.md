@@ -38,6 +38,7 @@ Lors de l'_exit_, le fichier `~/.bash_logout` est exécuté s'il existe.
 [^f_050_1]: La variable `$-` peut être consultée pour voir les options passées au shell courant. 
 
 \etwoc
+\yaline
 
 ## Commandes `shell`
 
@@ -161,6 +162,7 @@ Les **paramètres spéciaux** sont repris dans le tableau suivant :
 `$0`          Nom du script (ou du shell).
 -----------   -------------------------------------
 
+\yaline
 
 ## Les expansions
 
@@ -271,6 +273,7 @@ mots les _jokers_ éventuels : `*`, `?` et `[]`.
 - `[…]` correspond à une suite de caractères, un intervalle ou à une classe de caractères. 
 
 \etwoc
+\yaline
 
 ## Les redirections
 
@@ -298,7 +301,7 @@ Pour rediriger la sortie standard et la sortie d'erreur standard dans le même f
 $ ls > out 2>&1
 ```
 \etwoc
-
+\yaline
 
 ## Les tests
 
@@ -365,6 +368,7 @@ $ if test -z ${VAR} ; then
 ```
 
 \etwoc
+\yaline
 
 ## L'historique
 
@@ -436,6 +440,7 @@ ls -l /really/a/very/long/path/other.conf
 ```
 
 \etwoc
+\yaline
 
 ## Les commandes internes de `bash`
 
@@ -499,6 +504,7 @@ En voici quelques unes, pour la liste complète, consulter le manuel `man bash`�
 - `pwd` affiche le réportoire courant ;
 
 \etwoc
+\yaline
 
 ## Script `shell`
 
@@ -610,6 +616,7 @@ fi
 ```
 
 \etwoc
+\yaline
 
 [^f_050_2]: Lancé avec l'option `-x`, `bash` exécutera le script en mode _debug_. 
 
@@ -642,6 +649,7 @@ fichier. Voir `man bash`.
 - `[Esc] .` écrit la dernière commande (sans le réexécuter immédiatement).
 
 \etwoc
+\yaline
 
 ## Le coin des commandes
 

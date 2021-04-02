@@ -239,7 +239,7 @@ Voici quelques règles habituelles :
 
 Nous verrons avec `PAM` qui est possible de définir des règles sur le format des mots de passe. 
 
-\etwoc
+\etwoc\yaline
 
 ### Le coin des commandes
 
