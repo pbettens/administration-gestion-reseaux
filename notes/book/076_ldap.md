@@ -39,6 +39,7 @@ LDAP fournit un protocole d'échange entre les clients LDAP et un serveur LDAP
 
 \etwoc
 \yaline
+\newpage
 
 ## Modèle d'information
 
@@ -423,6 +424,7 @@ objectclass ( 1.3.6.1.4.1.23162
 
 \etwoc
 \yaline
+\newpage
 
 ### ACL 
 
@@ -520,7 +522,7 @@ olcAccess: {2}to dn.children="dc=com"
 La recherche la plus globale est la recherche « montre-moi tout ». Le filtre de
 recherche est alors `"(objectclass=*)"`
 
-Un filtre LDAP a la forme suivant : `( attribut opérateur valeur )`.
+Un filtre LDAP a la forme suivant : `( attribut opérateur valeur )`.
 
 L' attribut est le nom de l'attribut ! L' opérateur est choisi parmi :
 
@@ -643,7 +645,7 @@ ldapadd -D "cn=admin,dc=example,dc=org"
 ```
 
 Pour ajouter des utilisateurices dans cet annuaire sous l'_OU_ _rh_, un fichier
-LDIE pourrait être : 
+LDIF pourrait être : 
 
 ```
 $ cat add.ldif

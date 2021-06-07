@@ -37,7 +37,7 @@ header-includes:
 	  ```{=latex}
 	  \newcommand{\btwoc}{\begin{multicols}{2}}
 	  \newcommand{\etwoc}{\end{multicols}}
-	  \newcommand{\yaline}{\mbox{}\hfill\rule{.33\linewidth}{.3pt}\hfill\mbox{}}
+	  \newcommand{\yaline}{\nopagebreak[4]\mbox{}\hfill\rule{.33\linewidth}{.3pt}\hfill\mbox{}}
 	  ```
 	- \usepackage{fancyhdr}
 	- \usepackage{lastpage}
@@ -75,10 +75,13 @@ mathfont: texgyredejavu-math.otf
 
 \thispagestyle{empty}
 
+```{=latex}
 \dosecttoc
 \setcounter{tocdepth}{1}
+\renewcommand{\baselinestretch}{0.75}\normalsize
 \tableofcontents
-
+\renewcommand{\baselinestretch}{1.0}\normalsize
+```
 
 \pagestyle{fancy}
 \lhead{}

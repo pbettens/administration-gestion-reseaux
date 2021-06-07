@@ -126,7 +126,6 @@ numéro de réseau et le _broadcast_.
 L'adresse IPv4 de la boucle locale (_loopback_) est `127.0.0.1`.
 
 \etwoc
-\yaline
 
 ### Adresse IPv6
 
@@ -134,9 +133,15 @@ L'adresse IPv4 de la boucle locale (_loopback_) est `127.0.0.1`.
 
 \index{IPv6}
 
-Une adresse IPv6 est une valeur de **128 bits** (16 bytes)[^f_040_1]. La représentation hexadécimale regroupe les octets par 2 séparés par deux points « `:` ». Ce qui fait 8 groupes de 4 chiffres hexadécimaux. Par exemple :  
 
-`2001:0db8:0000:85a3:0000:0000:ac1f:8001`
+Une adresse IPv6 est une valeur de **128 bits** (16 bytes)[^f_040_1]. La
+représentation hexadécimale regroupe les octets par 2 séparés par deux points
+« `:` ». Ce qui fait 8 groupes de 4 chiffres hexadécimaux. Par exemple :  
+
+```
+2001:0db8:0000:85a3:0000:0000:\
+  ac1f:8001
+```
 
 Il est permis de remplacer `0000` par `0` et de supprimer des groupes nuls tant que l'adresse ne devient pas ambiguë. L'adresse précédente peut s'écrire : 
 
@@ -233,6 +238,7 @@ Remarque: depuis le noyau 3.6, il n'y a plus de cache pour le routage IPv4.
 
 \etwoc
 \yaline
+\newpage
 
 ## Résolution d'adresse
 

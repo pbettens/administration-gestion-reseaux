@@ -159,7 +159,6 @@ WINS. La présence d'un serveur WINS permet de « passer les routeurs »[^f_
 données entre machines Linux / Linux ou Linux/MS Windows.
 
 \etwoc
-\yaline
 
 ## Installation
 
@@ -277,10 +276,10 @@ particulière pour la section `[homes]`. En écrivant cette configuration dans
 Dans ce cas si le fichier existe, l'_include_ se fera sinon, aucune erreur ne
 sera générée (ce qui est pratique pour toutes les autres connexions).
 
-La liste des variables issue de Samba @samba se trouve ci-dessous :
+Voici la liste des variables issue de Samba @samba.
 
 \etwoc
-
+\clearpage
 
 |**Variable**|  **Définition**                                |
 |------------|  ----------------------------------------------|
@@ -316,7 +315,7 @@ La liste des variables issue de Samba @samba se trouve ci-dessous :
 |`%T`        |   Date et heure courantes                      |
 
 
-\yaline
+\clearpage
 
 ### Configuration de la liste d'exploration
 
@@ -424,6 +423,7 @@ Kerberos n'est pas abordé dans ces notes.
 
 \etwoc
 \yaline
+\clearpage
 
 ## Le coin des commandes
 
@@ -475,7 +475,7 @@ nmbloockup -A 127.0.0.1
 
 [^f_072_1]: C'est bien le client qui informe le serveur WINS de l'IP qu'il possède déjà pour que le serveur la mémorise. Il ne s'agit **pas d'obtenir** une adresse IP. Un serveur WINS n'est pas un serveur DHCP.  
 
-[^f_072_2]: Les anciennes versions de Samba acceptaient les valeurs `share` et `server` qui ne sont plus d'actualités. 
+[^f_072_2]: Les anciennes versions de Samba acceptaient les valeurs `share` et `server` qui ne sont plus d'actualité. 
 
 [^f_072_3]: Pour demander à `smbd` quel fichier de configuration il lit : `smbd -b | grep smb.conf`
 

@@ -149,6 +149,7 @@ bin/yascript.sh
 ```
 \etwoc
 \yaline
+\newpage
 
 ### Les différents types de fichiers
 
@@ -202,6 +203,7 @@ total 8
 
 \etwoc
 \yaline
+\clearpage
 
 ### Les permissions
 

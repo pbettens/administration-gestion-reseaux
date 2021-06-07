@@ -32,11 +32,11 @@
       <term name="available at">disponible</term>
       <term name="cited">op. cit.</term>
       <term name="editor" form="short">ed.</term>
-      <term name="accessed">Consulté le </term>
+      <term name="accessed">consulté le </term>
       <term name="anonymous">anonyme</term>
       <term name="anonymous" form="short">anon.</term>
-      <term name="no date">sans date</term>
-      <term name="no date" form="short">s.d.</term>
+      <term name="no date"></term>
+      <term name="no date" form="short"></term>
       <term name="sub verbo">s.u.</term>
       <term name="open-quote">« </term>
       <term name="close-quote"> »</term>
@@ -61,16 +61,19 @@
   <macro name="url-access">
     <choose>
       <if variable="url">
-        <text variable="url"/>
+        <text variable="url" font-family="system-ui" prefix=" " />
+        <choose>
+        <if variable="urldate">
         <date variable="urldate" prefix="( accessed " suffix=")">
             <date-part name="day" suffix=" "/>
             <date-part name="month" text-case="lowercase" suffix=" "/>
             <date-part name="year"/>
         </date>
+        </if>
+        </choose>
       </if>
     </choose>
   </macro>
-
 
   <macro name="editor">
     <names variable="editor">
@@ -78,10 +81,6 @@
       <label form="short" strip-periods="true" prefix=" (" suffix=")"/>
     </names>
   </macro>
-  
-  
- 
-  
   
   <macro name="publisher">
     <group delimiter=", " prefix=". ">
@@ -181,12 +180,13 @@
       <key macro="title"/>
     </sort>
     <layout suffix=".">
-      <text macro="author"/>
-      <text macro="date-short" prefix="(" suffix=") : "/>
+      <text macro="author" suffix=" "/> 
+      <text macro="date-short" prefix=" (" suffix=") "/>
       <text macro="title"/>
       <text macro="edition"/>
       <text macro="collection"/>
-      <text macro="page-bib"/>
+      <text macro="page-bib"/> 
+      <text macro="url-access"/>
     </layout>
   </bibliography>
 </style>

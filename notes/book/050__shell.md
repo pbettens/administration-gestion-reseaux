@@ -162,7 +162,7 @@ Les **paramètres spéciaux** sont repris dans le tableau suivant :
 `$0`          Nom du script (ou du shell).
 -----------   -------------------------------------
 
-\yaline
+
 
 ## Les expansions
 
@@ -301,7 +301,6 @@ Pour rediriger la sortie standard et la sortie d'erreur standard dans le même f
 $ ls > out 2>&1
 ```
 \etwoc
-\yaline
 
 ## Les tests
 
@@ -369,6 +368,7 @@ $ if test -z ${VAR} ; then
 
 \etwoc
 \yaline
+\newpage
 
 ## L'historique
 
@@ -440,7 +440,7 @@ ls -l /really/a/very/long/path/other.conf
 ```
 
 \etwoc
-\yaline
+\clearpage
 
 ## Les commandes internes de `bash`
 
@@ -505,6 +505,7 @@ En voici quelques unes, pour la liste complète, consulter le manuel `man bash`�
 
 \etwoc
 \yaline
+\newpage
 
 ## Script `shell`
 
@@ -588,6 +589,7 @@ guillemets « `""` ».
 
 Un script devrait | pourrait avoir l'allure suivante : 
 
+\etwoc
 
 ```bash
 #!/bin/bash
@@ -615,7 +617,6 @@ fi
 # now, do effective stuff
 ```
 
-\etwoc
 \yaline
 
 [^f_050_2]: Lancé avec l'option `-x`, `bash` exécutera le script en mode _debug_. 
@@ -650,6 +651,7 @@ fichier. Voir `man bash`.
 
 \etwoc
 \yaline
+\newpage
 
 ## Le coin des commandes
 

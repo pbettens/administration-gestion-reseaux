@@ -63,7 +63,7 @@ user:x:1000:1000:user,,,:
     comme un mot de passe chiffré, comme indiqué dans _crypt_ (`man 3 crypt`). 
 
     Ce champ peut aussi prendre la valeur « `*` » qui précise qu'il n'est pas
-    possible de se connecter au compte avec `login` ou la valeur « `!` » qui
+    possible de se connecter au compte avec `login` ou la valeur « `!` » qui
     empêche toute connexion au compte. Ces valeurs sont généralement utilisées
     pour les comptes de service. Les comptes qui sont utilisés par les services
     et qui ne sont pas destinés pour qu'une personne puisse s'y logger. 
@@ -340,7 +340,7 @@ Retire un compte utilisateur normal.
 - Il est possible de faire une sauvegarde des fichiers du compte utilisateurs
   _via_ l'option `--backup`. 
 
-- Si le fichier `/usr/local/sbin/deluser.local` existe, il sera exécuté après la suppression du compte. Ceci permet un nettoyage supplémentaire. 
+- Si le fichier `/usr/local/sbin/` `deluser.local` existe, il sera exécuté après la suppression du compte. Ceci permet un nettoyage supplémentaire. 
 
 ```bash
 deluser --group <groupname>
