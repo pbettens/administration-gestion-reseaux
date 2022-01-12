@@ -7,7 +7,7 @@ _version pre pre alpha_
 Date de publication \today
 
 Remercions les auteurs des excellents livres
-TCP/IP de Craig Hunt[@tcpip],
+TCP/IP de Craig Hunt[@tcpip] et
 Administration réseau sous Linux de Olaf Kirch et Terry Dawson [@adminReseaux]
 qui ont servis de référence pour ces notes ainsi que les rédacteurs, rédactrices,
 traducteurs et traductrices des pages de manuel et de Wikipedia. 

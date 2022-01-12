@@ -22,7 +22,7 @@ lorsque c'est nécessaire.
 
 _root_ devra gérer les utilisateurs du système dans deux situation différentes :
 
-- la première si le système doit être accessibles par plusieurs utilisateurices,
+- la première si le système doit être accessibles par plusieurs personnes,
   il sera nécessaires de gérer les comptes. C'est évident ; 
 
 - la seconde est pour l'installation de services sur le système. Une bonne
@@ -39,10 +39,12 @@ une ligne dans le fichier `/etc/passwd` et une autre dans `/etc/shadow`.
 
 `$ cat /etc/passwd`
 ```bash
-login:passwd:uid:gid:comment:home:shell
+login:passwd:uid:gid:comment:
+  home:shell
 user:x:1000:1000:user,,,:
   /home/user:/bin/bash
 ```
+
 
 - `login` le nom associé au compte. La bonne pratique est d'utiliser un _login_
   en minuscules, sans accents ni caractères spéciaux. La longueur est limitée à
@@ -59,7 +61,7 @@ user:x:1000:1000:user,,,:
     un « `x` » minuscule, alors le mot de passe chiffré se trouve dans le
     fichier _shadow_ (`man 5 shadow`) ; il doit y avoir une ligne correspondante
     dans le fichier shadow, sinon le compte de l'utilisateur n'est pas valide.
-    Si le mot de passe est constitué d'une autre chaîne, alors il est considéré
+    Si le mot de passe est constitué d'une autre chaine, alors il est considéré
     comme un mot de passe chiffré, comme indiqué dans _crypt_ (`man 3 crypt`). 
 
     Ce champ peut aussi prendre la valeur « `*` » qui précise qu'il n'est pas
@@ -208,7 +210,7 @@ principaux de la sécurité informatique.
 Voici quelques règles habituelles :
 
 - un mot de passe devrait être spécifique à un service informatique et ne
-  devrait pas être réutilisé~: un service = un mot de passe spécifique et
+  devrait pas être réutilisé : un service = un mot de passe spécifique et
   unique;
 
 - un mot de passe est personnel et ne peut être donné à personne;

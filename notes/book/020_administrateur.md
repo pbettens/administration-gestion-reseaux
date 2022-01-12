@@ -41,7 +41,7 @@ ne sont pas réalisables — bien qu'elles puissent paraitre[^f_renouvo] natur
 d'information. 
 
 Dans son rôle d'administration, _root_ a accès à des informations
-confidentielles. Iel doit avoir une éthique irréprochable. 
+confidentielles. Son éthique doit être irréprochable. 
 
 \etwoc
 

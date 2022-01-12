@@ -101,9 +101,9 @@ qui n'existe plus.
 
 [^f_037_1]: Historiquement, la gestion des paquets debian se faisait à l'aide des commandes `apt-get` et `apt-cache`. Ensuite la commande `aptitude` a été conseillée. Aujourd'hui, la commande `apt` suffit. 
 
-[^f_037_2]: Pour une configuration en belqique, choisir un miroir proche. Le miroir de son fournisseur d'accès est un bon choix. Si beaucoup de machines debian sont installées dans son entreprise maintenir un miroir local est sans doute une bonne idée.  
+[^f_037_2]: Pour une configuration en Belgique, choisir un miroir proche. Le miroir de son fournisseur d'accès est un bon choix. Si beaucoup de machines debian sont installées dans son entreprise maintenir un miroir local est sans doute une bonne idée.  
 
-[^f_037_3]: Il est conseillé de renseigner le nom de la _release_ plutôt que `stable` pour éviter un saut de version inopiné lors d'une mise à jour du système.  Chez debian, elles se nomment : Hamm, Slink, Potato, Woody, Sarge, Etch, Lenny, Squeeze, Wheezy, Jessie, Stretch, Buster et Bulseye.
+[^f_037_3]: Il est conseillé de renseigner le nom de la _release_ plutôt que `stable` pour éviter un saut de version inopiné lors d'une mise à jour du système.  Chez debian, elles se nomment : Hamm, Slink, Potato, Woody, Sarge, Etch, Lenny, Squeeze, Wheezy, Jessie, Stretch, Buster et Bullseye.
 
 
 \etwoc

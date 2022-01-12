@@ -642,7 +642,7 @@ fichier. Voir `man bash`.
   start apache2`. 
 
 - Le paquet `bash-completion` propose une autocomplétion intelligente pour
-  toutes les commandes. À intalle. 
+  toutes les commandes. À installer. 
 
 - `[Ctrl-r]<pattern>` affiche la première commande correspondant au schéma
   (_pattern_) disponible dans l'historique.

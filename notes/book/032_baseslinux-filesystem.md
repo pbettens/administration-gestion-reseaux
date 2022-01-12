@@ -20,7 +20,7 @@ racine se note `/`. Ce _filesystem_ représente comment on accède aux
 ![Exemple de filesystem](resources/images/filesystem.png)
 
 La structure du _filesystem_ *nix est standardisée par le « Filesystem Hierarchy
-Standard »@wikipedia-fhs @fhs-pdf — même si les différentes distributions ne
+Standard »@wikipedia-fhs^,^ @fhs-pdf — même si les différentes distributions ne
 respectent pas le standard à la lettre, les grandes lignes le sont.
 
 Le groupe en charge de l'harmonisation de _filesystem_ à choisi de distinguer :

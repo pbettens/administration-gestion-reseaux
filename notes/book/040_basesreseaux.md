@@ -24,7 +24,7 @@ le lecteur aux formations CISCO par exemple.
 
 En administration réseau nous nous contentons du modèle TCP-IP sous-modèle du modèle OSI. 
 
-- La couche application (_application layer_) concerne les applications utilisées sur le reseau : `http`, `smtp`, `ftp`, `telnet`… 
+- La couche application (_application layer_) concerne les applications utilisées sur le réseau : `http`, `smtp`, `ftp`, `telnet`… 
 
 - La couche transport (_host-to-host transport layer_) concerne le service de transport de données. Il y a deux protocoles : 
 
@@ -119,7 +119,7 @@ Par exemple, l'IPv4 `10.0.0.1/8` représente :
 - le réseau `10` ;
 - la machine `0.0.1`. 
 
-Dans ce reseau numéro 10, il est possible d'avoir 16_777_214 hôtes (2^24-2). Les
+Dans ce réseau numéro 10, il est possible d'avoir 16_777_214 hôtes (2^24-2). Les
 adresses `10.0.0.0` et `10.255.255.255` étant réservées respectivement pour le
 numéro de réseau et le _broadcast_. 
 
@@ -192,7 +192,7 @@ Il existe plusieurs techniques pour assigner une adresse en fixant l'identifiant
       EUI-64 (cfr. RFC 4291). Comme ces techniques exposent l'adresse MAC, elles
       sont déconseillées par IETF depuis 2017 ;
       
-    - autoconfiguration basée sur une clé secrète et le préfixe reseau (cfr.
+    - autoconfiguration basée sur une clé secrète et le préfixe réseau (cfr.
       RFC 7217)
     
     - autoconfiguration par un tirage pseudo-aléatoire (cfr. RFC 4941).
@@ -222,7 +222,7 @@ de routage.
 Pour la plupart des hôtes les décisions sont simples: 
 
 - si la destination est sur le réseau local, les données sont délivrées à l'hôte;
-- si la destination est sur un reseau distant, les données sont transmises à la passerelle locale. 
+- si la destination est sur un réseau distant, les données sont transmises à la passerelle locale. 
 
 Une telle table de routage peut avoir cette allure en IPv4: 
 
@@ -309,7 +309,7 @@ ip a delete 2001:0db8:85a3…/64 dev eth0
 ```
 
 - montre toutes les interfaces réseaux (IPv4 et IPv6)
-- montre toutes les interfaces reseaux en se limitant à IPv6
+- montre toutes les interfaces réseaux en se limitant à IPv6
 - montre l'interface _eth_
 - efface l'adresse précisée de l'interface eth0
 
