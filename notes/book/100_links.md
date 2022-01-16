@@ -15,7 +15,7 @@ texte, `vim`, `notepad++` sont des éditeurs de code, `LibreOffice Writer` est u
 traitement de texte. Ceci étant dit, mon conseil est d'être à l'aise avec `vim`
 et d'oublier `nano`.
 
-
+\clearpage
 \printindex
 
 # Bibliographie

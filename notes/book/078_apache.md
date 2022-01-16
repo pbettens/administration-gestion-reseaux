@@ -97,6 +97,7 @@ Dans ces notes, nous traiterons uniquement de `Apache`.
 
 \etwoc
 \yaline
+\clearpage
 
 ## Installation et configuration 
 
@@ -146,6 +147,7 @@ manière pour des configuration particulière du serveur web.
 
 \etwoc
 \yaline
+\clearpage
 
 ## _Virtuals hosts_
 
@@ -186,6 +188,8 @@ Par exemple :
     CustomLog ${APACHE_LOG_DIR}/example.org-access.log combined                                                                              
 </VirtualHost>    
 ```
+
+TODO: _reverse proxy_
 
 \yaline
 
