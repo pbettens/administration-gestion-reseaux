@@ -7,12 +7,92 @@
 
 ![](resources/images/samba.png)
 
-## Une histoire de protocoles
+## Partager pour travailler ensemble…
 
-SMB ou CIFS est le protocole natif de communication entre machines MS Windows et linux. 
+Fin des années 80, nous sommes à l'époque où l'on commence à relier les
+ordinateurs entre eux. C'est l'époque des cables coaxiaux sans IP qui relient
+les ordinateurs entre eux. Les personnes qui utilisent ses machines veulent
+qu'elles puissent communiquer pour se partager des fichiers… tout en étant
+authentifiées.
+
+![](resources/images/cable-coaxial.png)
+
+Ceci est rendu possible par **Microsoft Windows 3.11 _for worksgroup_** dans le
+monde Microsoft et son \index{NetBIOS} protocole _NetBIOS_ (voir ci-dessous) qui
+permettra :
+
+- le **partage des fichiers** entre utilisateurs et utilisatrices de machines différentes ; 
+- l'**authentification** mutuelle pour que chaque personne accède aux fichiers pour lesquels elle a les droits. 
+
+![](resources/images/ms-windows-3-11.png)
+
+\index{LAN Manager}
+À sa suite, quelques années plus tard, _LAN Manager_ se chargera de sécuriser
+l'accès aux données avec :
+
+- l'**identification** permettant d'établir l'identité du l'utilisateurice ;
+- l'**authentification** permettant de vérifier cette identité. _Es-tu bien qui tu prétends être ?_ et ;
+- l'**autorisation** pour donner, ou non, l'accès aux ressources. 
+
+\index{Kerberos}
+_LAN Manager_ connaitra quelques évolutions (voir ci-dessous) pour évoluer vers _Kerberos_.
+
+\index{Samba}\index{SMB}
+Le projet _Samba_ propose une suite d'outils permettant la communication
+— l'interopérabilité — entre machines MS Windows et _\*nix_. Ces outils reposent
+sur le protocole _SMB_ (_Server Message Block_). Ce protocole, natif sur MS
+Windows, permet : 
+
+- le partage de fichiers dépendant de la version du protocole sur MS Windows et de Samba sur _\*nix_ ;
+- le partage d'imprimantes ;
+- la gestion centralisée des groupes ; 
+- la gestion centralisée des droits d'accès aux fichiers, répertoires et imprimantes ; 
+- la gestion centralisée de l'identification et de l'authentification _à la mode_ « PDC NT4 » (_Primary Domain Controller NT4_) dans un premier temps. 
+    Depuis toujours, Samba, a la volonté d'en faire un véritable _Active Directory_. 
+
+\index{Active Directory}
+Un **_Active Directory_** est une suite de programmes pour centraliser, gérer et
+authentifier les utilisateurs et utilisatrices ainsi que les ordinateurs d'un
+domaine afin de sécuriser les données, et contrôler les accès. L'**AD** (_Active
+Directory_) maintient un état des lieux du domaine afin de permettre la gestion
+des authentifications, des droits et des accès aux ressources du domaine. 
+
+Différentes version de _Samba_ se succèdent au fil des ans : 
+
+- **Samba 1**, implémente _LAN Manager_ et supporte la notion de _workgroup_ (groupe de travail) amenée par MS Windows 3.11 _for workgroups_
+
+- **Samba 2**, amène le support de contrôleur de domaine au sens _PDC NT4_ ; 
+
+- **Samba 3**, améliore le support de _PDC NT4_ et des nouvelles versions de
+  SMB ;
+
+- **Samba 4** (_[Samba 4.0.0][samba4release]_) est une réécriture de Samba
+  commencée en 2005 et pleinement fonctionnelle à partir de 2012, pour que Samba
+  puisse prendre en charge complètement la fonctionnalité d'_Active Directory_
+  (au sens Microsoft). Samba s'appuie sur les spécifications officielles de MS
+  Windows qui sont (ou ont été[^f_072_5]) souvent mal documentées et sur du
+  _reverse engineering_ pour proposer une implémentation fonctionnelle d'_active
+  directory_.  
+
+    À partir de _Samba 4.2.0_, le support de _Samba 3_ sera abandonné (mais pas le support de l'authentification et l'identification NT4). 
+
+\index{LDAP}\index{Kerberos}
+_Samba 4_ comprend un server LDAP, un serveur d'authentification Kerberos, un
+server DNS dynamique[^f_072_6] et implémente tous les appels de procédure nécessaires à
+_Active Directory_. 
+
+Samba supporte également Python 3.
+
+[samba4release]: https://www.samba.org/samba/news/releases/4.0.0.html
+
+\etwoc
+\yaline
+
+## Des protocoles
+
+\btwoc
 
 \index{NetBIOS}
-
 **NetBIOS** (_Network Basic Input Output System_) est une version étendue de BIOS,
 prenant en charge les échanges de données sur un réseau local grâce à un
 protocole de transport approprié. 
@@ -30,7 +110,9 @@ et de gérer des connexions entre systèmes. Ces différents services sont :
 
 C'est un mode de nommage en couche 4, sur les ports 137, 138 et 139. 
 
-Un nom NetBIOS se compose de 16 caractères : 15 pour le nom et le 16^e^ pour le rôle. Un machine déclare au minimum deux noms : le nom de machine et celui du _workgroup_. 
+Un nom NetBIOS se compose de 16 caractères : 15 pour le nom et le 16^e^ pour le
+rôle. Un machine déclare au minimum deux noms : le nom de machine et celui du
+_workgroup_. 
 
 Voici la liste des caractères associés aux différents rôles : 
 
@@ -118,19 +200,22 @@ fichiers, à l'impression et à la communication.
 
 Historiquement, SMB est apparu avec **Microsoft 3.1 _for workgroup_** en
 octobre 1992. C'est la première version de Microsoft Windows supportant le
-travail en groupe et le (fameux) _voisinage réseau_. C'est l'époque des cables
-coaxiaux sans IP.  
+travail en groupe et le (fameux) _voisinage réseau_. 
 
-![](resources/images/mswindows-netbeui.png)
+Le protocole SMB a évolué au fil des années et se décline en plusieurs
+versions : _SMBv1_ (qui est par défaut désactivé dans les versions >4.10 de
+Samba), _SMBv3_ et _SMBv3_.
 
 Les notions de domaines et de groupes de travail (_workgroups_) se réfèrent à la
 notion de systèmes participant à un même réseau. Tous ces systèmes utilisent la
 même liste de machines ; la liste de _browsing_. Cette liste de _browsing_ est
 fournie au client par le maitre d'exploration principal (_master browser_). Elle
 est associée à un groupe de travail et est utile pour limiter les _broadcasts_
-lors de la résolution des noms netbios. 
+lors de la résolution des noms NetBIOS. 
 
 La liste de _browsing_ est un service de la couche 2 : NetBIOS. 
+
+![](resources/images/mswindows-netbeui.png)
 
 \index{domaine}\index{workgroup}
 
@@ -138,7 +223,7 @@ Un domaine ou un groupe de travail (_workgroup_) est le nom donné à un ensembl
 de machines. Ces machines pourront partager des ressources. Ce concept est
 différent du **domaine de sécurité MS Windows** géré par un contrôleur de
 domaine : anciennement un **contrôleur de domaine principal** (PDC _primary
-domain controler_) ou actuellement un _**active directory**_ (AD).
+domain controller_) ou actuellement un _**active directory**_ (AD).
 
 **WINS** (_Microsoft Windows Internet Name Service_) est le service de nom
 internet de Microsoft Windows. Le serveur WINS maintient la liste des noms
@@ -150,15 +235,39 @@ WINS. La présence d'un serveur WINS permet de « passer les routeurs »[^f_
 - un client (au _boot_ ou au lancement de Samba) demande au serveur WINS
   d'ajouter son nom et son IP. La requête est acceptée si l'adresse n'est pas
   utilisée[^f_072_1]. 
-- lorsque le clien (ou le service Samba) s'arrête, le système avise le serveur
+- lorsque le client (ou le service Samba) s'arrête, le système avise le serveur
   WINS qui rend le nom disponible. 
 
-**Remarque** : le protocole NetBIOS n'est pas routable, IP oui. 
+**Remarque** : le protocole NetBIOS n'est pas _routable_, IP oui. 
 
-**Samba** est une suite d'outils utilisant le protocole SMB pour l'échange de
-données entre machines Linux / Linux ou Linux/MS Windows.
+\index{winbind}
+
+**winbind** (_Name Service Switch daemon for resolving names from NT servers_)
+est le nom associé au dæmon `winbindd` qui intègre le système d'authentification
+et les protocoles d'identification aux services AD (_user/group lookup_)
+disponibles sur un domaine Windows. Il est utile à Samba bien sûr et également à
+_nsswitch_ (_Name Service Switch_) et à PAM\index{PAM}. 
+
+Il n'est pas à proprement parlé utilisé par _nsswitch_ mais fournit des services
+de gestion de connexions au contrôleur de domaine à `smbd`, `ntlm_auth` et au
+module PAM `pam_winbind`
+
+\index{nsswitch} 
+**nsswitch** (_Name Service Switch_) permet d'obtenir de diverses bases de données
+(telles que NIS ou DNS) les informations systèmes ou concernant les utilisateurs
+et utilisatrices du système. Le comportement de _nsswitch_ se configure dans
+`/etc/nsswitch.conf`. Le service _winbind_ obtient le même genre d'information
+du contrôleur de domaine (au sens MS Windows NT). Ajouter _winbind_ aux endroits
+que vont bien dans le fichier `nsswitch` demande de faire une requête auprès du
+contrôleur de domaine. 
+
+Un des travaux de `winbindd` est de conserver une table de correspondance entre
+les _users_ et les _groups_ _\*nix_ et ceux de Windows NT (auxquels sont
+assignés un identifiant unique SID (_security id_)).
+
 
 \etwoc
+\yaline
 
 ## Installation
 
@@ -181,12 +290,12 @@ Samba est associé aux dæmons :
 
 - **nmbd** (_name server NetBIOS dæmon_) est associé au service de noms WINS et prend en charge la résolution de noms. Il peut-être configuré pour être _master browser_ par exemple…
 
-- **windbind** FIXME
+- **windbind** (_Name Service Switch daemon for resolving names from NT servers_) est associé aux services liés au contrôleur de domaine ou à l'_active directory_.
 
 Les services peuvent être gérés à l'aide de `systemctl` comme d'habitude. 
 
 \etwoc
-\yaline
+\newpage
 
 ## Configuration de Samba
 
@@ -196,7 +305,7 @@ La configuration de Samba se fait dans un unique fichier `smb.conf`
 habituellement dans `/etc/samba/smb.conf`[^f_072_3]. 
 
 Ce fichier se décompose en **sections**. Chaque section débute par un nom, le
-nom de service, écrite entre crochet « `[]` ». La section se termine par le
+nom de service, écrit entre crochet « `[]` ». La section se termine par le
 début de la suivante ou la fin de fichier. Chaque section correspond à un
 partage excepté la section `[global]` généralement en début de fichier. 
 
@@ -279,7 +388,6 @@ sera générée (ce qui est pratique pour toutes les autres connexions).
 Voici la liste des variables issue de Samba @samba.
 
 \etwoc
-\clearpage
 
 |**Variable**|  **Définition**                                |
 |------------|  ----------------------------------------------|
@@ -315,7 +423,6 @@ Voici la liste des variables issue de Samba @samba.
 |`%T`        |   Date et heure courantes                      |
 
 
-\clearpage
 
 ### Configuration de la liste d'exploration
 
@@ -412,18 +519,21 @@ utilise DES et ne devrait plus être utilisé aujourd'hui.
   une longueur de plus de 24 bytes et la fonction de hashage est MD4, MD5, HMAC
   MD5…
 
-À l'heure de ses notes, c'est _ntlm v2_ qui est utilisé lorsqu'il n'est pas
-utile de mettre en œuvre Kerberos. 
-
 Au niveau des systèmes Microsoft Windows : LanMan est utilisé par les versions
 de MS Windows inférieures à MS Windows NT (_aka_ MS Windows 95-98) et _ntlm v2_
 n'est disponible qu'à partir de MS Windows NT4 SP4.
+`ntlm v1` est désactivé par défaut. 
 
-Kerberos n'est pas abordé dans ces notes. 
+Il existe également plusieurs version du protocole SMB. 
+
+- **`SMBv1`** Déprécié en 2013 et désactivé par défaut à partir de Samba 4 (et MS Windows Server 2016). 
+
+- **`SMBv2`**
+- **`SMBv3`**
 
 \etwoc
 \yaline
-\clearpage
+
 
 ## Le coin des commandes
 
@@ -458,6 +568,27 @@ smbclient //harmony/distri
 ```
 testparm smb.conf
 ```
+### `samba-tool`
+
+`samba-tool` est l'outil d'administration de Samba (en particulier lorsqu'il joue le rôle de contrôleur de domaine).
+
+```bash
+samba-tool domain provision 
+  --realm=<kerberos domain uppercase> 
+  --domain <domain name> 
+  --server-role=dc
+```
+
+- configure Samba avec le rôle de contrôleur de domaine en utilisant Kerberos
+
+```bash 
+samba-tool user setpassword 
+  administrator
+```
+
+- modification du mot de passe du compte « administrator »
+
+
 
 ### `nmbloockup`
 
@@ -470,8 +601,14 @@ nmbloockup harmony
 nmbloockup -A 127.0.0.1
 ```
 
-
 \etwoc
+
+
+
+
+
+
+
 
 [^f_072_1]: C'est bien le client qui informe le serveur WINS de l'IP qu'il possède déjà pour que le serveur la mémorise. Il ne s'agit **pas d'obtenir** une adresse IP. Un serveur WINS n'est pas un serveur DHCP.  
 
@@ -480,3 +617,7 @@ nmbloockup -A 127.0.0.1
 [^f_072_3]: Pour demander à `smbd` quel fichier de configuration il lit : `smbd -b | grep smb.conf`
 
 [^f_072_4]: Dès qu'une mécanisme arrête l'utilisation du _broadcast_ pour directement contacter une adresse IP sur un certain port… ce mécanisme peut quitter le segment et être routé. C'est par exemple, le cas de la liste d'exploration. 
+
+[^f_072_5]: Ironiquement, lors de la sortie de Samba 4, Microsoft se fend de félicitations précisant qu'elle (la société Microsoft) s'est engagé à soutenir l'interopérabilité entre les plateformes pour cet outil qu'est Active Directory. Elle se dit heureuse que la documentation fournie (entre autre) ait aidé Samba à développer la fonctionnalité d'Active Directory de Samba. Microsoft oublie que si cette documentation est maintenant disponible, c'est à cause de (grâce à ?) sa condamnation par la Commission Européenne lors d'un jugement anti-trust en 2004 et en 2007. L'accord trouvé entre Microsoft et PFIF (_Protocol Freedom Information Foundation_) —  une organisation à but non lucratif agissant pour des projet comme le projet Samba — est de céder les informations techniques nécessaires pour la (modique) somme de 10 000 € (ou 14 400 $). Ça fait un peu « bal des faux-culs ! » ([source](https://www.samba.org/samba/PFIF/)).
+
+[^f_072_6]: Dans ce cas, il est configuré comme _forwarder_ _via_ la directive `dns forwarder = <IP>` dans `/etc/samba/smb.conf` où IP représente l'IP du serveur DNS vers lequel les requêtes externes sont _forwardées_. 
