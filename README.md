@@ -1,21 +1,24 @@
 # AGR Administration et Gestion des Réseaux
 
 Supports divers du cours d'administration et gestion des réseaux de BAC2
-«&nbsp;informatique industrielle&nbsp;» à HEB-ESI.
+«&nbsp;informatique industrielle&nbsp;» à HE2B-ESI.
 
 [Fiche UE du cours](https://horaires.esi-bru.be/he2besi-web/online/cours/ac2021_agri4_agr.html)
 
 ## Cours
 
 Le cours est essentiellement axé sur l'administration linux. Ms Windows n'y est
-(quasiment) pas abordé[^f1](Au vu du temps consacré à l'administration système dans l'option industrielle, il faut faire des choix. Choisir linux… est le bon :-)) 
+(quasiment) pas abordé[^f1].
 
-Les sujets disponibles sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
+Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
 
 - Le syllabus (_en cours de rédaction_) se trouve dans le répertoire [book](notes/book).
 - Les exercices se trouvent dans le répertoire [tds](tds). 
 - Les _slides_ se trouvent dans le répertoires [slides](slides).
 - La documentation dans le répertoire [doc](doc). 
+
+[^f1]: Au vu du temps consacré à l'administration système dans l'option
+    industrielle, il faut faire des choix. Choisir linux… est le bon :-)) 
 
 
 ## Rédaction des supports
