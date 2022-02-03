@@ -54,11 +54,13 @@ header-includes:
 	  \newcommand{\bintro}{\begin{intro}}
 	  \newcommand{\eintro}{\end{intro}}
 	  ```
+	#- \bibliographystyle{abbrv} not working, use csd
 bibliography: 
 	- pitBiblio.bib 
 	- pitLiens.bib
 #csl: resources/yet-another.csl 
-csl: resources/yet-another.csl
+#csl: resources/apa.csl
+csl: resources/apa7-fr.csl
 nocite: |
 	@mcd-info151
 link-citations: true
