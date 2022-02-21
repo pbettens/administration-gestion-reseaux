@@ -7,8 +7,8 @@ Supports divers du cours d'administration et gestion des réseaux de BAC2
 
 ## Cours
 
-Le cours est essentiellement axé sur l'administration linux. Ms Windows n'y est
-(quasiment) pas abordé[^f1].
+Le cours[^f0] est essentiellement axé sur l'administration linux. Ms Windows n'y
+est (quasiment) pas abordé[^f1].
 
 Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
 
@@ -16,6 +16,8 @@ Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS
 - Les exercices se trouvent dans le répertoire [tds](tds). 
 - Les _slides_ se trouvent dans le répertoires [slides](slides).
 - La documentation dans le répertoire [doc](doc). 
+
+[^f0]: Je dis « cours » mais il s'agit bien d'une unité d'enseignement (UE) au sens du décret paysage. Actuellement, cette UE est constituée d'une seul activité d'apprentissage (AA). 
 
 [^f1]: Au vu du temps consacré à l'administration système dans l'option
     industrielle, il faut faire des choix. Choisir linux… est le bon :-)) 
