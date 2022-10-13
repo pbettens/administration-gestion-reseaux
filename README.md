@@ -1,6 +1,6 @@
 # AGR Administration et Gestion des Réseaux
 
-![](https://img.shields.io/badges/no-badge-orange)
+![](https://img.shields.io/badge/no-badge-orange)
 
 
 Supports divers du cours d'administration et gestion des réseaux de BAC2
