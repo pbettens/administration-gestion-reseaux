@@ -1,5 +1,9 @@
 # Todo…s
 
+- le cas du sudo 
+
+- SSH
+
 
 ## Système (les bases)
 

@@ -55,6 +55,7 @@ header-includes:
 	  \newcommand{\eintro}{\end{intro}}
 	  ```
 	#- \bibliographystyle{abbrv} not working, use csd
+	- \usepackage[french]{varioref}
 bibliography: 
 	- pitBiblio.bib 
 	- pitLiens.bib

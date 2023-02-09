@@ -145,7 +145,9 @@ représentation hexadécimale regroupe les octets par 2 séparés par deux point
 
 Il est permis de remplacer `0000` par `0` et de supprimer des groupes nuls tant que l'adresse ne devient pas ambiguë. L'adresse précédente peut s'écrire : 
 
-`2001:0db8:0:85a3::ac1f:8001`
+`2001:0db8:0:85a3::ac1f:8001`[^f040_148]
+
+[^f040_148]: Les $5^{e}$ et $6^{e}$ octets sont à 0 et peuvent être remplacés par `:0:` et les octets de 9 a 12 peuvent être remplacés par `::`.
 
 Les datagrammes IPv6 ont été simplifiés et ne comportent plus que 7 champs au
 lieu de 14 pour l'IPv4 ce qui accélère les traitements au niveau des routers. 
@@ -305,7 +307,8 @@ Par défaut le fichier `/etc/hosts` est lu avant de faire une requête DNS.
 ip a
 ip -6 a
 ip a show dev eth0
-ip a delete 2001:0db8:85a3…/64 dev eth0
+ip a delete 2001:0db8:85a3…/64 
+  dev eth0
 ```
 
 - montre toutes les interfaces réseaux (IPv4 et IPv6)
@@ -317,7 +320,8 @@ ip a delete 2001:0db8:85a3…/64 dev eth0
 
 ```bash
 ip r 
-ip r add default via 10.0.0.1 dev eth0
+ip r add default via 10.0.0.1 
+  dev eth0
 ip -6 r add 2001:db8:1::/64 \
     via 2001:db8:42::1 dev eth0
 ```

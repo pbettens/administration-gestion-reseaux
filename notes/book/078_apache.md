@@ -398,17 +398,15 @@ Un fois le certificat obtenu et déposé sur le serveur, le _virtual host_ peut
 
 #### Utilisation de _dehydrated_ pour gérer ses certificats
 
-\btwoc
 
 TODO
 
-\etwoc
 \yaline
 
 ## Le coin des commandes
 
 \btwoc
-
+\index{netcat}\index{nc}
 
 **`nc`, `ncat` ou `telnet`**
 

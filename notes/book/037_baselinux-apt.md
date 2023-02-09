@@ -1,4 +1,3 @@
-\clearpage
 
 ## Gestionnaire de paquet `apt` 
 
@@ -39,15 +38,15 @@ le fichier `/etc/apt/sources.list` qui pourrait avoir l'allure
 suivante[^f_037_2] :
 
 ```bash
-deb http://ftp.be.debian.org/debian/ \
-    buster main contrib non-free
-deb-src http://ftp.be.debian.org/debian/ \
-    buster main contrib non-free
+deb http://ftp.be.debian.org/\
+ debian/buster main contrib non-free
+deb-src http://ftp.be.debian.org/\
+ debian/buster main contrib non-free
 
-deb http://security.debian.org/ \
-    buster/updates main
-deb-src http://security.debian.org/ \
-    buster/updates main
+deb http://security.debian.org/\
+ buster/updates main
+deb-src http://security.debian.org/\
+ buster/updates main
 ```
 
 - _buster_ est le nom de la _release_ stable à l'heure de la rédaction de ces
@@ -69,7 +68,7 @@ deb-src http://security.debian.org/ \
 - `apt upgrade` met à jour le système en téléchargeant les paquets et en les installant sur le système ; 
 
 - `apt search <pattern>` fait une recherche dans la liste des paquets disponibles à la recherche d'un paquet correspondant au _pattern_ ;
-
+ 
 ```bash
 # apt search bind9
 En train de trier... Fait   
@@ -103,7 +102,7 @@ qui n'existe plus.
 
 [^f_037_2]: Pour une configuration en Belgique, choisir un miroir proche. Le miroir de son fournisseur d'accès est un bon choix. Si beaucoup de machines debian sont installées dans son entreprise maintenir un miroir local est sans doute une bonne idée.  
 
-[^f_037_3]: Il est conseillé de renseigner le nom de la _release_ plutôt que `stable` pour éviter un saut de version inopiné lors d'une mise à jour du système.  Chez debian, elles se nomment : Hamm, Slink, Potato, Woody, Sarge, Etch, Lenny, Squeeze, Wheezy, Jessie, Stretch, Buster et Bullseye.
+[^f_037_3]: Il est conseillé de renseigner le nom de la _release_ plutôt que `stable` pour éviter un saut de version inopiné lors d'une mise à jour du système.  Chez debian, elles se nomment : Hamm, Slink, Potato, Woody, Sarge, Etch, Lenny, Squeeze, Wheezy, Jessie, Stretch, Buster, Bullseye et Bookworm.
 
 
 \etwoc

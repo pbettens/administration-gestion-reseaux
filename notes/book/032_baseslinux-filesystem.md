@@ -1,4 +1,5 @@
 \yaline
+\clearpage
 
 ## Le système de fichiers
 
@@ -118,6 +119,7 @@ Remarques :
   se trouvant sur la machine. 
 
 \yaline
+\clearpage
 
 ### Chemins relatifs, chemins absolus
 
@@ -138,7 +140,9 @@ Par exemple :
 ```
 
 Les noms de fichiers **relatifs** sont relatifs au répertoire courant, ils
-s'expriment sans la référence à la racine `\`. Les raccourcis `.` et `..`
+s'expriment sans la référence à la racine `\`. 
+
+Les raccourcis `.` et `..`
 représentent respectivement le répertoire courant et le répertoire parent. 
 
 Par exemple si le répertoire courant est `/home/alice` : 
@@ -149,7 +153,6 @@ bin/yascript.sh
 ```
 \etwoc
 \yaline
-\newpage
 
 ### Les différents types de fichiers
 
@@ -203,7 +206,6 @@ total 8
 
 \etwoc
 \yaline
-\clearpage
 
 ### Les permissions
 

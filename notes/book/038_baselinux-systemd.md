@@ -1,4 +1,3 @@
-\clearpage
 
 ## Démarrage du système, `systemd`
 
@@ -41,8 +40,9 @@ Au démarrage du système, les étapes suivantes sont exécutées :
     `init` est (était) le script exécutant le fichier `/etc/inittab` et lançant
     ensuite l'exécution des scripts se trouvant dans `/etc/rci.d` où `i` est le
     _runlevel_ choisi au _boot_ de la machine. _Sys V_ a été abandonné au profit
-    de _systemd_ par debian avec _Jessie_.
+    de _systemd_ par debian avec _Jessie_[^f038_43].
 
+[^f038_43]: Ou _Debian 8_.  
 
 
 _systemd_ est un gestionnaire de système et de services pour linux. _systemd_
@@ -88,23 +88,27 @@ $ systemctl status 9823
 $ systemctl /dev/sda
 ```
 
+\clearpage
+
 _Exemple de sortie du status de bind9_  
+
+\etwoc
 
 ```bash
 $ systemctl status bind9
 ● bind9.service - BIND Domain Name Server
-Loaded: loaded (/lib/systemd/system/\ 
-bind9.service;\
-enabled; vendor preset: enabled)
-Active: active (running) since Tue \
-    2021-02-23 08:02:16 CET; 3 days ago
-    Docs: man:named(8)
-Main PID: 6792 (named)
-Tasks: 7 (limit: 4915)
-Memory: 16.4M
-CGroup: /system.slice/bind9.service
-        └─6792 /usr/sbin/named -u bind
+   Loaded: loaded (/lib/systemd/system/bind9.service; enabled; vendor preset: 
+           enabled)
+   Active: active (running) since Tue 2021-02-23 08:02:16 CET; 3 days ago 
+     Docs: man:named(8)
+ Main PID: 6792 (named)
+    Tasks: 7 (limit: 4915)
+   Memory: 16.4M
+   CGroup: /system.slice/bind9.service
+           └─6792 /usr/sbin/named -u bind
 ```
+
+\btwoc
 
 - `--failed` affiche les services qui ont échoués ; 
 

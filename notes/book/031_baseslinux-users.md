@@ -3,7 +3,7 @@
 
 \bintro
 
-Un système correctement administré a plus de _groups_ que de _users_. 
+Un système correctement administré a souvent plus de _groups_ que de _users_. 
 
 \eintro
 
@@ -50,7 +50,7 @@ user:x:1000:1000:user,,,:
   en minuscules, sans accents ni caractères spéciaux. La longueur est limitée à
   16 caractères;
 
-- `passwd` contenait anciennement le mot de passe hashé associé au compte.
+- `/etc/passwd` contenait anciennement le mot de passe hashé associé au compte.
   Aujourd'hui, _linux_ ne laisse plus un hash en lecture et le mot de passe ne
   se trouve plus[^f031_1] dans `/etc/passwd`.
 
@@ -67,8 +67,8 @@ user:x:1000:1000:user,,,:
     Ce champ peut aussi prendre la valeur « `*` » qui précise qu'il n'est pas
     possible de se connecter au compte avec `login` ou la valeur « `!` » qui
     empêche toute connexion au compte. Ces valeurs sont généralement utilisées
-    pour les comptes de service. Les comptes qui sont utilisés par les services
-    et qui ne sont pas destinés pour qu'une personne puisse s'y logger. 
+    pour les comptes de service. Ce sont des comptes utilisés par les services
+    et qui ne sont pas destinés à connecté un _user_. 
 
 - `uid` est l'_user id_, l'identifiant unique de l'utilisateur. La valeur 0 est
   celle de _root_, les autres sont libres. Les premières valeurs sont utilisées
@@ -103,7 +103,7 @@ concernant les mots de passe des comptes et leurs dates de validité.
 
 `# cat /etc/shadow`
 ```bash
-user:$6$0--cut--Z3U/:17309:0:99999:7:::
+user:$6$0--cut--Z17309:0:99999:7:::
 ```
 
 Ce fichier ne doit pas être accessible en lecture par les utilisateurices
@@ -122,6 +122,12 @@ Chaque ligne de ce fichier contient 9 champs, séparés par des deux-points
   caractères `!` ou `*`, alors l'utilisateur ou l'utilisatrice ne pourra pas
   utiliser son mot de passe UNIX pour se connecter (mais il se peut que
   le compte puisse se connecter au système par d'autres moyens).
+
+    L'algorithme de chiffrement utilisé est renseigné dans le fichier `/etc/login.defs`. Ce devrait être au moins `SHA512`
+
+    ```bash 
+    ENCRYPT_METHOD SHA512
+    ```
   
 - `date du dernier changement de mot de passe` la date du dernier changement de
   mot de passe, exprimée en nombre de jours depuis le 1^er^ janvier 1970.
@@ -192,6 +198,23 @@ alice@harmony:~$ tree -a /etc/skel
 Un manière simple de désactiver un compte est de changer son _shell_ dans le
 fichier `/etc/passwd` et le remplacer par `/bin/false` par exemple. 
 
+
+### Le cas de `sudo`
+
+\index{sudo}
+
+Certaines tâches d'administration ne peuvent être réalisées que par _root_. Pour ces tâches : 
+
+- il est possible de changer d'identité et devenir _root_ grâce à la commande `su` ou;
+- il est également possible d'exécuter la commande en tant que _root_ grâce à la commande `sudo`. 
+
+Pour devenir _root_ — avec `su` — il est nécessaire de fournir le mot de passe _root_ tandis que pour exécuter une commande en tant que _root_ — avec `sudo` — il faut  fournir le mot de passe de l'utilisateur et avoir été préalablement autorisé par _root_ à exécuter cette commande. 
+
+Les actions faites avec `sudo` sont loguées. 
+
+`sudo` est un utilitaire qu'il est nécessaire d'installer et configurer[^f031_213].
+
+[^f031_213]: Certaines distributions l'installe par défaut, d'autres non. 
 
 ### Choisir un bon mot de passe
 
@@ -282,7 +305,7 @@ Ajoute un compte utilisateur système.
 
 - Un répertoire personnel est également créé. 
 
-- Le shell par défaut sera `/usr/sbin/nologin`.
+- Le shell par défaut sera `/usr/sbin/`-`nologin`.
 
 ```bash 
 adduser --group <groupname>
@@ -392,6 +415,12 @@ L'option `-` (ou `-l` ou `--login`) lance le _shell_ comme un _shell_ de login:
 su -
 su alice -c "ls -il"
 ```
+
+### `sudo`
+
+\index{sudo}
+
+La commande `sudo` permet d'exécuter une commande en tant que _root_ ou d'une autre _user_. La commande est loguée.  
 
 [^f_035_1]: Ce point est source d'erreurs. Une exécution de `su` — sans le `-`
 donc — ne charge pas le `PATH` de _root_ mais conserve celui de l'utilisateurice

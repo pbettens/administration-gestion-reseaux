@@ -1,4 +1,3 @@
-\yaline
 
 ## Tâches périodiques `cron`
 

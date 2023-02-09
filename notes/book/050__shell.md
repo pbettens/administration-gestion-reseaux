@@ -97,8 +97,11 @@ Une **commande composée** est l'une des constructions suivantes (la liste n'est
 - `for <name> in word… ; do <list>; done`
 
   ```bash
-  $ for i in $(seq 10); do echo $i; done
-  $ for i in one two three; do touch $i; done
+  $ for i in $(seq 10); do 
+    echo $i; done
+  $ for i in one two three; do 
+      touch $i; 
+    done
   ```
   - affiche les valeurs de 1 à 10
   - crée les trois fichiers `one`, `two` et `three`
@@ -106,7 +109,7 @@ Une **commande composée** est l'une des constructions suivantes (la liste n'est
 - `for (( expr1 ; expr2 ; expr3 )); do <list>; done`
 
   ```bash
-  $ for (( i=0 ; i < 10 ; i++ )) ; do 
+  $ for ((i=0 ; i < 10 ; i++)) ; do 
   >   echo $i; 
   > done
   ```
@@ -188,7 +191,8 @@ $ echo a{b,c,d}e
 abe ace ade
 ```
 
-Pratique par exemple pour créer plusieurs répertoires `mkdir /tmp/dir-{one,twe}`.
+Pratique par exemple pour créer plusieurs répertoires   
+`mkdir /tmp/dir-{one,twe}`.
 
 **2** Le **développement du tilde** de manière simplifiée se remplace par la
 valeur de `HOME`. Tous les caractères précédent de premier slash « `/` » sont
@@ -434,7 +438,8 @@ $ chmod go-rw !!:2
 chmod go-rw \
   /really/a/very/long/path/other.conf
 $ ls -l !cp:2
-ls -l /really/a/very/long/path/other.conf
+ls -l /really/a/very/long/path/\
+  other.conf
 -rw------- 1 bob bob 0 fév 24 10:22 \
   /really/a/very/long/path/other.conf
 ```
@@ -666,6 +671,7 @@ fichier. Voir `man bash`.
 ### tail
 
 \index{tail}
+\label{command:tail}
 
 `tail [-n]` affiche les _n_ dernières lignes d'un fichier. Par défaut, _n_ vaut 10. D'autres options sont disponibles (cfr. `man tail`)
 
@@ -678,6 +684,7 @@ fichier. Voir `man bash`.
 ### grep
 
 \index{grep}
+\label{command:grep}
 
 `grep [options] patterns [file…]` recherche chaque _patterns_ dans chaque fichier _file_. `grep` peut lire sur l'entrée standard `-`. Voici quelques options (pour d'autres options, `man grep`) :
 
@@ -685,7 +692,7 @@ fichier. Voir `man bash`.
 - `-v` inverse la sélection, donne les lignes qui ne correspondent pas au _pattern_ ;
 - `-c` n'affiche pas les lignes mais les comptes (_count_) ;
 - `-m num` arrête de chercher après _num_ lignes correspondant au _pattern_ ; 
-
+- `-r` demande une recherche récursive à partir du répertoire renseigné, dans tous les sous-répertoires…
 
 
 

@@ -30,7 +30,8 @@ etc.
 Il n'est pas nécessaire d'être un développeur ou une développeuse pour prendre
 en charge l'administration des réseaux mais il est essentiel de bien connaitre
 _son_ éditeur de texte ou de code[^f_editeur] et son interprèteur de commandes.
-Être à l'aise avec l'écriture de scripts `bash` ou autre.
+Être à l'aise avec l'écriture de scripts `bash` ou autre est un atout non
+négligeable.
 
 Les actions faites par _root_ ont souvent un impact sur les
 utilisateurices[^f_inclusion]. Elles peuvent les empêcher de travailler. Une
@@ -38,7 +39,7 @@ bonne résistance au stress et une capacité à être _multi-tâche_ aidera à
 répondre aux demandes. Il sera parfois nécessaire de dire non à des demandes qui
 ne sont pas réalisables — bien qu'elles puissent paraitre[^f_renouvo] naturelles
 à la personne demandeuse qui n'a pas du vue globale sur le système
-d'information. 
+d'information ou illégales bien que techniquement faisables. 
 
 Dans son rôle d'administration, _root_ a accès à des informations
 confidentielles. Son éthique doit être irréprochable. 

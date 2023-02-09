@@ -85,7 +85,9 @@ manuel :
 Le processus parent de tous les processus est **init** de _pid_ 1.
 
 Un processus peut être lancé en tâche de fond (_background_) en entrant la
-commande suivie d'une esperluette `&`. 
+commande suivie d'une esperluette `&`.
+
+\index{esperluette}
 
 Un processus peut-être stoppé en lui envoyant le signal `SIGSTOP` au moyen, par exemple, d'un `Ctrl-Z`. Il peut alors être relancé — continué — en le plaçant en tâche de fond (_background_) _via_ `bg <job number>` par exemple.
 
@@ -101,6 +103,7 @@ Un processus peut-être stoppé en lui envoyant le signal `SIGSTOP` au moyen, pa
 #### `ps`
 
 \index{ps}
+\label{command:ps}
 
 `ps` liste les processus du système. Sans option[^f_033_2], liste les processus associés à la console (`TTY`) courant.
 
@@ -111,7 +114,7 @@ Un processus peut-être stoppé en lui envoyant le signal `SIGSTOP` au moyen, pa
 - `ax`, `-e`, `-A` liste tous les processus; 
 - `faux` liste tout des processus sans restreindre aux processus de _user_
   (`a`), sans restreindre aux processus sans TTY (`x`), les sélectionne par
-  _uid_ (`u`) et les affiche dans le format _full_ (`f`). Ce format implique
+  _uid_ (`u`) et les affiche dans le format _full_ (`f`). Ce format
   liste les processus sous forme d'arbre. 
 
 #### `kill`
