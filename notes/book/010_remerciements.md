@@ -2,7 +2,7 @@
 
 **Administration et gestion des réseaux**
 
-_version pre pre alpha_
+_version alpha_
 
 Date de publication \today
 
@@ -14,10 +14,12 @@ traducteurs et traductrices des pages de manuel et de Wikipedia.
 
 \index{man}
 
-FIXME
-
 J'en profite pour remercier tout particulièrement toutes celles et tous ceux qui
 aiment bien être remerciés. 
 
-Licence CC-BY-NC-SA 4.0[@ccbyncsa] 2021 Pierre Bettens `pbettens@he2b.be`  
+Licence CC-BY-NC-SA 4.0[@ccbyncsa] 2021-2024 
+
+Pierre Bettens  
+`pbettens@he2b.be`  
+`bettensp@helha.be`
 

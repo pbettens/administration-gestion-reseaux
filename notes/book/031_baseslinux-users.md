@@ -68,7 +68,7 @@ user:x:1000:1000:user,,,:
     possible de se connecter au compte avec `login` ou la valeur « `!` » qui
     empêche toute connexion au compte. Ces valeurs sont généralement utilisées
     pour les comptes de service. Ce sont des comptes utilisés par les services
-    et qui ne sont pas destinés à connecté un _user_. 
+    et qui ne sont pas destinés à connecter un _user_. 
 
 - `uid` est l'_user id_, l'identifiant unique de l'utilisateur. La valeur 0 est
   celle de _root_, les autres sont libres. Les premières valeurs sont utilisées

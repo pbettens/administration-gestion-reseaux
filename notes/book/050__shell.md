@@ -192,7 +192,7 @@ abe ace ade
 ```
 
 Pratique par exemple pour créer plusieurs répertoires   
-`mkdir /tmp/dir-{one,twe}`.
+`mkdir /tmp/dir-{one,two}`.
 
 **2** Le **développement du tilde** de manière simplifiée se remplace par la
 valeur de `HOME`. Tous les caractères précédent de premier slash « `/` » sont
@@ -414,7 +414,7 @@ Encore derrière ces _word designators_ peuvent se trouver des modificateurs  (_
 - `gs/old/new` remplace toutes les occurrences de `old` par `new` ;
 
 
-Voici quelques usages[^f_050_6] : 
+Voici quelques usages dont certains sont issus de [_The geek stuff_][thegeekstuff] : 
 
 ```bash
 $ ls /etc/apache2/apache2.conf
@@ -494,7 +494,7 @@ En voici quelques unes, pour la liste complète, consulter le manuel `man bash`�
 - `exit [n]` quitte le shell avec la valeur de retour _n_ si elle est fournée, 0
   sinon ; 
 
-- `ft jobid` place le _job_ en avant plan (_foreground_) ;
+- `fg jobid` place le _job_ en avant plan (_foreground_) ;
 
 - `help [-dms] [pattern]` donne de l'aide sur une commande interne. L'option `-d` donne une description courte, `-m` donne l'aide dans un format _man page_ et `-s` donne un usage court ;  
 
@@ -635,7 +635,7 @@ fi
 sortie d'erreur standard. Il est possible de rediriger d'autres descripteurs de
 fichier. Voir `man bash`.
 
-[^f_050_6]: Certains exemples sont issus de [thegeekstuff](https://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history/).
+[thegeekstuff]: https://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history
 
 ## Astuces et raccourcis `bash`
 

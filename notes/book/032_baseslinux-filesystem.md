@@ -188,7 +188,7 @@ Les différents types de fichiers sont :
 ```bash
 $ echo "foo" > file
 $ ln file fileln
-$ ln -s file filens
+$ ln -s file filelns
 $ ls -il 
 total 8
 262155 -rw-r--r-- 2 pbt pbt 5 fév 18 22:52 file

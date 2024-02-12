@@ -372,11 +372,13 @@ Le répertoire `/etc/ldap` contient :
 - un répertoire `slapd.d` contenant l'annuaire de configuration de _openLDAP_. 
 
 La configuration de l'annuaire est stockée… dans un autre annuaire nommé
-`cn=config`. 
-
-![](resources/images/openldap-sampleconfigtree.png)
+`cn=config`. Voir figure \vref{fig:ldaptree}.
 
 \etwoc
+
+![Exemple d'un arbre de configuration](resources/images/openldap-sampleconfigtree.png){#fig:ldaptree width=65%}
+
+
 \yaline
 
 ### Schémas
@@ -663,6 +665,5 @@ description: Il s'appelle Juste Leblanc.
 
 
 
-**`ldapmodify`** TODO
 
 \etwoc

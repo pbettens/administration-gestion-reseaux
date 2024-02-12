@@ -40,7 +40,7 @@ Au démarrage du système, les étapes suivantes sont exécutées :
     `init` est (était) le script exécutant le fichier `/etc/inittab` et lançant
     ensuite l'exécution des scripts se trouvant dans `/etc/rci.d` où `i` est le
     _runlevel_ choisi au _boot_ de la machine. _Sys V_ a été abandonné au profit
-    de _systemd_ par debian avec _Jessie_[^f038_43].
+    de _systemd_ par debian avec _Jessie_ [^f038_43].
 
 [^f038_43]: Ou _Debian 8_.  
 
@@ -88,11 +88,10 @@ $ systemctl status 9823
 $ systemctl /dev/sda
 ```
 
-\clearpage
+\etwoc
 
 _Exemple de sortie du status de bind9_  
 
-\etwoc
 
 ```bash
 $ systemctl status bind9
@@ -113,7 +112,7 @@ $ systemctl status bind9
 - `--failed` affiche les services qui ont échoués ; 
 
 - `list-units [pattern]` affiche les unités que _systemd_ a actuellement en
-  mémoire[^f_038_2] ;
+  mémoire [^f_038_2] ;
 
     ```bash
     $ systemctl list-units \

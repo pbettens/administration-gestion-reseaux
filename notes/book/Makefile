@@ -10,7 +10,7 @@ LCC := rubber
 TEMPFILE := out.tex 
 TMPDIR := build#$(shell mktemp -d)
 CFLAGS := \
-	--filter pandoc-citeproc \
+	--citeproc \
 	-V links-as-notes=true \
 	--pdf-engine=xelatex \
 	--highlight-style=tango \

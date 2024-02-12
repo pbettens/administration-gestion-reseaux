@@ -39,17 +39,17 @@ suivante[^f_037_2] :
 
 ```bash
 deb http://ftp.be.debian.org/\
- debian/buster main contrib non-free
+ debian/bookworm main contrib non-free
 deb-src http://ftp.be.debian.org/\
- debian/buster main contrib non-free
+ debian/bookworm main contrib non-free
 
 deb http://security.debian.org/\
- buster/updates main
+ bookworm/updates main
 deb-src http://security.debian.org/\
- buster/updates main
+ bookworm/updates main
 ```
 
-- _buster_ est le nom de la _release_ stable à l'heure de la rédaction de ces
+- _bookworm_ est le nom de la _release_ stable à l'heure de la révision de ces
   notes[^f_037_3]. 
 
 - _main contrib non-free_ seul _main_ est nécessaire à l'installation du

@@ -2,9 +2,9 @@
 title: |
 	\Huge\bf\colorbox{munsell}{\color{white} Administration et gestion des réseaux}
 author: \color{white}\huge\bf Pierre Bettens
-date: \color{white}\texttt{pbettens@he2b.be}
+date: \color{white}\textit{Un grand pouvoir implique de grandes responsabilités}
 abstract: |
-	version _pre alpha_
+	version _alpha_
 geometry: margin=3cm
 fontsize: 12pt
 highlight-style: tango
@@ -71,10 +71,11 @@ mathfont: texgyredejavu-math.otf
 
 <!-- ajout d'une image et du logo -->
 \ThisULCornerWallPaper{1}{resources/images/vic20.jpg}
-\vspace{-10mm}
+<!--\vspace{-10mm}
 \begin{flushright}
 \includegraphics[width=40mm]{resources/images/HE2B-Logo-ESI.png}
 \end{flushright}
+-->
 
 \thispagestyle{empty}
 

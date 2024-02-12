@@ -12,7 +12,7 @@
 ![](resources/images/reseaux.png)
 
 Cette section se veut un rappel sur les concepts réseaux utiles au cours et à
-l'administrateurice[^f_inclusion] réseaux. Pour plus de détails, nous renvoyons
+l'administrateurice [^f_inclusion] réseaux. Pour plus de détails, nous renvoyons
 le lecteur aux formations CISCO par exemple. 
 
 \etwoc
@@ -160,13 +160,13 @@ La notion de masque subsiste. Le préfixe est l'élément commun à toutes les a
 
 Le _broadcast_ est remplacé par le _multicast_. 
 
-Les types d'adresse IPv6[@iana-ipv6] [@goffinet] : 
+Les types d'adresse IPv6 [@iana-ipv6] [@goffinet] : 
 
 - les adresses _unicast_ désignant une destination unique (un hôte) : 
 
     - la boucle locale (_localhost_) `::1/128` ;
     - l'adresse locale (_link local_) `FE80::/10` non routable utilisable au sein d'un réseau local ;
-    - l'adresse publique (_global unicast_) `2000::/3`[^f_040_2] ;
+    - l'adresse publique (_global unicast_) `2000::/3` [^f_040_2] ;
     - l'adresse privée (_unique local_) `FC00::/7` est l'équivalent des plages d'adresses privées en IPv4. Le 8^e^ bit doit être positionné à 1 ce qui donne le préfique `FD00::/8` pour un réseau local ;
     
 - les adresses  _anycast_ qui sont des adresses pour lesquels le chemin emprunté
@@ -273,7 +273,7 @@ Chaque système porte un nom, son nom d'hôte (_hostname_) qui associé au nom d
 
 Sur une machine linux, le nom d'hôte est renseigné dans `/etc/hostname`. Il peut être lu ou changé _via_ la commande `hostname`. 
 
-Le nom de domaine est donné par la commande `dnsdomanname` pour obtenir le nom dns et `[yp]domainname` pour obtenir le nom de domaine au sens NIS/YP (_yellow pages_)[^f_040_3]. 
+Le nom de domaine est donné par la commande `dnsdomainname` pour obtenir le nom dns et `[yp]domainname` pour obtenir le nom de domaine au sens NIS/YP (_yellow pages_)[^f_040_3]. 
 
 \index{fqdn}
 
@@ -299,7 +299,7 @@ Par défaut le fichier `/etc/hosts` est lu avant de faire une requête DNS.
 
 ### `ip`
 
-`ip` est la commande à tout faire pour la configuration du réseau[^f_040_4]. Elle se présente comme `ip <object> [<command>]` par défaut, c'est la commande `show` (_alias_ pour `list`) qui est exécutée. Les objets peuvent être abrégés. 
+`ip` est la commande à tout faire pour la configuration du réseau [^f_040_4]. Elle se présente comme `ip <object> [<command>]` par défaut, c'est la commande `show` (_alias_ pour `list`) qui est exécutée. Les objets peuvent être abrégés. 
 
 `ip address` (ou `ip a`) pour l'adressage IPv4 ou IPv6. 
 
