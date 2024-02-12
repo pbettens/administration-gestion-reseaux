@@ -1,6 +1,6 @@
 # AGR Administration et Gestion des Réseaux
 
-![](https://img.shields.io/badge/no-badge-orange)
+![](https://img.shields.io/badge/powered_by-hand-orange?style=for-the-badge) ![](https://img.shields.io/badge/with_♥-red?style=for-the-badge)
 
 
 Supports divers du cours d'administration et gestion des réseaux de BAC2
@@ -10,7 +10,7 @@ Supports divers du cours d'administration et gestion des réseaux de BAC2
 
 ## Cours
 
-Le cours[^f0] est essentiellement axé sur l'administration linux. Ms Windows n'y
+Le cours[^f0] est essentiellement axé sur l'administration linux. MS Windows n'y
 est (quasiment) pas abordé[^f1].
 
 Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
