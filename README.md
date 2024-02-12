@@ -13,7 +13,9 @@ Supports divers du cours d'administration et gestion des réseaux de BAC2
 Le cours[^f0] est essentiellement axé sur l'administration linux. MS Windows n'y
 est (quasiment) pas abordé[^f1].
 
-Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS, SAMBA, PAM, LDAP et Apache.  
+Les sujets abordés sont, outre les « rappels » linux et réseaux : DNS et DNSSEC, SAMBA, PAM, LDAP et HTTP-s et Apache.  
+
+### Organisation 
 
 - Le syllabus (_en cours de rédaction_) se trouve dans le répertoire [book](notes/book).
 - Les exercices se trouvent dans le répertoire [tds](tds). 
