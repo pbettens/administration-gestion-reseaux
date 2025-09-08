@@ -6,7 +6,11 @@
 Supports divers du cours d'administration et gestion des réseaux de BAC2
 «&nbsp;informatique industrielle&nbsp;» à HE2B-ESI.
 
-[Fiche UE du cours](https://horaires.esi-bru.be/he2besi-web/online/cours/ac2021_agri4_agr.html)
+**Ce cours a été supprimé en 2021.**  
+**Ce dépôt n'est plus maintenu.**  
+**Consulter éventuellement [github.com/esibru/5agr1i](https://github.com/esibru/5agr1i).**
+
+[Fiche UE du cours (2020-2021)](https://horaires.esi-bru.be/he2besi-web/online/cours/ac2021_agri4_agr.html)
 
 ## Cours
 
